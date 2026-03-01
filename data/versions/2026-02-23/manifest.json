@@ -1,6 +1,6 @@
 {
   "version": "2026-02-23",
-  "created_at": "2026-03-01T10:09:26.583860",
+  "created_at": "2026-03-01T10:15:39.870017",
   "discount_period": {
     "from": "2026.01.28",
     "to": "2026.03.22"
@@ -21,7 +21,7 @@
     "images_dir": "images/products/"
   },
   "checksum": {
-    "products": "sha256:a0d76e0fbbaba127..."
+    "products": "sha256:d40c990ccfb77d36..."
   },
   "previous_version": null,
   "next_crawl_suggested": "2026-03-02"
