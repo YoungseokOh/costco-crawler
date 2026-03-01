@@ -51,3 +51,8 @@ Private repo side must have:
 ## License
 
 MIT
+
+## Docs
+
+- See [docs/README.md](docs/README.md) for automation flow, operations runbook,
+  troubleshooting, and xAI image PoC guidance.
