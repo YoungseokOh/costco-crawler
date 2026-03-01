@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+
+# Env / local settings
+.env
+.env.*
+.DS_Store
+Thumbs.db

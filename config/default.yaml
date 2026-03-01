@@ -1,0 +1,31 @@
+# 코코달인 크롤러 기본 설정
+
+api:
+  base_url: "https://www.cocodalin.com/api/front"
+  image_base_url: "https://image.cocodalin.com/product"
+  
+  endpoints:
+    notice: "/notice"
+    categories: "/saleSummary"
+    popular: "/bestLikeProducts"
+    products_by_category: "/productList/{category_id}"
+    product_detail: "/productView/detail/{product_id}"
+    product_history: "/productView/{product_id}"
+    search: "/productSearch/{query}"
+    holiday: "/holiday"
+
+request:
+  headers:
+    User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    Accept: "application/json"
+    Accept-Language: "ko-KR,ko;q=0.9"
+    Referer: "https://www.cocodalin.com/"
+  
+  delay: 0.5        # 요청 간 딜레이 (초)
+  max_retries: 3    # 최대 재시도 횟수
+  timeout: 10       # 요청 타임아웃 (초)
+
+storage:
+  raw_data_file: "products.json"
+  categories_file: "categories.json"
+  crawl_log_file: "crawl_log.json"

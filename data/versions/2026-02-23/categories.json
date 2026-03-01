@@ -1,0 +1,86 @@
+[
+  {
+    "category_image": "신선식품,빵",
+    "category_name": "신선식품,빵",
+    "category_id": 7,
+    "product_cnt": 25,
+    "category_order": 1
+  },
+  {
+    "category_image": "냉장,냉동",
+    "category_name": "냉장,냉동",
+    "category_id": 9,
+    "product_cnt": 51,
+    "category_order": 2
+  },
+  {
+    "category_image": "가공식품",
+    "category_name": "가공식품",
+    "category_id": 10,
+    "product_cnt": 63,
+    "category_order": 3
+  },
+  {
+    "category_image": "음료,주류",
+    "category_name": "음료,주류",
+    "category_id": 11,
+    "product_cnt": 36,
+    "category_order": 4
+  },
+  {
+    "category_image": "커피,차",
+    "category_name": "커피,차",
+    "category_id": 8,
+    "product_cnt": 7,
+    "category_order": 5
+  },
+  {
+    "category_image": "과자,간식",
+    "category_name": "과자,간식",
+    "category_id": 12,
+    "product_cnt": 27,
+    "category_order": 6
+  },
+  {
+    "category_image": "디지털,가전",
+    "category_name": "디지털,가전",
+    "category_id": 1,
+    "product_cnt": 20,
+    "category_order": 21
+  },
+  {
+    "category_image": "주방,욕실",
+    "category_name": "주방,욕실",
+    "category_id": 2,
+    "product_cnt": 35,
+    "category_order": 22
+  },
+  {
+    "category_image": "의류,잡화",
+    "category_name": "의류,잡화",
+    "category_id": 3,
+    "product_cnt": 33,
+    "category_order": 23
+  },
+  {
+    "category_image": "생활용품",
+    "category_name": "생활용품",
+    "category_id": 4,
+    "product_cnt": 23,
+    "category_order": 24
+  },
+  {
+    "category_image": "건강,미용",
+    "category_name": "건강,미용",
+    "category_id": 5,
+    "product_cnt": 46,
+    "category_order": 25
+  },
+  {
+    "category_image": "공구,문구",
+    "category_name": "공구,문구",
+    "category_id": 6,
+    "product_cnt": 5,
+    "category_order": 26
+  }
+]
