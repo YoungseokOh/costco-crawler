@@ -86,7 +86,7 @@ jobs:
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Dispatch private deployment workflow
-        if: steps.commit.outputs.changed == 'true'
+        if: ${{ steps.commit.outputs.changed == 'true' || (github.event_name == 'workflow_dispatch' && github.event.inputs.force == 'true') }}
         env:
           TOKEN: ${{ secrets.PRIVATE_REPO_DISPATCH_TOKEN }}
           PRIVATE_REPO: YoungseokOh/hack-the-costco
