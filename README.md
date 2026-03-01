@@ -2,15 +2,16 @@
 
 Public crawler repository for Costco deal data.
 
-## What this repo does
+## Overview
 
-- Crawls latest product/discount data
-- Stores versioned datasets under `data/versions/`
-- Maintains `data/current` as the latest version pointer
-- Runs on GitHub Actions (public minutes)
-- Notifies private deploy repo after successful update
+This repository:
+- Crawls the latest product and discount data
+- Stores versioned snapshots under `data/versions/`
+- Maintains `data/current` as a symlink to the latest version
+- Runs on GitHub Actions
+- Dispatches private deployment after crawl completion
 
-## Quick start
+## Quick Start
 
 ```bash
 python3 -m pip install -e ".[dev]"
@@ -19,7 +20,7 @@ python3 -m crawler.cli crawl
 python3 scripts/validate_products_schema.py
 ```
 
-## Repo layout
+## Repository Layout
 
 ```text
 crawler/                  # crawler package
@@ -32,27 +33,34 @@ data/versions             # versioned datasets
 
 ## GitHub Actions
 
-- `test.yml`: runs lint/tests/schema checks on push/PR
-- `crawl.yml`: scheduled crawling + optional dispatch to private repo
+- `test.yml`: schema validation and tests on push/PR
+- `crawl.yml`: scheduled crawl and dispatch to private deployment workflow
 
-### Required secret for dispatch
+### Manual Force Run
 
-Set this in this public repo if you want automatic private deployment:
+If you run `crawl.yml` manually with `force=true`:
+- Crawling is executed regardless of update-check result
+- Private dispatch is also executed even when no data commit is created
 
-- `PRIVATE_REPO_DISPATCH_TOKEN`:
-  Personal Access Token with permission to dispatch workflows to
-  `YoungseokOh/hack-the-costco`.
+## Required Secret (Public Repo)
 
-Private repo side must have:
+- `PRIVATE_REPO_DISPATCH_TOKEN`
+  - Personal access token that can call `repository_dispatch` on:
+  - `YoungseokOh/hack-the-costco`
+
+## Required Setup (Private Repo)
 
 - `.github/workflows/deploy_from_crawler.yml`
-- `FIREBASE_TOKEN` secret configured
+- `FIREBASE_TOKEN` secret
+
+## Documentation
+
+- See [docs/README.md](docs/README.md) for:
+  - automation flow
+  - operations runbook
+  - troubleshooting
+  - xAI image PoC notes
 
 ## License
 
 MIT
-
-## Docs
-
-- See [docs/README.md](docs/README.md) for automation flow, operations runbook,
-  troubleshooting, and xAI image PoC guidance.
