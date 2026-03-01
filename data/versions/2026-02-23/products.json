@@ -20,9 +20,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10658.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "aef7d8a98ab659e4b161a3e286940f63b1384ed42ebb65a9b0160e0f5c12c78a"
   },
   {
@@ -46,9 +46,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10378.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a2f4eaaeab1f081d2be55314bafc185ca84d637033f97b3fcff1b00086376378"
   },
   {
@@ -72,9 +72,9 @@
     "quantity": "2CT/ PACK",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10343.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0de1141c07208166c1448c67d8d92dbc00f060aaec7895b4d79a2717891935de"
   },
   {
@@ -98,9 +98,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3393.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1d29bb414b9047dc1a14d57370695a88d77461d43ae71e34327f67b89c174d77"
   },
   {
@@ -124,9 +124,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5574.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c940f3f4db104ce1bbcabea8cb06772aae90d404ec0804016dc1815eff880603"
   },
   {
@@ -152,9 +152,9 @@
       "KG당 단가"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10597.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "025e6859823ff4bf0db603ea5c69da2a84f13a02f605fa0ee12c7789afbd8fca"
   },
   {
@@ -180,9 +180,9 @@
       "KG당단가"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10598.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "871c4ce88f4be7cc122bc4f918e151b6fc859c5bb90e9443f77b0781d5393729"
   },
   {
@@ -206,9 +206,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10026.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f3d05d859cf0627455ddafe161ecebb96b807709a64c97d6e513adc075cba263"
   },
   {
@@ -232,9 +232,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10759.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "be4e8519d19ba856e769f7bff519ca2dc96161f172c92fee0336d3af40eaa6cd"
   },
   {
@@ -258,9 +258,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/901.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0c09985900013607fc86c30bc827ab062d255e21d631b1ed49cfd996fb5a3fe2"
   },
   {
@@ -286,9 +286,9 @@
       "KG당단가"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1303.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "49380e0243d105b0150ed0eaf3451fc9a5128defbd1dca3f6fad2693a8f9d5cb"
   },
   {
@@ -312,9 +312,9 @@
     "quantity": "8CT/ PACK",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10659.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c0916d402ccb2f73317275c9c51bf3ef90dae0a75bff85667567544f34c1445f"
   },
   {
@@ -340,9 +340,9 @@
       "KG당단가"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10599.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4acef0afa7407a80ff79a57c0db6846b9a30a49185e4b0c0a30b81ee55be9d11"
   },
   {
@@ -366,9 +366,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10437.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7ac32978d79c9e4ed21eab7d8d888146a52fcd4614c82bca2e58d400c06ced24"
   },
   {
@@ -392,9 +392,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2566.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9698dfce3ffe74a207bdb4617f4bb40092f354e4ba29d7dc31b1ecff788e3164"
   },
   {
@@ -418,9 +418,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2565.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c47dfe27eb7b21880da2d81e958801c8a9be3156d5cc4127536eaff594003560"
   },
   {
@@ -444,9 +444,9 @@
     "quantity": "X 10",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7994.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "746033044bb888114a9d8076bf775156021de5bb03a47152e0440530e6178f99"
   },
   {
@@ -470,9 +470,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2897.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9f15a5e68d58eb272be6e1d68d3d1ab6ae22b45ce1f2508fc51c3296503380c3"
   },
   {
@@ -496,9 +496,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10509.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "046a7c4fc3c4bc85c2929543c8746016f14220f0c569fe3bc78e771bdb2fd397"
   },
   {
@@ -522,9 +522,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5547.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "31ffa585a544003ff5330fe7c352b8f801ad61b50aa98187ca6495394b47c081"
   },
   {
@@ -548,9 +548,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7057.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a3e15df4aabb1e59957d7dd228949ef184649b9d98784d4c7ea20bdb621bd525"
   },
   {
@@ -574,9 +574,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10705.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "615a11b0d521b434c058ad56586caf80f143e728a770ec4379845377a15c577b"
   },
   {
@@ -600,9 +600,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10774.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "97b615a366ab77f311f635bab2b5b5e6908a3907eaf3c3cc63194d1984187276"
   },
   {
@@ -626,9 +626,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2138.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0b2bfc84fdf383a930c132c01a3c88b346edd5d03527171b397b8c8370bfafc1"
   },
   {
@@ -652,9 +652,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10760.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cfe37c9003fbd2aa55515aa76605e22d8277bf3d0afd04111d5e05ea75447e40"
   },
   {
@@ -678,9 +678,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2670.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "af02cc4c6367d355431cead2d98bcd6ef41693b26ed99be0fff1745e02752ef0"
   },
   {
@@ -706,9 +706,9 @@
       "KG당 단가"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10757.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b694b0f06653bc0750ab58227cdb09739a4066da37b9d80585d882566c4bbbbf"
   },
   {
@@ -734,9 +734,9 @@
       "KG당 단가"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10758.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f833ca4d4b4af23eb5c4fe729b14a1384a83ffe48ea935d6566954d23ad1ac89"
   },
   {
@@ -760,9 +760,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3077.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "57f48228c8d8ec63a52c8f61c7751a342b86a452505b524f397c1beed6a98f3d"
   },
   {
@@ -786,9 +786,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10508.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "841e277bd8bdb9aa590c976396a304fe62684364c24e7e7d22f2377b15bda3bc"
   },
   {
@@ -812,9 +812,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8837.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "74e18559284b75c1310d12e566b3470df82ab961eb76f1cf204cd13c03fd9adf"
   },
   {
@@ -838,9 +838,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10777.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "588a5141837e1df782cd68c1b7b6c9e24507359ef4c79dc008cf84495ef0afee"
   },
   {
@@ -864,9 +864,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10776.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "32c446fd130ca802edf5064b09604df75c54cf85a776adcc357d8d29f2e25fca"
   },
   {
@@ -890,9 +890,9 @@
     "quantity": "X2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1629.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "77051b5b5d9a311c10e952011be54d6acefe7a5bd5a6d25cf0d5ec4cf7b13357"
   },
   {
@@ -908,7 +908,7 @@
     "normal_price": 14990,
     "to_date": "2026.03.01",
     "product_id": 6132,
-    "like_cnt": 4593,
+    "like_cnt": 4594,
     "image_url": "https://image.cocodalin.com/product/sm/BIBIGO%20%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%99%95%EA%B5%90%EC%9E%90%201_925G.jpg",
     "core_name": "BIBIGO 비비고 왕교자",
     "origin": null,
@@ -916,9 +916,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6132.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c5ca379cd8755a2f1e46dec033c69665f576fe59d664e70ab9ff37f65689c18c"
   },
   {
@@ -942,9 +942,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/661.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7314ccd9c9dabb3db8a5055f0cda5dc5fd43cc27fadcf59a72445215b1b47389"
   },
   {
@@ -960,7 +960,7 @@
     "normal_price": 15990,
     "to_date": "2026.03.01",
     "product_id": 2100,
-    "like_cnt": 3123,
+    "like_cnt": 3124,
     "image_url": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%88%98%EC%A0%9C%20%EA%B9%80%EC%B9%98%EB%A7%8C%EB%91%90%201600G.jpg",
     "core_name": "BIBIGO수제만둣집 진한김치만두 1",
     "origin": null,
@@ -968,9 +968,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2100.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "be88a629555897e9ecf63b313d1ad73999f941c2f9048ef21f7ffc5869d03160"
   },
   {
@@ -994,9 +994,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10000.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2782e4d4acdad812df31c79a0f4f170b60830894c8f9a02edeabdb2650b5ed98"
   },
   {
@@ -1020,9 +1020,9 @@
     "quantity": "X5",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7182.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5dbe1a22692d0074d75676e92086fd68b0bbe8c4bcdfed083b29a9c2b8e221f6"
   },
   {
@@ -1046,9 +1046,9 @@
     "quantity": "X 10CT",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5713.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "718395a3767bdfa0192431ec551e8ca8bfe69bba68ed7cb1cf0214a804f8627f"
   },
   {
@@ -1072,9 +1072,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1153.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "bd9a3883737094c768438c273864086b811e6adde0f322518ddac625f2cac711"
   },
   {
@@ -1098,9 +1098,9 @@
     "quantity": "X3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5477.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5ee9a9e745114c70ea17391a3a6a6fcf1c78f6797da2df6fda51a105568f51f8"
   },
   {
@@ -1124,9 +1124,9 @@
     "quantity": "X 10",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10766.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f308961a8756525c36c1881e93ca55881e2fc048d0fd87e7596e9eb8ae09c481"
   },
   {
@@ -1150,9 +1150,9 @@
     "quantity": "X2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2667.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "53ef07d0978601fad07e548d734af9e84663dab41595ad91f92cc899512d45f2"
   },
   {
@@ -1176,9 +1176,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1500.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7fc1c4018876856778635bccdbe30b445f78b0dcbc29303ae3fe2692a31e6b83"
   },
   {
@@ -1202,9 +1202,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5976.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "efd0fc8090d9ef89f3af23d985516b7dbda547f13bdde8807565b5b6235f4c8e"
   },
   {
@@ -1228,9 +1228,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10735.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ab4929d1ce455603149b914dc44187142859c9f49ff3d86e2c8c9f29ef417ee8"
   },
   {
@@ -1256,9 +1256,9 @@
       "13입"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7099.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c61f5da3fd422f5473a468f82f13f9d421dc4eb80efd840bb197745ae6e53a52"
   },
   {
@@ -1284,9 +1284,9 @@
       "소스포함"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/251.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "e0fd1bd0ecebe5adc7f68b82c599cee05e82491781405003035a86bc99408a02"
   },
   {
@@ -1310,9 +1310,9 @@
     "quantity": "X 8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4746.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ea93e40df5ce26be6717e68494b9cdb7ed3172d0825348abefa0b20bff039f01"
   },
   {
@@ -1323,7 +1323,7 @@
     "product_name": "다담 바지락순두부찌개양념 140GX5",
     "sale_price": 5190,
     "category_image": "냉장,냉동",
-    "share_cnt": 137,
+    "share_cnt": 138,
     "category_id": 9,
     "normal_price": 6390,
     "to_date": "2026.03.01",
@@ -1336,9 +1336,9 @@
     "quantity": "X5",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5509.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cc66c6f7b43a08aa9c274da9303fa1f452c801503ea9a950d466fdaea486256a"
   },
   {
@@ -1362,9 +1362,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10699.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "83259bb631a313898427d3af8b8ea42de17885e7b6dd6f74f191ec631de02d68"
   },
   {
@@ -1388,9 +1388,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/408.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "dbbc7f2a3066ac39818d6e0e184d556e74e1b88df02aefc1ddcf0354b7d6e2da"
   },
   {
@@ -1414,9 +1414,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1152.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "231162ac338a96acfc079371f22c027bdb8b59b4ecbf6143f347492e7beb1782"
   },
   {
@@ -1440,9 +1440,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2668.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "505d36184fe622b0eb9a8caba7accfc9255c25e46638326cecb6525ad35d9367"
   },
   {
@@ -1466,9 +1466,9 @@
     "quantity": "X8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5043.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cbf340732970462898e9fe05d345aa75cfd46538dcfa600ccd79fc55a5a79d68"
   },
   {
@@ -1492,9 +1492,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2222.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "db35e11589d33cae8c5bb63fbc587b48687fa15a0cbd8ad9f25d9009f186b5e8"
   },
   {
@@ -1518,9 +1518,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5202.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "e8c4cca5bd98c8e0881409a45bf6311b4da888f0cc2749fd92e4d643938180fb"
   },
   {
@@ -1544,9 +1544,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3073.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "e59d9e9f7d0496b759682b6d9a49e6665ac695344b05918a5986d6bba45ede99"
   },
   {
@@ -1570,9 +1570,9 @@
     "quantity": "X 10",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/862.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9b842ad74facf267a12812762f8d9a1a8d6490c455a4a01ae2e6eb483fb17c17"
   },
   {
@@ -1596,9 +1596,9 @@
     "quantity": "X 4",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5993.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "49cf7f1249bd6f20cd022fe300f87170949917462d6c097ba08970878be6412c"
   },
   {
@@ -1622,9 +1622,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3976.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8267098e5fb7608a13b9a781bba40aabb97b458b8ccaee839bb09668238fe45a"
   },
   {
@@ -1648,9 +1648,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3411.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fa1ac2fd58b4e352a9892c22595cb939eb0066953b5ecb24abc9c1f8e7a6a7b5"
   },
   {
@@ -1661,7 +1661,7 @@
     "product_name": "비비고 총각김치 2.4KG",
     "sale_price": 20390,
     "category_image": "냉장,냉동",
-    "share_cnt": 76,
+    "share_cnt": 77,
     "category_id": 9,
     "normal_price": 24390,
     "to_date": "2026.03.01",
@@ -1674,9 +1674,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1300.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9c8421fd927cddc5abf3caf1f36a8d423fd150690883227e53312b4173d51b3a"
   },
   {
@@ -1700,9 +1700,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10767.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "53a239031e631f4c6e4d7375ca323411769085adb89d39ec2bf8fe79677d3cef"
   },
   {
@@ -1726,9 +1726,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10573.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "efc0d244edcbcc2a140888220ff87c20d5bf4bbf27a1994f17aded61ea126a19"
   },
   {
@@ -1752,9 +1752,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3978.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9c869bc68e632a5acd21ebf528fe6e512a1a700c08062cd1293df00f714aaa8b"
   },
   {
@@ -1778,9 +1778,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2221.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "86b2288688ef7cb1f2899b4e230ee1ac58b3a17a885a40a3a7fca63fd0df9fd3"
   },
   {
@@ -1804,9 +1804,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9314.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b24dadb97054bcf02e92caa285b7b0c976f769fe972bcd6d50c08d9977021a94"
   },
   {
@@ -1832,9 +1832,9 @@
       "7입세트"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9391.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "01111207a35223cf378892b4fb12f4862f9d8a2abae6cba365efea8e0e8f1795"
   },
   {
@@ -1850,7 +1850,7 @@
     "normal_price": 12990,
     "to_date": "2026.03.08",
     "product_id": 2298,
-    "like_cnt": 3859,
+    "like_cnt": 3861,
     "image_url": "https://image.cocodalin.com/product/sm/%EC%82%BC%EC%A7%84%EC%96%B4%EB%AC%B5%20%EC%A0%95%ED%86%B5%EC%96%B4%EB%AC%B5%ED%83%95%EB%AA%A8%EB%93%AC%201188G.jpg",
     "core_name": "삼진어묵 정통어묵탕모듬 1",
     "origin": null,
@@ -1858,9 +1858,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2298.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a616849622487c1c819ee1f53a5cd4548d67df60825271e5ed0a8c9668186092"
   },
   {
@@ -1884,9 +1884,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7939.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "20b18bd807cba8fa7b4796b22bf7b231fcf70c0b1c34a3030fe31e3c86663c7c"
   },
   {
@@ -1910,9 +1910,9 @@
     "quantity": "X8 (2,880G)",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3285.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "51833594c8d624431a2ba9f01be844951cb635712bacafd54adb6a973af101d3"
   },
   {
@@ -1936,9 +1936,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6717.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c0decae2eb028b785057d96e4800ca700e0945a46a3c39f42b8bb812ecbed4ea"
   },
   {
@@ -1954,7 +1954,7 @@
     "normal_price": 12590,
     "to_date": "2026.03.02",
     "product_id": 1891,
-    "like_cnt": 3094,
+    "like_cnt": 3095,
     "image_url": "https://image.cocodalin.com/product/sm/%EB%B9%84%EC%9A%94%EB%9C%A8%20%EC%B4%88%EC%BD%94%EB%A7%81%20143GX12.jpg",
     "core_name": "서울우유 비요뜨 초코링",
     "origin": null,
@@ -1962,9 +1962,9 @@
     "quantity": "X12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1891.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d23a30e9bc493c2f2a01633c1a596fdc60459d016bacab755f2ba973a00975ea"
   },
   {
@@ -1988,9 +1988,9 @@
     "quantity": "X 10",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10501.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c78d900ab131c419d73d30055d4c0dbe6cc4ef0edcfcabf6b3005feb427d552b"
   },
   {
@@ -2014,9 +2014,9 @@
     "quantity": "X 16",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/132.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fbedd58e2f0762d312164a5a0409a8327d39e722a0ab8bf986b814976c099104"
   },
   {
@@ -2032,7 +2032,7 @@
     "normal_price": 14990,
     "to_date": "2026.03.01",
     "product_id": 4668,
-    "like_cnt": 2206,
+    "like_cnt": 2207,
     "image_url": "https://image.cocodalin.com/product/sm/%EC%94%A8%EC%A0%9C%EC%9D%B4%20%EA%BC%AC%EB%A7%88%EB%8F%88%EA%B9%8C%EC%8A%A4%201400G.jpg",
     "core_name": "씨제이 꼬마돈까스 1",
     "origin": null,
@@ -2040,9 +2040,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4668.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "984967e3647244eedb7e2441d8fa9a3de0e661aa4faf4c8ba31ba6ada0aad605"
   },
   {
@@ -2058,7 +2058,7 @@
     "normal_price": 7490,
     "to_date": "2026.03.15",
     "product_id": 2383,
-    "like_cnt": 1591,
+    "like_cnt": 1592,
     "image_url": "https://image.cocodalin.com/product/sm/%EC%94%A8%EC%A0%9C%EC%9D%B4%20%EB%A7%90%EB%9E%91%EC%AB%84%EA%B9%83%EB%96%A1%EA%B5%AD%EB%96%A1%201_9KG.jpg",
     "core_name": "씨제이 말랑쫄깃떡국떡",
     "origin": null,
@@ -2066,9 +2066,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2383.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f17b3c3272974c21ef12732c8dc0db2b0a6aeacb1bbc8b0578f5d9296b34a5a7"
   },
   {
@@ -2092,9 +2092,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9914.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "33e9b4d887e76fc5977227ddef7c78aa0990e4eb05dd00cbb8a9b187dc5005c0"
   },
   {
@@ -2118,9 +2118,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9592.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ea0ef3e33da00a14d86e884aaa795fee3058d5c1fb4c4c2fd960ed16840ca00d"
   },
   {
@@ -2144,9 +2144,9 @@
     "quantity": "X 5",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10444.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4fb69afa95928836b4f7461c16ed71b707dbdf602b795b10309c49a66ad38dd0"
   },
   {
@@ -2170,9 +2170,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10768.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7291c41e07f29f44ec79cd9344db2d44d814c5b910d46e26c4df748d17d68c71"
   },
   {
@@ -2196,9 +2196,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8224.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2d994ab0a7e0ec5ef9b61d4302c1974de1e0860ccc93739ea22dff6b62752d47"
   },
   {
@@ -2222,9 +2222,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6501.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c09566b2e984f8153698f3e66cd283a2d9f4e8d6bdf0ff4dfbaf286080fb742d"
   },
   {
@@ -2248,9 +2248,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8488.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "004832acb880a6b760d2300d3bb9c4545c46e29d8d3c16788f677246894b3c94"
   },
   {
@@ -2266,7 +2266,7 @@
     "normal_price": 13990,
     "to_date": "2026.03.08",
     "product_id": 8682,
-    "like_cnt": 629,
+    "like_cnt": 630,
     "image_url": "https://image.cocodalin.com/product/sm/%ED%92%80%EB%AC%B4%EC%9B%90%20%EB%A6%AC%EC%96%BC%ED%95%B4%EC%B4%88%EB%AF%B8%EC%97%AD%EB%A9%B4%20196G%20X%206.jpg",
     "core_name": "풀무원 리얼해초미역면",
     "origin": null,
@@ -2274,9 +2274,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8682.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8d8bd29c04c41363723e4772e9e081360edb2e93a10e129479f9c1f11d842628"
   },
   {
@@ -2300,9 +2300,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6330.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a0763f42db131621d9f73b3f413710ded752d6a6b42bdd264521d871ddaa2977"
   },
   {
@@ -2326,9 +2326,9 @@
     "quantity": "X 8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10269.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4d453ceead64f5f5d88bf573be42950a5772d9034c293a296d4c6a1a49df9ff8"
   },
   {
@@ -2352,9 +2352,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/777.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8c4c17bd09dba1e29cb012a620781e5a0b5a34946e0ac38994cd482d61dcae76"
   },
   {
@@ -2378,9 +2378,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3202.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5ee6133204515c084a3be33da840191be60d218b4d2c6e1d5038f3cb7756e317"
   },
   {
@@ -2404,9 +2404,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2347.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "25ea0a776421962dc017be0d359904f39822410e878ae4fd44919f7c8fb9ff88"
   },
   {
@@ -2430,9 +2430,9 @@
     "quantity": "X 6 (12인분)",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7035.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7f145ad7743242cbc705c688c1cb18ccff3ccb66f0fbd48c34fcf913ab4402fc"
   },
   {
@@ -2456,9 +2456,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2179.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cd98d108f3133ef230840b76990d992d5f509dc51341c1c7ae3b61bf45a33f1b"
   },
   {
@@ -2482,9 +2482,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7697.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d09e41a29a5f943ce47b6c8986147af393c99810ba9fc32babb7fa9e10694f2b"
   },
   {
@@ -2508,9 +2508,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6329.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "41459bb6c7a9e3493fa8ed418c3e9ac5ea95074411647a9455619332cb55e788"
   },
   {
@@ -2534,9 +2534,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10738.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "480063f73bf7de8aa9442ed25bead05e5c7c7cf4b580f3454c353b20393eb49e"
   },
   {
@@ -2560,9 +2560,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10462.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4c9b18c3bd5262d92f5f92ce97acc3cefbddc4beb21e96fcb4f31797e99ab8b9"
   },
   {
@@ -2586,9 +2586,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7626.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f600eac83ee3df5b6a30873c93fb7429a67790e30de0fdde986e4ca3e8188786"
   },
   {
@@ -2612,9 +2612,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9952.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f68b171cd856cad9f9a3807e8fefc4a900326e51974c2a3d31d59e8f4b5a2330"
   },
   {
@@ -2638,9 +2638,9 @@
     "quantity": "6인분",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6765.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ac56eb901401f426ab62dacf164724eff52547180eb49797a2d102705461df32"
   },
   {
@@ -2664,9 +2664,9 @@
     "quantity": "X 50",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10737.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1e6c3fb2a0e8cd617777773bf923977b2b99b6641dbbce9bb66d4b366d22daf7"
   },
   {
@@ -2690,9 +2690,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10460.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "782067e7bddc22aeee2f786967e4ecbdb84071f1a3ce66686a8dc6e170d5a668"
   },
   {
@@ -2716,9 +2716,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8305.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2e5f6215fed10ee2859c68611d992a2bb44a9c7ebf82cf084d9b67d747e99426"
   },
   {
@@ -2742,9 +2742,9 @@
     "quantity": "X 8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/779.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7bc502d49d8d43a4667ed763846340c008c801412d195acf8eea4dd032f495ea"
   },
   {
@@ -2770,9 +2770,9 @@
       "바에나"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10457.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5cc99df0d2e058f3cc528cafac02bb19bde5927de11c50462bfcd5a6daf05111"
   },
   {
@@ -2796,9 +2796,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10231.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "86e4631953ba92c7c9d545fbbf2b0c61e502e9b5cf91a685279432a9e1e0c751"
   },
   {
@@ -2822,9 +2822,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6646.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "57253e849f8f289f60d418bab6c384bc281c6d091939ce9c13c43f19c8f13d30"
   },
   {
@@ -2848,9 +2848,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10399.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "07478d51094ff8c8687d3f766bf8a9a2ff07c3aad4b60113147cde5284b0ddf5"
   },
   {
@@ -2874,9 +2874,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2296.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "698fe53864369f8bc828f91f1d1c38e05609833ccbb7b2d0e41718dd9e198c1d"
   },
   {
@@ -2900,9 +2900,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4245.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "343820ee900ffb650a25a1ce8657956e8405263cbfdb2835b5d018e7940482e2"
   },
   {
@@ -2926,9 +2926,9 @@
     "quantity": "X 6캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/153.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0f9b459dabd9e30b8c9a9f8822d16ca3f6cdf1c494c6c8eaeb7dd5a3707c3558"
   },
   {
@@ -2952,9 +2952,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10739.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6ab5df9b5140c48740e3926fab9ef6f4c35d827340e1c427a9e0373bd742e76b"
   },
   {
@@ -2978,9 +2978,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8866.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8178735f6f4a966ac36599b46a92c844c5f991cfdaf043016bba4804935bb7ce"
   },
   {
@@ -3004,9 +3004,9 @@
     "quantity": "X 24",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2681.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8887b888972410f0c7e80754498e0bb1a7382fde14d0f29b5eb2a0291f82f8a9"
   },
   {
@@ -3030,9 +3030,9 @@
     "quantity": "X 20",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1165.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "57221fb9d1743200e75aff00f3cb12e11e17d6547b59dc37304127f7d2e7239c"
   },
   {
@@ -3056,9 +3056,9 @@
     "quantity": "X20",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9859.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "93f631e651a38bfa12ac51e7b576d02b110a6e1130adaa8824018ba0c2fc340f"
   },
   {
@@ -3082,9 +3082,9 @@
     "quantity": "X 20",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1750.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "bdc50c1f560e81e51cd61a16fb106f099abfe2a5099c2b3a2461c3ac18e4c88d"
   },
   {
@@ -3108,9 +3108,9 @@
     "quantity": "X 24",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/358.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "07fb7ada0cf79e45bfc67cd7874e48d8f5bd2bd1a3a8cfff3ae1ef6184c9e369"
   },
   {
@@ -3134,9 +3134,9 @@
     "quantity": "X 60",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10309.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "485abc6cdaca0bfbe7f6271649b3cf6a4a55334e385cf49a2ae073e9f0205461"
   },
   {
@@ -3160,9 +3160,9 @@
     "quantity": "X 10",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/325.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fcdde9521bec442aaca2bca1f1df7393c67136c79a6c7d7a5777f029e6ba6535"
   },
   {
@@ -3186,9 +3186,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9054.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b0172955b20f5d975a319b45e6eca8b40a0ab457a7abd23f3ebfa10f8d31258a"
   },
   {
@@ -3212,9 +3212,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6025.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6c21962ef2a80429e367e7bf4025bddd2f7c8f51e0e45c75e276abfac98f0a9c"
   },
   {
@@ -3238,9 +3238,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/256.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fd4a1c5c48c4c3661f6c7530989100b9816c754771c944b6d3c7c8e4138cce5e"
   },
   {
@@ -3264,9 +3264,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8949.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0f6ff5d6367d6829efb9263311dca677a67286a4fc2fb06743141f0dcfe3a9da"
   },
   {
@@ -3290,9 +3290,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8588.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d1f1e02e09323da7ccdf75b379e8d8bee148d2370d117c1cd72fc700a3589e8f"
   },
   {
@@ -3316,9 +3316,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8145.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ced23816829c9f8cef599d82225716bece72c285b3b3ee57f1546b3a823fd1b0"
   },
   {
@@ -3342,9 +3342,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/349.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "daed4f3e719c53de06d98b59b5ebae7f12cbd9a36bde87eeae1cf90913e88175"
   },
   {
@@ -3368,9 +3368,9 @@
     "quantity": "X 8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4196.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cf9656b07797cf4bcefc4001353e117ed6a1a552b9c72d8765b62c925a5de722"
   },
   {
@@ -3394,9 +3394,9 @@
     "quantity": "X 18",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8767.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "e9d30d2fd6eb5b2e4ed5c94856de5e2e394576d66f54b3a686a42916cdda6b1c"
   },
   {
@@ -3420,9 +3420,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3382.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f4a21328a31bd6b6c3e66fbe18be34d16ca805e6e33a94de6dc43c6d367eac6e"
   },
   {
@@ -3446,9 +3446,9 @@
     "quantity": "X 4",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/873.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4a9fb239b136fcf00917d403f4d864eac113ad9d992bc16b670885763f375426"
   },
   {
@@ -3472,9 +3472,9 @@
     "quantity": "X 10",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6660.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "902409b7f5d703a23236eb46b8ab3b9856e42ef7f4e156b2354729cd5615f116"
   },
   {
@@ -3498,9 +3498,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7913.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b0fe09a561b24c92507baf74245ab314126982da4ce47bf868733be20e25fbe6"
   },
   {
@@ -3524,9 +3524,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1235.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d434c788696f1d9f512c24508246ddca4821df612022d4817652b54f9d308ad8"
   },
   {
@@ -3550,9 +3550,9 @@
     "quantity": "X 5",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4709.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5ddda4df351eba3b5d899a51161e967c266927f82a679088bd3dac7318dc9f2c"
   },
   {
@@ -3576,9 +3576,9 @@
     "quantity": "X 5",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/977.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "80ccf06ae8189815cbbcb9cfe916e938caf86b65bea49325618874e159283d01"
   },
   {
@@ -3602,9 +3602,9 @@
     "quantity": "X 4",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9657.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ab8fcc248f31fa49305e2161d461c1197e6ca3a94c9b515c1838bfcfb4a1f66e"
   },
   {
@@ -3628,9 +3628,9 @@
     "quantity": "X 5",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3577.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b7aa9ced7ffada254b00dddcf102a49983e4eb8b4da97f25f205f79b54f552cb"
   },
   {
@@ -3654,9 +3654,9 @@
     "quantity": "X 16",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10606.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ea6ce2749f91080e263ddce3982c92414cf0762edcb589e09eee587c2780b614"
   },
   {
@@ -3680,9 +3680,9 @@
     "quantity": "X 16",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8712.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0615755df3bdf4830acbe9385306bbb1aa283241e838422475f5d5ef88c7ae22"
   },
   {
@@ -3706,9 +3706,9 @@
     "quantity": "X 16",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8711.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "02cd9f7e247278452cb8bec432b84ec943b2bf7bfc55bf6c83a0f4b40fc272d3"
   },
   {
@@ -3732,9 +3732,9 @@
     "quantity": "X 8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4012.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6e77496459f232bb63015c1dd01be4580db57958e20271cbeee3b60a462b74f9"
   },
   {
@@ -3758,9 +3758,9 @@
     "quantity": "X 9",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1755.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0c10d7233159e5fa106ea377b1a93f685f4d12b5416615a72da0ae86e42662ac"
   },
   {
@@ -3784,9 +3784,9 @@
     "quantity": "X 120",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7690.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6f8e66bc48a77440291106158174ac6398a86735185d2d9ecdf96a0b4977aa84"
   },
   {
@@ -3810,9 +3810,9 @@
     "quantity": "X 2세트",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9756.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "edb5413e7dc8a83073601e0c1eb18f1575ee9060beaca3674bfcfab6c10b19aa"
   },
   {
@@ -3836,9 +3836,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10605.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f0d4eabe7e3e1da42916f734afb988c16d5b18933b2c4b74e5022102e0dae430"
   },
   {
@@ -3862,9 +3862,9 @@
     "quantity": "X 5",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/262.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "444d7aa8f2518476d3952d4c13b69d49805b587a99af27cc18875fbcc9a26b07"
   },
   {
@@ -3888,9 +3888,9 @@
     "quantity": "X 4",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6812.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d250a441751fd68e2c95c36e37464d01188adbd25b7aafd4fddbd30b5b3181cb"
   },
   {
@@ -3914,9 +3914,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8622.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5fe8eb31a6c7d12bd98bf7eeaa927fd38a7c5bafe7e4dea89f421d82d342bb75"
   },
   {
@@ -3940,9 +3940,9 @@
     "quantity": "X 32",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9658.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8b7d21f30aa11e4d7769b6590b9fce3a869890d86e2eb5eae62c11ec1e5a0d0b"
   },
   {
@@ -3966,9 +3966,9 @@
     "quantity": "X 16",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2857.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "76a4ae057070d9e8c0a51e4a724215c6197c5a33fc776191d4c3bdd83d974c28"
   },
   {
@@ -3992,9 +3992,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/532.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c6dd32035f5a8964aeed360523dd5eb595bee22b6380db6316ca2f478856b14e"
   },
   {
@@ -4018,9 +4018,9 @@
     "quantity": "X 10",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8275.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "143152cc1a6d8c9b648daf529708857b55a61c82f73ae98de24b3d45339e48bd"
   },
   {
@@ -4044,9 +4044,9 @@
     "quantity": "X 8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6647.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "43a78a3b26da88a2ae2031c817f18a48f9ca019898031dbf94f24c59e44d0043"
   },
   {
@@ -4070,9 +4070,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8144.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "97a5133b3f730ea5037422b08c9a9efe57c075b4652507b3032de5902c2d62ce"
   },
   {
@@ -4096,9 +4096,9 @@
     "quantity": "X 9 (마늘맛)",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8122.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "05270cb3082766efd4077e73eadd0c5943bdbdd5874de783d83d30bf947ff8f1"
   },
   {
@@ -4122,9 +4122,9 @@
     "quantity": "6인분",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7291.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "909b2938facbf0934ce0b79ceb81146ac73afccb074fe409011fbe6a96f24ea1"
   },
   {
@@ -4148,9 +4148,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3121.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b43852d8510eac479d5754a3bbd76bd2a5c60d2f7dfd6a47ad7bb46e19897453"
   },
   {
@@ -4174,9 +4174,9 @@
     "quantity": "X 18",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/976.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6936fc4fd67c8d39202ca714e7cfa1a984598eb0b0aa6c423d31200aa5caf618"
   },
   {
@@ -4200,9 +4200,9 @@
     "quantity": "X 18",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7098.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d500a3723a66811a9a2d33720b6caf8b8f1cd184f95dd0dbef7dc04b71ea24e3"
   },
   {
@@ -4226,9 +4226,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2939.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c516657d0aa2a5899d0efd25ece62f7a8cf1b16121ed253166e913cacc70e168"
   },
   {
@@ -4252,9 +4252,9 @@
     "quantity": "X 18",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1885.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "35b959e49d3220296f85ab63fa3a921c837174209fe932807cdc93015974a2a6"
   },
   {
@@ -4278,9 +4278,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9869.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "549909b66086b0491c9b61e944f21981a92fc517f5ca51e784ed6083db9b4405"
   },
   {
@@ -4304,9 +4304,9 @@
     "quantity": "X 12캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8865.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2ce6f208c764adac830a83da5260f6befcb79f8963451ac3febfd79d2ff829cd"
   },
   {
@@ -4330,9 +4330,9 @@
     "quantity": "X6캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3726.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "107c75d3045317f1803b92f54943998ce98e87d789687bfa7c52dce38df69aaa"
   },
   {
@@ -4356,9 +4356,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1314.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5775be86d0a19eb5a180e5cbf3348a6873500d7026e1bdd274d7e92eb9ba19c5"
   },
   {
@@ -4382,9 +4382,9 @@
     "quantity": "X 8캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1075.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3b66bb75b62cfbcdd77fd1daf7a325b3d26fd37e633c7db9946670e1e48fa16d"
   },
   {
@@ -4408,9 +4408,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1761.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "89ff26bc4c6f643f0b2523038a575ce763d02d800c1866758cfc6c3bc58b7f21"
   },
   {
@@ -4434,9 +4434,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7539.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cf0ffa56c8cdc436fe5e7568e7d42bc4b0b6b20fca7a44bff7694063e26aa3a5"
   },
   {
@@ -4460,9 +4460,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9509.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b3d7d710e59b651cabd4638a404438917745dbf167fc1593f859d06c393302a9"
   },
   {
@@ -4486,9 +4486,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1168.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "920e7c8e1821afaa8eaf48cf827cce6536dc4423e2b8df76f856410d753943fb"
   },
   {
@@ -4512,9 +4512,9 @@
     "quantity": "X 24 (유기농)",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6889.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "68f5b2ca82d4a6743cefb29e0009e4b50a4f9f1d3ed89e6ec3e654b64363cfc2"
   },
   {
@@ -4538,9 +4538,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9729.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "df426a6bc84c853f33b9a5c8d22c9694e96969a9137108390b3f7448a908860a"
   },
   {
@@ -4564,9 +4564,9 @@
     "quantity": "X 24",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10235.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "90c92e3c3ab31bd5a2e1656a6914f8a412fce2bc2877ca482c8e73fa1cf6ccfa"
   },
   {
@@ -4590,9 +4590,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/389.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "816711eddb82a9e860e96a79d2f5eca696adc9fb35cc81fce3d208dbeb836783"
   },
   {
@@ -4616,9 +4616,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8716.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7c7300217945307f8999ebc3241866668f240e305f9334754ef252069f24cb24"
   },
   {
@@ -4642,9 +4642,9 @@
     "quantity": "X 24",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7916.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "264fd0ac93031becc418a23f29560d6198c8de13c8da6db4d84ee3aab2bbf75a"
   },
   {
@@ -4668,9 +4668,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10578.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "52e11bde810949f4fa342d126c32376170448800cc54f5a31eb0dea08c221587"
   },
   {
@@ -4694,9 +4694,9 @@
     "quantity": "X 30",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9058.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1ec2cd5967541b886be5f1ff5e62627e32b1839115e1fa2613024d5e8b2267dd"
   },
   {
@@ -4720,9 +4720,9 @@
     "quantity": "X 2 (플레인)",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10493.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fcaecebe2604947cc19cb0f56716a3e5c4779cc155577eb94296530d72eb1fdf"
   },
   {
@@ -4746,9 +4746,9 @@
     "quantity": "X 6",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5317.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9270949f551212de630aecd8190805b0492ad9a2f5c205e66a60e4e38dc597e1"
   },
   {
@@ -4772,9 +4772,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5975.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9b380641500337b386dca09ef28cc4bff703bacf7480542057baf9d067ec5eb3"
   },
   {
@@ -4798,9 +4798,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2938.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "470fbd3f427731982769bf95d285c1d3191580dc8c51ea04b9512f443ac7ea32"
   },
   {
@@ -4824,9 +4824,9 @@
     "quantity": "X 12병",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2891.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6f6f989daba99517bdfbffecde83169d712b347253aea5bdd19c9bef94ba1bf8"
   },
   {
@@ -4850,9 +4850,9 @@
     "quantity": "X 12병",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1951.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "941000100fa3e0f51e779fdeb0cb217381b48036dab68877f386cde3ab2d2040"
   },
   {
@@ -4876,9 +4876,9 @@
     "quantity": "X 24",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/659.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "99eb7a175996c00bf183723f605803c9059c76679c34ea91fdf3ac6bed54a43b"
   },
   {
@@ -4902,9 +4902,9 @@
     "quantity": "X 24캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8627.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b5c3e60b426fa045e7acd90e3b7e3240d0331f6cbf99f85a82a74f5234256b6f"
   },
   {
@@ -4928,9 +4928,9 @@
     "quantity": "X 24팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/268.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "512357ee5f2a15557c70fc0eb4200b0d65e475909a2292f6f0120ea37d28b58e"
   },
   {
@@ -4954,9 +4954,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8710.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7b442acfea9be8bfeeba27405850ea3c4365dd917e0c95343c1b83810090d4c1"
   },
   {
@@ -4980,9 +4980,9 @@
     "quantity": "X 20병",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2464.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "19cf5eea23d0daefd7751245984bc5ac5dbc1d1398762fd31b87aba921b1f158"
   },
   {
@@ -5006,9 +5006,9 @@
     "quantity": "X 24CAN",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/550.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "acace6401cef9adc60540c81b8bf948ee041c6d2b3f8b3a1df80e8637a1df2e9"
   },
   {
@@ -5032,9 +5032,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10765.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "06a5eff567ce736802f531501fbbc4a70a6de064b0506e315ca915fced3b2e6f"
   },
   {
@@ -5058,9 +5058,9 @@
     "quantity": "X 24캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/167.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6120bf3506b0ad3980490522ec07393b1d6c4244bd23bfde00f02fd89ac26dce"
   },
   {
@@ -5084,9 +5084,9 @@
     "quantity": "X 50",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10236.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "e0124f846d389f606c7f1235945dad22dcf188303a4be33ffe8848d75df06721"
   },
   {
@@ -5110,9 +5110,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10764.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "78dbcc423da4804afdb6002128d2422a974f0bd84d516614ad1bcb7f371c22a0"
   },
   {
@@ -5136,9 +5136,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7771.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0c738400b78e2aa8ced06422d3665ef3ad2d316f7fd185ac383754adb483cc63"
   },
   {
@@ -5162,9 +5162,9 @@
     "quantity": "X 30캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/385.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6454c6a0c9c77fd46af63dff96d2080ded78eaea8b653dcb3652e1e516dfd2d7"
   },
   {
@@ -5188,9 +5188,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10580.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "db3e3fc9ee508e1a644e9296c428145a6ed890e4ebe0c7466f6c0714762ac962"
   },
   {
@@ -5214,9 +5214,9 @@
     "quantity": "X 20",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/396.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1c313911eac0573f2e8715cc936700e0ce5211fd3dc4d5210995f8c589d4ae37"
   },
   {
@@ -5240,9 +5240,9 @@
     "quantity": "X 24캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/156.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "72b72325a987f402f91e92071f3e962cfd92d8fb01b9a308eeb912a788433409"
   },
   {
@@ -5266,9 +5266,9 @@
     "quantity": "X 12팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2619.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "30d713bc49dd8186b428c724e6fd33557032f06702e4bd38848411d1c8161d89"
   },
   {
@@ -5292,9 +5292,9 @@
     "quantity": "X 24팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/386.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a5817d8a9a67b9b635883cbdd76885a4408252c59d47f48d9991b91a7c8dea71"
   },
   {
@@ -5318,9 +5318,9 @@
     "quantity": "X 20PK",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/400.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7c3951c11fd1fc90a22d02731bab75fc8a46ff1aabd0e1c079235beeba08f08a"
   },
   {
@@ -5344,9 +5344,9 @@
     "quantity": "X 30 팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/553.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8fbbfa5929433c09a98852168543b0e6358262db2d3f92248ee3a926d485c532"
   },
   {
@@ -5370,9 +5370,9 @@
     "quantity": "X 20",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8950.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5a9d588752d51e17fa6578ca540b98394801a47ed124116535b6a065a8861b1b"
   },
   {
@@ -5396,9 +5396,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9390.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4c6e69f0b85f0d49df2c12b81aa81b81003460daa573e64680288b00fa9804ab"
   },
   {
@@ -5422,9 +5422,9 @@
     "quantity": "X 24캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10775.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "87aaa244410e9d38dd7e5613580133a534200072c5b2e2122203c65d0befdf51"
   },
   {
@@ -5448,9 +5448,9 @@
     "quantity": "X 24캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/781.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a0cd512a1d17c34689b7630fa8202ca4bb10c2a40457944e0dde8f8114f689fc"
   },
   {
@@ -5474,9 +5474,9 @@
     "quantity": "X 15팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3453.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "74dffe55e7a16b75717c82871bd6c44b78885686d863237560f43f0f0ddd2aa2"
   },
   {
@@ -5500,9 +5500,9 @@
     "quantity": "X 20팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7510.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "45978cb2967dde9d18d9f6767ad27bb0714852ed8a4c88cdeea3c6ad5a7f3ae8"
   },
   {
@@ -5526,9 +5526,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8149.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "138598cca18bde5f33a1c1d3faf0b487dd286aab9cc0c4d84805ed22fdba82cc"
   },
   {
@@ -5552,9 +5552,9 @@
     "quantity": "170CT",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/394.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "71b5d6c6e688ccb9bec18054aee73757a34b3d83434479efa96408fabe2c44c6"
   },
   {
@@ -5578,9 +5578,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/393.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ad78cf9265592f3f50c3b1b9b485df3fc5d2bf8fe664c71141499d8aa9fa468c"
   },
   {
@@ -5604,9 +5604,9 @@
     "quantity": "X 170CT",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7849.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4ad681fe865c02a3461667b882e7afbb37a41de5536a6de60a3bc573f4705cac"
   },
   {
@@ -5630,9 +5630,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8835.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b916c5870c2a5973c6c46565bce555c692b0dbc77cf57efec5ab7c61f2716abd"
   },
   {
@@ -5656,9 +5656,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7749.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fd70f202dc98715852eabe2d9ae266f3e04b6bc28941bf21f5456bd3d409b623"
   },
   {
@@ -5682,9 +5682,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10558.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3c9c6161e97b59b7b63dd76f5628e745555b4375c45e4b6313bad928d9678710"
   },
   {
@@ -5708,9 +5708,9 @@
     "quantity": "X 24팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3346.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "02b3470fd277c2449d6250702f2179e50bc72e4c08b61c9bf1ad30701299269e"
   },
   {
@@ -5734,9 +5734,9 @@
     "quantity": "X 10(CUP)",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9221.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "114da7820c3c9966c4bfa673a69266d47f61c34c857726d76fd724d3ce6a27e4"
   },
   {
@@ -5760,9 +5760,9 @@
     "quantity": "X 16병",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7914.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "402270bdbe36ac9d9262982453a348225a8b94c9dad6f452a70fe37f37a34ca2"
   },
   {
@@ -5786,9 +5786,9 @@
     "quantity": "X 12개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7936.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3b744f72f7355175f67da0f368dcd8f27b4786300bb1062a927771f27687b696"
   },
   {
@@ -5812,9 +5812,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6462.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "766db31bdc1e136c42ab977e7ed95b53f7530b4a7c6b0e44c2aa9595abcf812d"
   },
   {
@@ -5838,9 +5838,9 @@
     "quantity": "X 27",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/289.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1095ff3c51334e3e3e9a5159db5b9d98bdee95ed5e7a640801f731ecbbf25280"
   },
   {
@@ -5864,9 +5864,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7284.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5cfc7cc327c510066ccd4476d1964f0e676c2863493c47042229e0a26581f107"
   },
   {
@@ -5890,9 +5890,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10740.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b4c116ece1802615224f7531ee2905c28c386ee12d5cbe7cf96973965a50d3ba"
   },
   {
@@ -5916,9 +5916,9 @@
     "quantity": "X 2PK",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/361.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a08020886a5d612ab69d39782100c1494f649294ecaf6ef93c72bd3bb8153d61"
   },
   {
@@ -5942,9 +5942,9 @@
     "quantity": "X 8",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7178.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7ec5b62db4b73b09584860020fc32a51e43b5fb4e1b10dc2560b734114b9f34e"
   },
   {
@@ -5968,9 +5968,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8868.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "39f64faa1006c7d8a9e84065f5b103f49c63612ecc572e79c9c4a61938bd2706"
   },
   {
@@ -5994,9 +5994,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3729.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1d566752c85c1f46ea18fce1d3f3f6466e104132a43c3e7ad41b6db85b93e87d"
   },
   {
@@ -6020,9 +6020,9 @@
     "quantity": "X 25",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9660.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "84c5dae1755ec7cad87d20749b128afee4c4ba784d9e503c7f089d106c85bb77"
   },
   {
@@ -6033,7 +6033,7 @@
     "product_name": "HARIBO 메가 파티 젤리 1KG",
     "sale_price": 11590,
     "category_image": "과자,간식",
-    "share_cnt": 27,
+    "share_cnt": 28,
     "category_id": 12,
     "normal_price": 13690,
     "to_date": "2026.03.01",
@@ -6046,9 +6046,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1510.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d818020e78cf6d9f79ee7f9d75b11a06129d4946f892036ae8fb004a4a734371"
   },
   {
@@ -6072,9 +6072,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/908.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5774ecda2d99f381750d1bb1a063ac1fa67a67641818f6d473f649265540b994"
   },
   {
@@ -6098,9 +6098,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/326.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cad2d9b385eabdb44905a47eefe004ad59373f2d1c33c1860c3301df026883c1"
   },
   {
@@ -6124,9 +6124,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7694.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "aed3211d3ef8695583df799bfc98d2f1e4f7df2091f631d57b8a6b1a567a3ed0"
   },
   {
@@ -6150,9 +6150,9 @@
     "quantity": "X12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/297.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5134ff8c53dc9f64ad49883343017aa3f57d1b3848db2f291c9901f7b1377f5b"
   },
   {
@@ -6176,9 +6176,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10609.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "bfc569bb4c27eb835124aca5c8f4bb446b1c1866690be0f9061d16a0d00c9f1b"
   },
   {
@@ -6202,9 +6202,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8625.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "773a33cccce10f79e09bd94001a88e9c520efec84b6cda423f1ac2512d9e53ba"
   },
   {
@@ -6228,9 +6228,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7508.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "aeb985043e125037a113025a2ba70d3bb2684ae927bf23b19a0d33d709c016de"
   },
   {
@@ -6254,9 +6254,9 @@
     "quantity": "X 32",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5505.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ca10c1efb44843ce818d4dea14be25c3ab7468632a4231957b6d7fd09ec9792a"
   },
   {
@@ -6280,9 +6280,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1056.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4346f0dbbf3638b8110763a7fcac9b27b32567d4a6389b69da1034f222550cc6"
   },
   {
@@ -6306,9 +6306,9 @@
     "quantity": "X 4",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7382.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7c0d16d66c23a525ae1d31c620e9bcc09ffda0c136a590962f8bf1be9df5c38f"
   },
   {
@@ -6332,9 +6332,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10763.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "373aa33ec0ac3e8228735c627d9b74f22af332109ef31001b7b36312bca5f666"
   },
   {
@@ -6358,9 +6358,9 @@
     "quantity": "X 7",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6217.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6b41abb1298f570315e480def1b10b4a89e845e93f191e7d62b7e1a9bda77b7a"
   },
   {
@@ -6384,9 +6384,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5168.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b9143668c0c8a5ace5dd616c29278dc9ab7a84525a61c54e8764d85054e9f395"
   },
   {
@@ -6410,9 +6410,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9093.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "aa73ddeb3f2198a5f411a85daf4fa149058570aff1419d6369ae36b44aca8e13"
   },
   {
@@ -6436,9 +6436,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/173.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2bed47d66472759e026e282574b91b313edf0b0957c5daf48a6c822c281f4e4b"
   },
   {
@@ -6462,9 +6462,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9748.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "091b64b418416104c407014e45fbfb751554e4a37154ca00910d67daf19dbf78"
   },
   {
@@ -6475,12 +6475,12 @@
     "product_name": "신화에프에스 갓 튀김 어포 400G",
     "sale_price": 10590,
     "category_image": "과자,간식",
-    "share_cnt": 37,
+    "share_cnt": 38,
     "category_id": 12,
     "normal_price": 12890,
     "to_date": "2026.03.08",
     "product_id": 6661,
-    "like_cnt": 864,
+    "like_cnt": 865,
     "image_url": "https://image.cocodalin.com/product/sm/%EC%8B%A0%ED%99%94%EC%97%90%ED%94%84%EC%97%90%EC%8A%A4%20%EA%B0%93%20%ED%8A%80%EA%B9%80%20%EC%96%B4%ED%8F%AC%20400G.jpg",
     "core_name": "신화에프에스 갓 튀김 어포",
     "origin": null,
@@ -6488,9 +6488,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6661.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2b292fc7603f4b8cb7779e3a1440bcbe905624facef0fdad52c7c953e9e27cf6"
   },
   {
@@ -6514,9 +6514,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7374.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "168e5b99334adbff96b12ee54da4c38a2a86c8bab33ce5996bcbb03c4db345fc"
   },
   {
@@ -6540,9 +6540,9 @@
     "quantity": "X 60",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10129.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0bf5d60ab90d60ee628cde68c94e47860d4a54dfcf167a0af251bb9155e33391"
   },
   {
@@ -6566,9 +6566,9 @@
     "quantity": "X 12",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7283.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "165037e480aec2770bf83f5e030699b9a511557149ed5100cfff466a963fe818"
   },
   {
@@ -6592,9 +6592,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4199.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4afbb37fcab2057796dc97c145c5837a8588776e0b7a4415f63ce0c3d69aefa6"
   },
   {
@@ -6618,9 +6618,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8741.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d69ace1c9ba2ad30e6200d79d97d2efdf4ea5785dc67f385042e134ab560195a"
   },
   {
@@ -6644,9 +6644,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9400.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6df4d5919d8fc8e12b5a889020ad9db34f7f52fa1e3f0d35c5137ce6b12dcecd"
   },
   {
@@ -6670,9 +6670,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9334.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "bedeb7349a98714ac3ce2d68e8a2d698df0bf48fbe73d970a084353a3c13ba75"
   },
   {
@@ -6696,9 +6696,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9335.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "bedeb7349a98714ac3ce2d68e8a2d698df0bf48fbe73d970a084353a3c13ba75"
   },
   {
@@ -6722,9 +6722,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9399.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6df4d5919d8fc8e12b5a889020ad9db34f7f52fa1e3f0d35c5137ce6b12dcecd"
   },
   {
@@ -6748,9 +6748,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10190.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c8f16df16475c6ef30c3f35a15306bef2d1258b3b00f2a2314f7784a6daeebf3"
   },
   {
@@ -6774,9 +6774,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10754.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d3a8df2927e80808ca7908c36a2b93d4c4c876cab6fef992ec33dbce9b480229"
   },
   {
@@ -6800,9 +6800,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9236.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "92e55f410c28409208abc43f97176a118a367ab0ef22f4c04c188adf10ad47d7"
   },
   {
@@ -6826,9 +6826,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9237.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "92e55f410c28409208abc43f97176a118a367ab0ef22f4c04c188adf10ad47d7"
   },
   {
@@ -6852,9 +6852,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9523.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a3f34f604301dee6fb691161bf400e5d6723e76688e6e2e8493f7076eb7ade59"
   },
   {
@@ -6878,9 +6878,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10038.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "115bb11fdeb38a6b7cd52d25749c9bb7d9d98ba5608dc2eec24a8aa08e485cf6"
   },
   {
@@ -6904,9 +6904,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10040.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "115bb11fdeb38a6b7cd52d25749c9bb7d9d98ba5608dc2eec24a8aa08e485cf6"
   },
   {
@@ -6930,9 +6930,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10135.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "61761cc633bce2b135ec63b2d2e36b4c4c9d22a98206dee9b6bfa768412142fc"
   },
   {
@@ -6956,9 +6956,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9271.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5a4af488df977ed866689dfe7e78da4793a55e4d10b43bb30f6242fdbc58cb56"
   },
   {
@@ -6982,9 +6982,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9326.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ecad6d2d44e0d38a27cb6dcdebca0e7e573058a46345c57e35db5363202bf382"
   },
   {
@@ -7008,9 +7008,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9325.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ecad6d2d44e0d38a27cb6dcdebca0e7e573058a46345c57e35db5363202bf382"
   },
   {
@@ -7034,9 +7034,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8631.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "978b175b3973dde5e23616dc14463b3eeb8c3da72b192fbc0991121a13c58b90"
   },
   {
@@ -7060,9 +7060,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8632.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "978b175b3973dde5e23616dc14463b3eeb8c3da72b192fbc0991121a13c58b90"
   },
   {
@@ -7086,9 +7086,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8633.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "978b175b3973dde5e23616dc14463b3eeb8c3da72b192fbc0991121a13c58b90"
   },
   {
@@ -7112,9 +7112,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10778.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "78053e77c49ccf25a05e5b65f9fa10a4837623d578efe01a249cfd89e841c5b6"
   },
   {
@@ -7138,9 +7138,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1274.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "92397b3d61e38b6bbac206f7a490d5422c562c413f7f057183ce7dab249748ec"
   },
   {
@@ -7164,9 +7164,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10715.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4b0ef5eddbc382e16c30d7ed627e7eea4acb782b317b3a2a8771e734ecd02ec2"
   },
   {
@@ -7190,9 +7190,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10048.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3592c2e8f2cc3235ed5b761f33fc5c11de0138105a8bb87a349c7699c9f36f6b"
   },
   {
@@ -7216,9 +7216,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8936.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8c2138c36a299afd69377487596270912c93aebab8e2e2f3f3f44fd1f4a45662"
   },
   {
@@ -7242,9 +7242,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10755.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6977aafc1b0ad9c9b7fa0f9deb769f7e18f08f54135d8472be10140ade1702bf"
   },
   {
@@ -7268,9 +7268,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5752.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9befc24660881ffa5c11f48eab6547d1cde6dad01bda150e8fe8c771c58972e6"
   },
   {
@@ -7294,9 +7294,9 @@
     "quantity": "17매",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5615.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d985efe8e8bdea6983b37fbdfe22b7c25c88bcbe7406e5c4d42aff05f242425e"
   },
   {
@@ -7320,9 +7320,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8127.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9ff7e90ede8d0856f312460996f1c02c1cbbb58bcd780f31c5ebe220c022b663"
   },
   {
@@ -7346,9 +7346,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6242.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a97e6f98a2fbdef39a5486f6c9a37eedea875e12cf1c264c6b42f2f612dfa245"
   },
   {
@@ -7372,9 +7372,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/56.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8f241629dab48f0e06a7940098d56bfc1772891d8b8251ef8e7c1d24ece24594"
   },
   {
@@ -7398,9 +7398,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10756.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1ac170fcb6e10a2e99cd7547243b1faeab358a958cccfecc4d38bfcbdc5cd897"
   },
   {
@@ -7424,9 +7424,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10324.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "63706e0705637a989d92630ef2b146c04ead06949c88e6827d37871f24900edf"
   },
   {
@@ -7450,9 +7450,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7038.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "56d9bddb1b234affda0b57b2354ea186f02d2655d97b700ae8a9c47cb4428781"
   },
   {
@@ -7476,9 +7476,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/193.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "acc1f7a5ff55f630145fd923a705090a6d7ca9e2ec3a3ad8fc5706450a2b9e3b"
   },
   {
@@ -7502,9 +7502,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10779.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "dc9c35de726883792df996c989b475d408067fdfb7b8889b2e8d2f22f76d9f8c"
   },
   {
@@ -7528,9 +7528,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7831.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ed0dafd15df789d8b1e010d10fd2afab48b37cd386a160eaa00d2aee7be2aff9"
   },
   {
@@ -7554,9 +7554,9 @@
     "quantity": "60개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9706.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1144f733a09cb6b3af9cd445e40d67e2283a288e43774665945cbd154bc1f17f"
   },
   {
@@ -7580,9 +7580,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10729.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ab4ef646114a689d1b311c9630214b6ded3ddb2af3e60e2765176a7373eda734"
   },
   {
@@ -7606,9 +7606,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9489.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "02b8b12d6c58dc5c4a7cd17f747362564185943809cfa8f93e9cbbd08c9dcbfd"
   },
   {
@@ -7632,9 +7632,9 @@
     "quantity": "122회",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/47.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1c2c5b2ca252f4dcb12f7db333de03bccbad00424e6cc8ec5336196128be739b"
   },
   {
@@ -7658,9 +7658,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/498.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0827a4eda56395181ce85240260444c868c403ab98af2dc7224732ea4d971794"
   },
   {
@@ -7684,9 +7684,9 @@
     "quantity": "40매",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3927.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b9fb7225e08a8e14c7d8f13f7119c9b4d8d5f3114c566022f4cfe51f24725b57"
   },
   {
@@ -7710,9 +7710,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8686.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "406d9db248a47ceb3b22f4455284a7c2e8a4cadcc1b7e5ce96cde8f0c9fc1bad"
   },
   {
@@ -7736,9 +7736,9 @@
     "quantity": "10개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6679.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f8b076559302300b8e5704db22c56fb72815ffe1fcacef0643f17cc743fe246a"
   },
   {
@@ -7762,9 +7762,9 @@
     "quantity": "200매",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1437.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "153d9a153395585d17b9bfb187dafa817458fab6c848de0a29ee1d55104ad84f"
   },
   {
@@ -7788,9 +7788,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/616.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7c557150f4ed07e109d5704ef4ff40a7bb0330da54f7334640ed9643188e7126"
   },
   {
@@ -7814,9 +7814,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/60.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fe2a9b8502560ad98ecdd1ef7f774d40595f32fc4d6bdaa5355ab092e160af65"
   },
   {
@@ -7840,9 +7840,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2125.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6eae8963af4c4e4109b32c4adf00608a85fdc0d11906fe7c3bbafd4a7ee47fd2"
   },
   {
@@ -7866,9 +7866,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6251.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1257b8ae3868e9ea637e4edc0259a0cc6eacda6cea4d654e2227702c38e101e5"
   },
   {
@@ -7892,9 +7892,9 @@
     "quantity": "250매 X 16입",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8566.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d2db42ac95d1512038f2ed8819b2cbe7d0543aa71f03dcf1ae64239df88a2872"
   },
   {
@@ -7918,9 +7918,9 @@
     "quantity": "60매 X 8팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/57.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3a105c62a72f273424a56269f8e1405184703ba8b4b002fb6c68b49b18e1d345"
   },
   {
@@ -7944,9 +7944,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/888.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "81c4f568190711af8443e67ea991e25b18e65213231d98d9c8897a8ed3e5953e"
   },
   {
@@ -7970,9 +7970,9 @@
     "quantity": "100매",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5500.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3033cdc7ef35893fcc691761e74305b64301664c1a4856fc9fcc3300fef18b91"
   },
   {
@@ -7996,9 +7996,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9636.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "e39197e4530c16c3462f94c8cc79a6c92c0851b4dac5d0775fa119b00ec6583a"
   },
   {
@@ -8022,9 +8022,9 @@
     "quantity": "X 2개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2954.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "43c51885e69fdb6c4157f32b9f231f5e9bca1fbcd5d1a746a4b5aa9e149d7990"
   },
   {
@@ -8048,9 +8048,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5851.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cd0286c25bc6aad73373f59a2aff0fb156e829706c61284ee91488aad82fdd11"
   },
   {
@@ -8074,9 +8074,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10749.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c7276f9838160c548397dcdd0868d3232bc390110209e896f01b4c708f42d349"
   },
   {
@@ -8100,9 +8100,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9927.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "17f8338b5c1e3e0259bbae9ffe07773bb812b3925ee9ba1f6243802c618f9af4"
   },
   {
@@ -8126,9 +8126,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10781.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0168937a17f13a4c70effe08143c41ee6672bc8bbf2b312a515f136a68e2fdeb"
   },
   {
@@ -8152,9 +8152,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9106.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "e7114cd964633883156cfbe3bbccfede88bd7c7b03e3a58bc056c7337f95bf2d"
   },
   {
@@ -8178,9 +8178,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10540.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ee7401213aff0d34f7ea62e0eaee2e1a29c2ca99c38c98a2749f24656fbbab2b"
   },
   {
@@ -8196,7 +8196,7 @@
     "normal_price": 27990,
     "to_date": "2026.03.01",
     "product_id": 200,
-    "like_cnt": 137,
+    "like_cnt": 138,
     "image_url": "https://image.cocodalin.com/product/sm/BODY_BLUE_%EC%97%AC%EC%84%B1_%EB%B8%8C%EB%9D%BC%ED%83%91_2%EB%A7%A4_S%2C_M%2C_L%2C_XL_ASIAN_SIZE.jpg",
     "core_name": "BODY BLUE 여성 브라탑 2매 S, M, L, XL ASIAN SIZE",
     "origin": null,
@@ -8204,9 +8204,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/200.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8c66307ffa120c2a75791d93320ade5bf9802b8ded922b82c1939d4d826e9cf3"
   },
   {
@@ -8230,9 +8230,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10723.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8b188712f4c77242995faa300e083279c38097ab605ee3ed7146ee322b6d0a54"
   },
   {
@@ -8256,9 +8256,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10732.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "707a720420004f75c796b9ea08024a1eb07c965642f4431b3dbe691316fd748e"
   },
   {
@@ -8282,9 +8282,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10772.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a66dc86709016b3611f6fb863f0f393a26eafb2214e58575c69d93a4fa80aa9d"
   },
   {
@@ -8308,9 +8308,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10619.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d78d129c567a0db26ad4c0442777db7955ef6a454710f6cb7f0f342120e37cb7"
   },
   {
@@ -8334,9 +8334,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10771.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "019453b974fba63cc612c2302bbd1f808dd2ac09ebe094d812322de02e30412c"
   },
   {
@@ -8360,9 +8360,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10748.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "bd0c4d492e7bfe0bcd8cf2d1ce609a8ed80d123067403c79d323d552fc5bb5c9"
   },
   {
@@ -8386,9 +8386,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10753.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7a46082686b045e7cd32ee318732adf905a7a7914db50d923d65d0f0a331728c"
   },
   {
@@ -8412,9 +8412,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9072.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2f5341eb4e2f08efb11b90b4e19675c027fd08e7a8a41c07aedd0641190d69d1"
   },
   {
@@ -8438,9 +8438,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8915.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2f6d3c1d361a91b0a75da269ca7454b740afbd6505dbaddead1f5bdb1762a0ab"
   },
   {
@@ -8464,9 +8464,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8886.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cf47352f512df71a320b0646ef5ce1316b01890c46c4d0a196f25490724d6423"
   },
   {
@@ -8490,9 +8490,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10769.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1b524730b6eae89ea618b05e1f6dd161b33ac096144709b4966e4521ba8baaaf"
   },
   {
@@ -8516,9 +8516,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7105.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "38148ea22d12cb363ef952f4351cf0361f7515e2104ac9377f7429fc811dcca0"
   },
   {
@@ -8542,9 +8542,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10751.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0126ef2805aa1d30630dae8bc874a68fd75fb9f83916760b859d6a9716b0c17f"
   },
   {
@@ -8568,9 +8568,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7000.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6ffca36548c449c3aeb8acae5e8ee609c24cbda311f4f03918f84f2124cf4047"
   },
   {
@@ -8594,9 +8594,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10724.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3cbe4534ae1c9a257c4c9c5a25624bcdf2bca4cf26eea6ba4067b1229ffb15b8"
   },
   {
@@ -8620,9 +8620,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10782.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d28e01cd4394514daed8a5b48d531b079e8363af6d57566955aebf3d37dcf6b1"
   },
   {
@@ -8646,9 +8646,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7032.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "42ad2101fd266f8d08e37073330029952640e4a5ec383edee06db0c9338e715b"
   },
   {
@@ -8672,9 +8672,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10773.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b6e1ed24ed88e3fac5ccb0326ef26bfb672617eaae2bc02cf91d967ca2c1149f"
   },
   {
@@ -8698,9 +8698,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10482.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3015688119bdbfa4080c008a41543e2a33ee62516539d53e7068970248664c98"
   },
   {
@@ -8724,9 +8724,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7088.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9312fa9c64927fc07d9e25807da153f7bf556ae50c2030d73602465f76791618"
   },
   {
@@ -8750,9 +8750,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10717.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "be5ec81ebf78487d5dcba83837c3e7c531b45e4502d46b71857bcb0a164d9196"
   },
   {
@@ -8768,7 +8768,7 @@
     "normal_price": 39990,
     "to_date": "2026.03.01",
     "product_id": 10718,
-    "like_cnt": 44,
+    "like_cnt": 45,
     "image_url": "https://image.cocodalin.com/product/sm/PHG%20HOME%20%EB%B0%A9%EC%88%98%20%EB%A7%A4%ED%8A%B8%EB%A6%AC%EC%8A%A4%EC%BB%A4%EB%B2%84%20%ED%80%B8_%20150X200X33CM.jpg",
     "core_name": "PHG HOME 방수 매트리스커버 퀸/ 150X200X33CM",
     "origin": null,
@@ -8776,9 +8776,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10718.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "219e8ccc43c67cee807c97d188e9e5ff6ea6ff8e381a93ed83f35aaaec55ee3d"
   },
   {
@@ -8802,9 +8802,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10617.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "10e0cf73f5ee9bc1736627d385298a0ffc17706ae8b635aed9d6d38592c262c2"
   },
   {
@@ -8828,9 +8828,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10725.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d85ef40248678ad582476a2bd3abaad55cde586843abd906279d223e2bf6c4cf"
   },
   {
@@ -8854,9 +8854,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10752.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ccbcb6ca823a67cf39da579d9c5b163ffec8650f6b5515cc269208c82f106e04"
   },
   {
@@ -8880,9 +8880,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10750.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1d681038d990a31ef74ee0418e7d36d2387f3faf22ad059844b131f6bb8ec8d8"
   },
   {
@@ -8906,9 +8906,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10722.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "06b3f4934d68a5e49fa6e33e935daac535686fce90e728f9a4f5b36fba8023a1"
   },
   {
@@ -8932,9 +8932,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10731.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5bfe12da23d5d9a0b7a37784a134a895de6e763d4d1947e4e93018ba6e7ba8f2"
   },
   {
@@ -8958,9 +8958,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10770.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "685dc3e9bb622262628b0866ee957206b0e1356b9830455aca296c1277d13888"
   },
   {
@@ -8984,9 +8984,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10721.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b3c764be60f3b6190ad988b9902add6e55eb3555ee65aab3156b344ccb290e9d"
   },
   {
@@ -9010,9 +9010,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9105.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "dddc2c062a250a9277eaeb81bf208b6dfa9d6373cea642d4eb2467b1e8b784ac"
   },
   {
@@ -9036,9 +9036,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10780.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b8f55379fffdb75e24723679f91f0049f965b559c81ac522774d4e169eabb8d1"
   },
   {
@@ -9064,9 +9064,9 @@
       "400G X 25팩"
     ],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9042.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b52ad467129a0e706ef38af704663cef2e94f4993f9c532f548f8dfea0de26ae"
   },
   {
@@ -9090,9 +9090,9 @@
     "quantity": "2개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1030.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fe596c60084e75d842d486abe25e8bc885c360148fd9187c6a51e8b69d04a5bf"
   },
   {
@@ -9116,9 +9116,9 @@
     "quantity": "X 3개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/492.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5920def7289c73798af9431a95562480283b267a48cfa7250dd25798cd875bec"
   },
   {
@@ -9142,9 +9142,9 @@
     "quantity": "3개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/491.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8b88f99f70ff6a9e426aebcc480635776f379e6617657edb7aec41052280f3cf"
   },
   {
@@ -9168,9 +9168,9 @@
     "quantity": "20 PK",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3308.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "a70b909a01360f384ae2fe5a8086c4a3ec0c8bc49dbf4988871c71394d45c17e"
   },
   {
@@ -9194,9 +9194,9 @@
     "quantity": "20 PK",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3879.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8e5dca82bc738746456db3e831fcf0344e64f916ba12db2798cb3f60f66974df"
   },
   {
@@ -9220,9 +9220,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8153.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "18e56515c8e90f8294cea7d55451d76763976b5ebe21563fb65004aeee9da398"
   },
   {
@@ -9246,9 +9246,9 @@
     "quantity": "X 3개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2078.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "fa8d2116ae8b47934ed549c729315cce15b9325e5e7182d1d6d9ddfbc2647ad6"
   },
   {
@@ -9272,9 +9272,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2079.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2f1f4fd0c710004dd2789a7fd16a824cc64ffe763ac299b0838929405d243e91"
   },
   {
@@ -9298,9 +9298,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10532.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4c51c69de28a25ba3a356a9fa965be110e7db20f51dc76f4c3f0bd1c3b7fe8e7"
   },
   {
@@ -9324,9 +9324,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5930.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "808a6062c26e7206e85b18362d3ef2774c499860f17229777e005725fef3953d"
   },
   {
@@ -9350,9 +9350,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1388.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "95eab256c75e6dba1e820076d84b1025d7d6a79f33fc2cb7339438ae83f5f168"
   },
   {
@@ -9376,9 +9376,9 @@
     "quantity": "2개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/2579.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "495bc49ad14dada110915c9ade3454848a153930ee4f7008fb6cf3b9b94257e2"
   },
   {
@@ -9402,9 +9402,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10742.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c31bb479f4c8ed5fcd7e17ed0b01ce0727c6ae4e897e43ff1739f0d54cf5f7ec"
   },
   {
@@ -9428,9 +9428,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9201.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "01b7feae3202d79a0a99639292f3f4e6011ae03839d25244bd7b722fb5edb712"
   },
   {
@@ -9454,9 +9454,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7861.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d1b578fb421e0cf9d114acfab9fce838a84a576bece046415edfbd31dc164c47"
   },
   {
@@ -9480,9 +9480,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7862.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "bbafabcaf896a84f7e5a7b0cb3e61ab546c260eec284698839009a8f11fe3a04"
   },
   {
@@ -9506,9 +9506,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5392.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7a8fec7eaa68f43712c87e64b7bb68f7d97c7bfc2c98357e3be5818842a9875c"
   },
   {
@@ -9532,9 +9532,9 @@
     "quantity": "X 42",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7720.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "41ea1656c647955d20a5ce7c6e99e6849a4321808f6fe0f7aece6bbde13a1209"
   },
   {
@@ -9558,9 +9558,9 @@
     "quantity": "X 24캔",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/818.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "14174efdaa222eac87178469bf78c1e8bc32f8126f13e4f8e5576a0b46fdb3ff"
   },
   {
@@ -9576,7 +9576,7 @@
     "normal_price": 11990,
     "to_date": "2026.03.08",
     "product_id": 9896,
-    "like_cnt": 177,
+    "like_cnt": 178,
     "image_url": "https://image.cocodalin.com/product/sm/%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4%20%ED%8F%AC%EC%BC%93%ED%98%95%20%EB%AC%BC%ED%8B%B0%EC%8A%88%208%EB%A7%A4%20X%206%EC%9E%85%20X%206%ED%8C%A9.jpg",
     "core_name": "아이리스 포켓형 물티슈 8매 X",
     "origin": null,
@@ -9584,9 +9584,9 @@
     "quantity": "6입 X 6팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9896.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ed5f1376f04dc1d085cff231cb5fb2c1fb068e52cbc883fa923dc6e379235d76"
   },
   {
@@ -9610,9 +9610,9 @@
     "quantity": "24개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10446.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3654350eb82392cc9faba73c595434c25b6d56e34a767d07f19a628f3e06770f"
   },
   {
@@ -9636,9 +9636,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/611.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0c03d246cf4e326c9fc2c14f5c0487f0aca90980a24d537258e8208545575099"
   },
   {
@@ -9662,9 +9662,9 @@
     "quantity": "50매 X 14",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9281.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5d87e8082fa33c9946ae4569ae3797cffd83bf5dedac1aaf0257bd9f0f784022"
   },
   {
@@ -9688,9 +9688,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8098.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "cd1fa686775c806000d3beccfc51c65d23e2a0d076843618a306c2e5779ef713"
   },
   {
@@ -9714,9 +9714,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10743.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7b2376bdaf4f367cba1c27aa4c8f00f6447ce241bb8c516b91a259946a1725b6"
   },
   {
@@ -9740,9 +9740,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10475.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f2743fd2c8d8c1f7d8936bbefb06c690594115dd9a9c260a699940185edf0767"
   },
   {
@@ -9766,9 +9766,9 @@
     "quantity": "X2개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3395.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5a7bc027a325f40edd1492e5e1c0e771018726bfc413395cbfca9ae9065040c5"
   },
   {
@@ -9792,9 +9792,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3394.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9ff25baac433b6319f074ab0082b563e0069f55fe1419e3fbccefcd1b1122a0b"
   },
   {
@@ -9818,9 +9818,9 @@
     "quantity": "X 2개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7026.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f48ab586dc91b9a55de93a0ee8017d70e1ef48e71ad5330425aa0ef0cadc7773"
   },
   {
@@ -9844,9 +9844,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5450.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0e3eb1e73e820632b4fa7076afd8f9a53f85592c5993608eab01b542f4976084"
   },
   {
@@ -9870,9 +9870,9 @@
     "quantity": "X 4개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10745.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3112704eacf0a97568d25bab69bbbdcdb7cd4a084c68953117de34c817b5f91c"
   },
   {
@@ -9896,9 +9896,9 @@
     "quantity": "14개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7641.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f307ad0f6e9a7c52d6044ff69e0109667a0a0d0e2e6eee79617064aa4adf4209"
   },
   {
@@ -9922,9 +9922,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7640.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2aa3ddd974fbf8a3f8b93aa0be79adca86d23b4ed041db37460adb02637bf0ab"
   },
   {
@@ -9948,9 +9948,9 @@
     "quantity": "40개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6862.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8034f3a12d113ff347932295170d2bfccae031a07b57de992be6802ba1a06f63"
   },
   {
@@ -9974,9 +9974,9 @@
     "quantity": "64개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6770.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6b3d9914c7e6d1952b241578bac4eb86193d37933d623b015df923b1eea945d1"
   },
   {
@@ -10000,9 +10000,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5054.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "10e714892dcfe9e74314a3e2a290a1c5946f427238f47458d998c7e2b8f44893"
   },
   {
@@ -10026,9 +10026,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/4464.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b1db2e49c0aa1a65f0767c655386f19c30a98fe6fe84ff1828efffda5b0cde38"
   },
   {
@@ -10052,9 +10052,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10328.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0f5861c5b30be841f5eaffbe0596816eb1b96d7cb6e9c3bf05e2c76da765d5bf"
   },
   {
@@ -10078,9 +10078,9 @@
     "quantity": "X 24입",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8964.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1ca1fb291eee0636642748f7352e5411439c46788d95dc494992b7bbb1cf2963"
   },
   {
@@ -10104,9 +10104,9 @@
     "quantity": "X 60포",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10538.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "70f5142d7b2ced67395fab0fa97464efab8b2d248cf5a8b848a35759a33373ff"
   },
   {
@@ -10130,9 +10130,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10645.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "56f81c8ba77aef3884945386db2625ce75c72ffb94765dfabf422eaef475991a"
   },
   {
@@ -10156,9 +10156,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10564.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "56bb5d852421a84f7b73dba5eb87543d45a6ff9bbe0d8b2c1705806aeb101a38"
   },
   {
@@ -10182,9 +10182,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10647.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "56f81c8ba77aef3884945386db2625ce75c72ffb94765dfabf422eaef475991a"
   },
   {
@@ -10208,9 +10208,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6343.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "487019e39ae9212540faade79463750e3faf02cea7c959bd15b0efa872da9d80"
   },
   {
@@ -10234,9 +10234,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1221.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d7046858664f15da8f66655f2c7229d1f9d6d4a322eb4a92a8b7de27b7042880"
   },
   {
@@ -10260,9 +10260,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8390.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c053c1e5c3f14fee72f3e88f5121b031a13e08916031f629352798812b6fb512"
   },
   {
@@ -10286,9 +10286,9 @@
     "quantity": "20개 X 4팩",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6719.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "3aa8bacf783a6c32f1585a03b046fb41b1b446964f1a624f6711977aaa02f7e9"
   },
   {
@@ -10312,9 +10312,9 @@
     "quantity": "7개 ",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3336.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0ac79af0aba89da7497b0875f5f2fdf13259ad8689a5d067984470205a903d9f"
   },
   {
@@ -10338,9 +10338,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9101.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c1633a7e739b9cb67c0ec90b54c05ea8467cd8dd016ff80b5ad7af5feac2ca99"
   },
   {
@@ -10364,9 +10364,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8106.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "f67364f4e151515782cf92c84249b04e3989a32f3cf763aa2bb9592689fe5cf4"
   },
   {
@@ -10390,9 +10390,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8105.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "d593317a0c055468b45d1bb833a5752b4f5c6a3c75849c2a37db9b13b4755eae"
   },
   {
@@ -10416,9 +10416,9 @@
     "quantity": "X 2",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10257.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8cf486db5058d21388f4eb36943dc9cf8f9d5a8c4f3bc12a19be6ef9a0ae0f38"
   },
   {
@@ -10442,9 +10442,9 @@
     "quantity": "X 24",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/6965.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0628c226741f94296e54b4f3ce5ccf39f593d439f04a10d97ec724587e778d11"
   },
   {
@@ -10468,9 +10468,9 @@
     "quantity": "X 6개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8920.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "06e365186075c11172cf3aadf7623a496fc7319872897bd844b12d1ddaa3739f"
   },
   {
@@ -10494,9 +10494,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/5529.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "1092feb7c546d010343acb8a0fbfdc02070e9aa769d0fadd105516303ffab07b"
   },
   {
@@ -10520,9 +10520,9 @@
     "quantity": "X 2개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10333.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "37aa30dc12176f971eebf57410cfba9b8fcea5bcdc848882395143fa2d74547e"
   },
   {
@@ -10546,9 +10546,9 @@
     "quantity": "X 4개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8331.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "6cac6f0d6651c9ad20fe46f443d5c307a6506a2d99e741503723f0ee0d503f6c"
   },
   {
@@ -10572,9 +10572,9 @@
     "quantity": "X30개",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10747.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0f857f11632d77dfef349e59b3260216f028a1bffc91c55e74ba955e42a6e280"
   },
   {
@@ -10598,9 +10598,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7422.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4c4b3d42895640714e4323ddf5c9d3c24a904c3f4e250d6899143aa82c834f7e"
   },
   {
@@ -10624,9 +10624,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8110.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7b6d2b7332467ec532ec91420ee91c52f8bc85641946ce79f2e94ebbcd5f2961"
   },
   {
@@ -10650,9 +10650,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9103.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "4f31c046e3be832dca6eb0dcb4209878d4086d51ae9c3ea7cdc5437eec8bf985"
   },
   {
@@ -10676,9 +10676,9 @@
     "quantity": "50포",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9491.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "5814d8773d68b15e901c4ee3cf7fd5e97a2ffb730b1ffb1ff91fa7c2f5f920f9"
   },
   {
@@ -10702,9 +10702,9 @@
     "quantity": "X 100포",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/8945.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "31e7afb4a8a7281c4719299ce5f3084dc8af7fe83db8ed579b53b746eba4175b"
   },
   {
@@ -10728,9 +10728,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/3883.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ee264e4f527b9d9032c8eaeb8a77ad6b3e524cf8ba5e7c62b39bceed09943ede"
   },
   {
@@ -10754,9 +10754,9 @@
     "quantity": "8PK",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10744.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "811ded281a5c1c75354c90003fe4359bb29282e09181222728e18a5253dc53a1"
   },
   {
@@ -10780,9 +10780,9 @@
     "quantity": "180CT",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7153.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "7d5b61c16a265089cfdc6d179cc9621c993451b4feaf594805f63897b82217be"
   },
   {
@@ -10806,9 +10806,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7722.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "c8ba0bfc2192902cd55e1037dea5ee55d4e3468c15f2432698fb310df30b69ed"
   },
   {
@@ -10832,9 +10832,9 @@
     "quantity": "X 2병",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10746.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "911c0311709e9127959cf08b011a1c3cf95bec8d3c6a0f61e8b9d1f80e93a332"
   },
   {
@@ -10858,9 +10858,9 @@
     "quantity": "60포",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7865.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "0fa980a6b7077f7e199286849bb3c95bf6c94e42bbdbec6a0f32a0cea3f2192f"
   },
   {
@@ -10884,9 +10884,9 @@
     "quantity": "X 3",
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/211.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "25720110e069d712cdfc376ca34dc14f9f4dd80851d9168f1ec83b58116a8855"
   },
   {
@@ -10910,9 +10910,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7329.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "8393ecc49f597f1fee2dce5b6dde23840e1a138e3d9b4a144a2704efb7921a23"
   },
   {
@@ -10936,9 +10936,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/9527.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "672061ef3d26dfd97e4a84dccf60dc0d28e7499a29a516907e261f9f2e89a648"
   },
   {
@@ -10962,9 +10962,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/1180.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "b174cfca174ea3985bae657f9139e7b0bbdfe42ba943d7b01a62d9ddefe80140"
   },
   {
@@ -10988,9 +10988,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10535.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "2667622ffc828b5c46364fa8e152a889604702703b9ac23900ff96cae64a1e1e"
   },
   {
@@ -11014,9 +11014,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/7829.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "ed23bc2e633342e660225f7d1edb58fe5164c6c6f7054b96c69a1ca9b5003f87"
   },
   {
@@ -11040,9 +11040,9 @@
     "quantity": null,
     "others": [],
     "first_seen_version": "2026-02-23",
-    "discount_count": 1,
+    "discount_count": 2,
     "local_image_path": "images/products/10226.jpg",
-    "image_status": "downloaded",
+    "image_status": "cached",
     "image_hash": "9d973dad0fe6108ccfe2965dce283df0964855f769027637281b02688af82d76"
   }
 ]
