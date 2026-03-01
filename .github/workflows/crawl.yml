@@ -76,11 +76,13 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "public_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
           git commit -m "chore: update crawler data [skip ci]"
           git push
+          echo "public_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Dispatch private deployment workflow
@@ -89,7 +91,7 @@ jobs:
           TOKEN: ${{ secrets.PRIVATE_REPO_DISPATCH_TOKEN }}
           PRIVATE_REPO: YoungseokOh/hack-the-costco
           PUBLIC_REPO: ${{ github.repository }}
-          PUBLIC_SHA: ${{ github.sha }}
+          PUBLIC_SHA: ${{ steps.commit.outputs.public_sha || github.sha }}
         run: |
           set -euo pipefail
 
