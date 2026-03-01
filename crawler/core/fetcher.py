@@ -10,7 +10,7 @@ import hashlib
 from typing import Optional, List, Dict, Any
 from datetime import datetime
 
-from crawler import RAW_DIR
+from crawler import MASTER_DIR, RAW_DIR
 from crawler.core.config import config
 
 
@@ -31,18 +31,28 @@ class Fetcher:
     
     def _load_crawl_log(self) -> Dict:
         """크롤링 로그 로드"""
-        log_file = RAW_DIR / config.get('storage.crawl_log_file', 'crawl_log.json')
-        if log_file.exists():
+        log_name = config.get('storage.crawl_log_file', 'crawl_log.json')
+        primary_log_file = MASTER_DIR / log_name
+        legacy_log_file = RAW_DIR / log_name
+
+        for log_file in (primary_log_file, legacy_log_file):
+            if not log_file.exists():
+                continue
             try:
                 with open(log_file, 'r', encoding='utf-8') as f:
-                    return json.load(f)
-            except:
-                pass
+                    log_data = json.load(f)
+                # Legacy 위치(raw)에서 읽었으면 master로 승격해 경로를 통일한다.
+                if log_file == legacy_log_file and not primary_log_file.exists():
+                    with open(primary_log_file, 'w', encoding='utf-8') as f:
+                        json.dump(log_data, f, ensure_ascii=False, indent=2)
+                return log_data
+            except Exception:
+                continue
         return {}
     
     def _save_crawl_log(self, notice_hash: str, products_count: int):
         """크롤링 로그 저장"""
-        log_file = RAW_DIR / config.get('storage.crawl_log_file', 'crawl_log.json')
+        log_file = MASTER_DIR / config.get('storage.crawl_log_file', 'crawl_log.json')
         log = {
             'last_notice_hash': notice_hash,
             'last_crawl_at': datetime.now().isoformat(),
