@@ -47,14 +47,54 @@ jobs:
           set -euo pipefail
           if [[ "$FORCE" == "true" ]]; then
             echo "should_crawl=true" >> "$GITHUB_OUTPUT"
+            {
+              echo "### Crawl Decision"
+              echo "- force: true"
+              echo "- should_crawl: true"
+              echo "- reason: manual_force"
+            } >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
 
-          if python -m crawler.cli check; then
+          check_log="$(mktemp)"
+          set +e
+          python -m crawler.cli check | tee "$check_log"
+          check_status=${PIPESTATUS[0]}
+          set -e
+
+          if [[ "$check_status" -eq 0 ]]; then
             echo "should_crawl=true" >> "$GITHUB_OUTPUT"
+            should_crawl_value=true
           else
             echo "should_crawl=false" >> "$GITHUB_OUTPUT"
+            should_crawl_value=false
           fi
+
+          check_result_line="$(grep 'CHECK_RESULT' "$check_log" | tail -n 1 || true)"
+          if [[ "$check_status" -ne 0 && -z "$check_result_line" ]]; then
+            echo "crawler.cli check failed without CHECK_RESULT output"
+            exit "$check_status"
+          fi
+
+          reason="$(echo "$check_result_line" | sed -n 's/.*reason=\([^ ]*\).*/\1/p')"
+          notice_changed="$(echo "$check_result_line" | sed -n 's/.*notice_changed=\([^ ]*\).*/\1/p')"
+          catalog_changed="$(echo "$check_result_line" | sed -n 's/.*catalog_changed=\([^ ]*\).*/\1/p')"
+          catalog_count="$(echo "$check_result_line" | sed -n 's/.*catalog_count=\([^ ]*\).*/\1/p')"
+
+          if [[ -z "$reason" ]]; then reason="unknown"; fi
+          if [[ -z "$notice_changed" ]]; then notice_changed="unknown"; fi
+          if [[ -z "$catalog_changed" ]]; then catalog_changed="unknown"; fi
+          if [[ -z "$catalog_count" ]]; then catalog_count="unknown"; fi
+
+          {
+            echo "### Crawl Decision"
+            echo "- force: false"
+            echo "- should_crawl: $should_crawl_value"
+            echo "- reason: $reason"
+            echo "- notice_changed: $notice_changed"
+            echo "- catalog_changed: $catalog_changed"
+            echo "- catalog_count: $catalog_count"
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Run crawler
         if: steps.decide.outputs.should_crawl == 'true'

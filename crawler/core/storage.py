@@ -6,10 +6,9 @@ Storage
 import json
 import urllib.parse
 from datetime import datetime
-from typing import List, Dict, Optional
-from pathlib import Path
+from typing import Any, Dict, List, Optional
 
-from crawler import MASTER_DIR, VERSIONS_DIR, RAW_DIR
+from crawler import MASTER_DIR, RAW_DIR, VERSIONS_DIR
 from crawler.core.config import config
 
 
@@ -58,14 +57,40 @@ class Storage:
         with open(cat_file, 'w', encoding='utf-8') as f:
             json.dump(categories, f, ensure_ascii=False, indent=2)
     
-    def save_crawl_log(self, notice_hash: str, products_count: int):
+    def save_crawl_log(
+        self,
+        notice_hash: Optional[str],
+        products_count: int,
+        catalog_hash: Optional[str] = None,
+        catalog_count: Optional[int] = None,
+        check_reason: Optional[str] = None,
+    ):
         """크롤링 로그 저장 (Master)"""
         log_file = self.master_dir / 'crawl_log.json'
-        log = {
-            'last_notice_hash': notice_hash,
-            'last_crawl_at': datetime.now().isoformat(),
-            'products_count': products_count
-        }
+        existing: Dict[str, Any] = {}
+        if log_file.exists():
+            try:
+                with open(log_file, 'r', encoding='utf-8') as f:
+                    existing = json.load(f)
+            except Exception:
+                existing = {}
+
+        now = datetime.now().isoformat()
+        log = dict(existing)
+
+        if notice_hash is not None:
+            log['last_notice_hash'] = notice_hash
+        if catalog_hash is not None:
+            log['last_catalog_hash'] = catalog_hash
+        if catalog_count is not None:
+            log['last_catalog_count'] = catalog_count
+        if check_reason:
+            log['check_reason'] = check_reason
+
+        log['last_check_at'] = now
+        log['last_crawl_at'] = now
+        log['products_count'] = products_count
+
         with open(log_file, 'w', encoding='utf-8') as f:
             json.dump(log, f, ensure_ascii=False, indent=2)
     

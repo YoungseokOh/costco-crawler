@@ -7,9 +7,9 @@ import argparse
 from datetime import datetime
 
 from crawler.core.fetcher import Fetcher
+from crawler.core.image_downloader import ImageDownloader
 from crawler.core.storage import Storage
 from crawler.core.version_manager import VersionManager
-from crawler.core.image_downloader import ImageDownloader
 
 
 class CrawlerV2:
@@ -64,8 +64,14 @@ class CrawlerV2:
         version = self.version_manager.create_version(products, categories)
         
         # 6. 크롤 로그 저장
-        if notice_hash:
-            self.storage.save_crawl_log(notice_hash, len(products))
+        check_result = self.fetcher.last_check_result
+        self.storage.save_crawl_log(
+            notice_hash=notice_hash,
+            products_count=len(products),
+            catalog_hash=check_result.get('catalog_hash'),
+            catalog_count=check_result.get('catalog_count'),
+            check_reason=check_result.get('reason'),
+        )
         
         # 7. 이미지 다운로드 (선택적)
         if download_images:
