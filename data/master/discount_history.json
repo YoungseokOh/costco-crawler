@@ -13871,5 +13871,39 @@
         "discount": 4000
       }
     ]
+  },
+  "10835": {
+    "product_id": 10835,
+    "product_name": "밤 1망 (2KG) 원산지: 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.05",
+        "to_date": "2026.03.18",
+        "normal_price": 14990,
+        "sale_price": 10490,
+        "discount": 4500
+      }
+    ]
+  },
+  "10834": {
+    "product_id": 10834,
+    "product_name": "홍희딸기(1KG) 원산지: 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.05",
+        "to_date": "2026.03.05",
+        "normal_price": 15490,
+        "sale_price": 11990,
+        "discount": 3500
+      }
+    ]
   }
 }
