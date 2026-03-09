@@ -63,12 +63,20 @@
     "product_name": "딸기트라이플 STRAWBERRY TRIFLE",
     "category_name": "신선식품,빵",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.23",
         "to_date": "2026.03.01",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
         "normal_price": 24990,
         "sale_price": 19990,
         "discount": 5000
@@ -114,7 +122,7 @@
     "product_name": "미국산 초이스 척아이롤 도매 KG당단가",
     "category_name": "신선식품,빵",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -123,6 +131,14 @@
         "normal_price": 0,
         "sale_price": 0,
         "discount": 35000
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 55000
       }
     ]
   },
@@ -190,12 +206,20 @@
     "product_name": "부위명 : 척아이롤 원산지 : 미국산냉장육 KG당단가",
     "category_name": "신선식품,빵",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.23",
         "to_date": "2026.03.01",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 7000
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
         "normal_price": 0,
         "sale_price": 0,
         "discount": 7000
@@ -1357,12 +1381,20 @@
     "product_name": "비비고 플랜테이블 오리지널 왕교자 1.4KG",
     "category_name": "냉장,냉동",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.23",
         "to_date": "2026.03.01",
+        "normal_price": 12490,
+        "sale_price": 10490,
+        "discount": 2000
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
         "normal_price": 12490,
         "sale_price": 10490,
         "discount": 2000
@@ -1709,12 +1741,20 @@
     "product_name": "오마뎅 진짜 부산떡볶이 352G X 5",
     "category_name": "냉장,냉동",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.23",
         "to_date": "2026.03.01",
+        "normal_price": 16790,
+        "sale_price": 13790,
+        "discount": 3000
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
         "normal_price": 16790,
         "sale_price": 13790,
         "discount": 3000
@@ -2045,7 +2085,7 @@
     "product_name": "ARTISAN 라자냐 키트 692G X 2",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -2054,6 +2094,14 @@
         "normal_price": 17990,
         "sale_price": 15990,
         "discount": 2000
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 17990,
+        "sale_price": 14390,
+        "discount": 3600
       }
     ]
   },
@@ -2532,7 +2580,7 @@
     "product_name": "동원 EPA참치 150G X 10",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -2541,6 +2589,14 @@
         "normal_price": 22190,
         "sale_price": 17690,
         "discount": 4500
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 22190,
+        "sale_price": 19690,
+        "discount": 2500
       }
     ]
   },
@@ -2766,12 +2822,20 @@
     "product_name": "보노 옥수수알 콘스프 21G X 3 X 6",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.16",
         "to_date": "2026.03.01",
+        "normal_price": 18790,
+        "sale_price": 13990,
+        "discount": 4800
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
         "normal_price": 18790,
         "sale_price": 13990,
         "discount": 4800
@@ -3959,7 +4023,7 @@
     "product_name": "스프라이트 탄산소다 350ML X 24캔",
     "category_name": "음료,주류",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -3968,6 +4032,14 @@
         "normal_price": 19490,
         "sale_price": 16390,
         "discount": 3100
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 19490,
+        "sale_price": 16090,
+        "discount": 3400
       }
     ]
   },
@@ -3976,12 +4048,20 @@
     "product_name": "에비앙 천연광천수 330ML X 24팩",
     "category_name": "음료,주류",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.23",
         "to_date": "2026.03.01",
+        "normal_price": 16490,
+        "sale_price": 13190,
+        "discount": 3300
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
         "normal_price": 16490,
         "sale_price": 13190,
         "discount": 3300
@@ -6100,12 +6180,20 @@
     "product_name": "라브아섬유탈취제 사이프러스&베티버 1L X 2",
     "category_name": "주방,욕실",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.23",
         "to_date": "2026.03.01",
+        "normal_price": 19790,
+        "sale_price": 16290,
+        "discount": 3500
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
         "normal_price": 19790,
         "sale_price": 16290,
         "discount": 3500
@@ -6276,12 +6364,20 @@
     "product_name": "스카치브라이트 옥수수그물망사수세미 10개",
     "category_name": "주방,욕실",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-02",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.16",
         "to_date": "2026.03.01",
+        "normal_price": 13790,
+        "sale_price": 11190,
+        "discount": 2600
+      },
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
         "normal_price": 13790,
         "sale_price": 11190,
         "discount": 2600
@@ -13903,6 +13999,2233 @@
         "normal_price": 15490,
         "sale_price": 11990,
         "discount": 3500
+      }
+    ]
+  },
+  "127": {
+    "product_id": 127,
+    "product_name": "골드망고 (3입) 원산지: 태국",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 14490,
+        "sale_price": 11990,
+        "discount": 2500
+      }
+    ]
+  },
+  "10455": {
+    "product_id": 10455,
+    "product_name": "국내산 돈육 갈매기살 진공패 KG당 단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 6500
+      }
+    ]
+  },
+  "5471": {
+    "product_id": 5471,
+    "product_name": "네이블 오렌지 (3.5KG) 원산지 : 미국",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 19990,
+        "sale_price": 14990,
+        "discount": 5000
+      }
+    ]
+  },
+  "8680": {
+    "product_id": 8680,
+    "product_name": "뉴 포르투칼타르트 NEW PORTUGUESE TART 12CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13990,
+        "sale_price": 11190,
+        "discount": 2800
+      }
+    ]
+  },
+  "4915": {
+    "product_id": 4915,
+    "product_name": "부위 : 등갈비 / 삼겹살 원산지 : 미국냉동돈육 KG당단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 5500
+      }
+    ]
+  },
+  "8690": {
+    "product_id": 8690,
+    "product_name": "불로초밀감 (2KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.10",
+        "normal_price": 28990,
+        "sale_price": 24990,
+        "discount": 4000
+      }
+    ]
+  },
+  "1928": {
+    "product_id": 1928,
+    "product_name": "삼립 밀크롤케익 75G X 8",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 8790,
+        "sale_price": 7290,
+        "discount": 1500
+      }
+    ]
+  },
+  "1753": {
+    "product_id": 1753,
+    "product_name": "소보로단팥빵 SOBORO REDBEAN BUN 6CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 9990,
+        "sale_price": 7990,
+        "discount": 2000
+      }
+    ]
+  },
+  "9954": {
+    "product_id": 9954,
+    "product_name": "스페인산 돈육 냉동삼겹 3.0KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 29990,
+        "sale_price": 24490,
+        "discount": 5500
+      }
+    ]
+  },
+  "10059": {
+    "product_id": 10059,
+    "product_name": "실키핑크 토마토 2KG 원산지: 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.12",
+        "normal_price": 15490,
+        "sale_price": 12990,
+        "discount": 2500
+      }
+    ]
+  },
+  "6239": {
+    "product_id": 6239,
+    "product_name": "CJ 베이컨 까르보나라 1,200G (4인분)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 11590,
+        "sale_price": 9490,
+        "discount": 2100
+      }
+    ]
+  },
+  "703": {
+    "product_id": 703,
+    "product_name": "WILDBRINE 유기농사워크라우트 1418G 원산지:미국",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 17790,
+        "sale_price": 13790,
+        "discount": 4000
+      }
+    ]
+  },
+  "917": {
+    "product_id": 917,
+    "product_name": "남양 떠먹는 불가리스 85GX16 딸기 / 복숭아",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 8790,
+        "sale_price": 6990,
+        "discount": 1800
+      }
+    ]
+  },
+  "1250": {
+    "product_id": 1250,
+    "product_name": "더건강한 샌드위치햄 100G X 6",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 11490,
+        "sale_price": 9390,
+        "discount": 2100
+      }
+    ]
+  },
+  "7940": {
+    "product_id": 7940,
+    "product_name": "더건강한 허니 슬라이스햄 350G X 2",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "1499": {
+    "product_id": 1499,
+    "product_name": "매일 상하치즈 더블업체다슬라이스 1440G(240G X 6팩)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 20990,
+        "sale_price": 16990,
+        "discount": 4000
+      }
+    ]
+  },
+  "660": {
+    "product_id": 660,
+    "product_name": "매일바이오 플레인 요거트 300GX6",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 10490,
+        "sale_price": 8390,
+        "discount": 2100
+      }
+    ]
+  },
+  "7093": {
+    "product_id": 7093,
+    "product_name": "백종원의빽쿡 소고기메추리알장조림 1.2KG",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 17990,
+        "sale_price": 14390,
+        "discount": 3600
+      }
+    ]
+  },
+  "2719": {
+    "product_id": 2719,
+    "product_name": "본엠 도이치트러플햄 500G X 3",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13990,
+        "sale_price": 11390,
+        "discount": 2600
+      }
+    ]
+  },
+  "10284": {
+    "product_id": 10284,
+    "product_name": "상하목장 그릭요거트프로즌 1.8L",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 16990,
+        "sale_price": 13490,
+        "discount": 3500
+      }
+    ]
+  },
+  "417": {
+    "product_id": 417,
+    "product_name": "서울우유 듀오안 150ML X 10",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 8690,
+        "sale_price": 5890,
+        "discount": 2800
+      }
+    ]
+  },
+  "3118": {
+    "product_id": 3118,
+    "product_name": "신선설농탕 설농탕 650G X 4",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 23990,
+        "sale_price": 20490,
+        "discount": 3500
+      }
+    ]
+  },
+  "4278": {
+    "product_id": 4278,
+    "product_name": "씨제이 가쓰오우동 1399G (6인분)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.11",
+        "normal_price": 9990,
+        "sale_price": 8390,
+        "discount": 1600
+      }
+    ]
+  },
+  "711": {
+    "product_id": 711,
+    "product_name": "오뚜기 유기농 낫또 (50GX3)X4",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 11390,
+        "sale_price": 8990,
+        "discount": 2400
+      }
+    ]
+  },
+  "3941": {
+    "product_id": 3941,
+    "product_name": "풀무원 국물 떡복이 1700G (8인분)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 11490,
+        "sale_price": 8990,
+        "discount": 2500
+      }
+    ]
+  },
+  "1148": {
+    "product_id": 1148,
+    "product_name": "풀무원 얇은피고기만두 1,320G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 12490,
+        "sale_price": 9990,
+        "discount": 2500
+      }
+    ]
+  },
+  "563": {
+    "product_id": 563,
+    "product_name": "하림 치킨 너겟 1500 G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 15390,
+        "sale_price": 11990,
+        "discount": 3400
+      }
+    ]
+  },
+  "561": {
+    "product_id": 561,
+    "product_name": "한우물 새우볶음밥 300G X 7팩",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13390,
+        "sale_price": 11390,
+        "discount": 2000
+      }
+    ]
+  },
+  "2911": {
+    "product_id": 2911,
+    "product_name": "해담다 조미오징어채 600G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 22590,
+        "sale_price": 19990,
+        "discount": 2600
+      }
+    ]
+  },
+  "327": {
+    "product_id": 327,
+    "product_name": "C-WEED 올리브유 파래김 40G X 8 / 96장",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 15490,
+        "sale_price": 12990,
+        "discount": 2500
+      }
+    ]
+  },
+  "2984": {
+    "product_id": 2984,
+    "product_name": "C-WEED 찹쌀 김부각 250G",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 14990,
+        "sale_price": 12490,
+        "discount": 2500
+      }
+    ]
+  },
+  "9610": {
+    "product_id": 9610,
+    "product_name": "JOHNSONVILLE 시그니처햄 200G X 8",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 19490,
+        "sale_price": 15490,
+        "discount": 4000
+      }
+    ]
+  },
+  "6764": {
+    "product_id": 6764,
+    "product_name": "KRAFT 양송이스프 198G X 12",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "9435": {
+    "product_id": 9435,
+    "product_name": "LA TOURANGELEE 호두오일 750ML",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 12990,
+        "sale_price": 10390,
+        "discount": 2600
+      }
+    ]
+  },
+  "10661": {
+    "product_id": 10661,
+    "product_name": "기꼬만 스테이크소스 1,160G",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      }
+    ]
+  },
+  "1815": {
+    "product_id": 1815,
+    "product_name": "농심 너구리 120G X 20",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.31",
+        "normal_price": 17590,
+        "sale_price": 15390,
+        "discount": 2200
+      }
+    ]
+  },
+  "1835": {
+    "product_id": 1835,
+    "product_name": "동원 EPA참치 3KG",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 27990,
+        "sale_price": 26490,
+        "discount": 1500
+      }
+    ]
+  },
+  "257": {
+    "product_id": 257,
+    "product_name": "동원 고추참치 100G X 12",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 19790,
+        "sale_price": 17290,
+        "discount": 2500
+      }
+    ]
+  },
+  "259": {
+    "product_id": 259,
+    "product_name": "마산명산 몽고 송표 간장 4.5L",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 22990,
+        "sale_price": 18490,
+        "discount": 4500
+      }
+    ]
+  },
+  "2213": {
+    "product_id": 2213,
+    "product_name": "안옥남 숙성 다시마 700G",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13990,
+        "sale_price": 10990,
+        "discount": 3000
+      }
+    ]
+  },
+  "10310": {
+    "product_id": 10310,
+    "product_name": "오뚜기 열라면 120G X 20",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 11990,
+        "sale_price": 10790,
+        "discount": 1200
+      }
+    ]
+  },
+  "9656": {
+    "product_id": 9656,
+    "product_name": "이가자연면 신길동 얼큰짬뽕 223G X 8",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 17990,
+        "sale_price": 14390,
+        "discount": 3600
+      }
+    ]
+  },
+  "5972": {
+    "product_id": 5972,
+    "product_name": "일월풍면 파곰탕면쌀국수 100G X 10",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.05",
+        "to_date": "2026.03.15",
+        "normal_price": 14490,
+        "sale_price": 11690,
+        "discount": 2800
+      }
+    ]
+  },
+  "5970": {
+    "product_id": 5970,
+    "product_name": "청정원 순창 조개멸치 양념된장 900G X 2",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 14990,
+        "sale_price": 11890,
+        "discount": 3100
+      }
+    ]
+  },
+  "2722": {
+    "product_id": 2722,
+    "product_name": "풀무원 수타식즉석생우동 195G X 8",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 12490,
+        "sale_price": 9990,
+        "discount": 2500
+      }
+    ]
+  },
+  "9055": {
+    "product_id": 9055,
+    "product_name": "풍국면 들깨칼국수 147G X 6",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 12990,
+        "sale_price": 10390,
+        "discount": 2600
+      }
+    ]
+  },
+  "6511": {
+    "product_id": 6511,
+    "product_name": "해찬들 고기전용쌈장 1KG X 2",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 13990,
+        "sale_price": 10990,
+        "discount": 3000
+      }
+    ]
+  },
+  "9675": {
+    "product_id": 9675,
+    "product_name": "햇반컵반 된장&김치찌개밥 270G X 3 + 280G X 3",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 15990,
+        "sale_price": 12790,
+        "discount": 3200
+      }
+    ]
+  },
+  "555": {
+    "product_id": 555,
+    "product_name": "DENMARK 스위티자몽주스 200ML X 24",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 10990,
+        "sale_price": 8790,
+        "discount": 2200
+      }
+    ]
+  },
+  "5801": {
+    "product_id": 5801,
+    "product_name": "게토레이 레몬 240ML X 30캔",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 12990,
+        "sale_price": 10690,
+        "discount": 2300
+      }
+    ]
+  },
+  "6089": {
+    "product_id": 6089,
+    "product_name": "니피스 착즙 오렌지 주스 1L X 3",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 14590,
+        "sale_price": 12390,
+        "discount": 2200
+      }
+    ]
+  },
+  "10282": {
+    "product_id": 10282,
+    "product_name": "덕혼 디코이 쇼비뇽블랑 페더웨이트 750ML",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.22",
+        "normal_price": 36990,
+        "sale_price": 29590,
+        "discount": 7400
+      }
+    ]
+  },
+  "10611": {
+    "product_id": 10611,
+    "product_name": "델몬트 주스버라이어티팩 400ML X 12",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      }
+    ]
+  },
+  "782": {
+    "product_id": 782,
+    "product_name": "베지밀 아몬드 & 호두 두유 190ML X 24",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "6828": {
+    "product_id": 6828,
+    "product_name": "빙그레 딸기맛&메로나맛 240ML X 10",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 9690,
+        "sale_price": 7690,
+        "discount": 2000
+      }
+    ]
+  },
+  "6918": {
+    "product_id": 6918,
+    "product_name": "에네미고 말벡 750ML",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "8696": {
+    "product_id": 8696,
+    "product_name": "연세우유 소화가 잘되는 우유 190ML X 24",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 14490,
+        "sale_price": 12490,
+        "discount": 2000
+      }
+    ]
+  },
+  "1141": {
+    "product_id": 1141,
+    "product_name": "이롬 ABC주스(100%착즙) 100ML X 20",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 21990,
+        "sale_price": 17590,
+        "discount": 4400
+      }
+    ]
+  },
+  "6463": {
+    "product_id": 6463,
+    "product_name": "칠성사이다제로 300ML X 20팩",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13490,
+        "sale_price": 10790,
+        "discount": 2700
+      }
+    ]
+  },
+  "8755": {
+    "product_id": 8755,
+    "product_name": "코카콜라 갈아만든배 340ML X 24",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 17790,
+        "sale_price": 14190,
+        "discount": 3600
+      }
+    ]
+  },
+  "10131": {
+    "product_id": 10131,
+    "product_name": "풀무원 하루귀리 500ML X 20",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 15990,
+        "sale_price": 12790,
+        "discount": 3200
+      }
+    ]
+  },
+  "162": {
+    "product_id": 162,
+    "product_name": "허쉬 초콜릿드링크 235ML X 27",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 19490,
+        "sale_price": 15490,
+        "discount": 4000
+      }
+    ]
+  },
+  "5419": {
+    "product_id": 5419,
+    "product_name": "BOHEMIAN ROASTERS 박이추드립백커피 33입",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 29990,
+        "sale_price": 25990,
+        "discount": 4000
+      }
+    ]
+  },
+  "8718": {
+    "product_id": 8718,
+    "product_name": "COFFEE BEAN 피스타치오 라떼 26G X 30",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 15990,
+        "sale_price": 12790,
+        "discount": 3200
+      }
+    ]
+  },
+  "392": {
+    "product_id": 392,
+    "product_name": "MAXIM 모카골드 마일드 190CT X 2",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 51990,
+        "sale_price": 49490,
+        "discount": 2500
+      }
+    ]
+  },
+  "7807": {
+    "product_id": 7807,
+    "product_name": "STARBUCKS 다크 아메리카노 1.1G X 170CT",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 45990,
+        "sale_price": 38990,
+        "discount": 7000
+      }
+    ]
+  },
+  "6465": {
+    "product_id": 6465,
+    "product_name": "VONBEE 견과류가 풍성한 쌍화차 60입",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.07",
+        "to_date": "2026.03.15",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "560": {
+    "product_id": 560,
+    "product_name": "VONBEE 레몬청 2KG",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.07",
+        "to_date": "2026.03.15",
+        "normal_price": 9990,
+        "sale_price": 7990,
+        "discount": 2000
+      }
+    ]
+  },
+  "10036": {
+    "product_id": 10036,
+    "product_name": "VONBEE 호두아몬드 율무차 18G X 120T",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.07",
+        "to_date": "2026.03.15",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "7996": {
+    "product_id": 7996,
+    "product_name": "크라스탄 유기농보리차 3.5G X 50",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.07",
+        "to_date": "2026.03.15",
+        "normal_price": 15990,
+        "sale_price": 13990,
+        "discount": 2000
+      }
+    ]
+  },
+  "4024": {
+    "product_id": 4024,
+    "product_name": "폴바셋 돌체라떼 330ML X 12개",
+    "category_name": "커피,차",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 28990,
+        "sale_price": 23990,
+        "discount": 5000
+      }
+    ]
+  },
+  "9791": {
+    "product_id": 9791,
+    "product_name": "LEON 사워 젤리모음 900G / 30G X 30",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13990,
+        "sale_price": 11190,
+        "discount": 2800
+      }
+    ]
+  },
+  "287": {
+    "product_id": 287,
+    "product_name": "NATURE VALLEY 프로틴바 1.2KG / 40G X 30BARS",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 20990,
+        "sale_price": 17990,
+        "discount": 3000
+      }
+    ]
+  },
+  "5990": {
+    "product_id": 5990,
+    "product_name": "PRINGLES MINIS 사워크림 & 어니언 570G / 19G X 30",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13490,
+        "sale_price": 10690,
+        "discount": 2800
+      }
+    ]
+  },
+  "174": {
+    "product_id": 174,
+    "product_name": "RICOLA 레몬민트 허브캔디 684G / 342G X 2PK",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 21990,
+        "sale_price": 17990,
+        "discount": 4000
+      }
+    ]
+  },
+  "10709": {
+    "product_id": 10709,
+    "product_name": "ST.MICHEL 초콜릿 하트케익 25G X 24CT",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 12490,
+        "sale_price": 9490,
+        "discount": 3000
+      }
+    ]
+  },
+  "302": {
+    "product_id": 302,
+    "product_name": "뚜부크래커 50G X 7",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 11390,
+        "sale_price": 9190,
+        "discount": 2200
+      }
+    ]
+  },
+  "5955": {
+    "product_id": 5955,
+    "product_name": "포스트 통보리 그래놀라 500G X 3",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 18990,
+        "sale_price": 15190,
+        "discount": 3800
+      }
+    ]
+  },
+  "6083": {
+    "product_id": 6083,
+    "product_name": "화과방 우피파이 30G X 12",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 9490,
+        "sale_price": 7990,
+        "discount": 1500
+      }
+    ]
+  },
+  "10276": {
+    "product_id": 10276,
+    "product_name": "DOWNY 언스탑퍼블 부스터 OCEAN MIST 1.13KG",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 30490,
+        "sale_price": 22690,
+        "discount": 7800
+      }
+    ]
+  },
+  "3239": {
+    "product_id": 3239,
+    "product_name": "다우니 섬유유연제 에이프릴 5.03L / 251회분",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 24790,
+        "sale_price": 18490,
+        "discount": 6300
+      }
+    ]
+  },
+  "1525": {
+    "product_id": 1525,
+    "product_name": "대림바스 필터 주방헤드 필터5개포함",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 20990,
+        "sale_price": 16790,
+        "discount": 4200
+      }
+    ]
+  },
+  "5614": {
+    "product_id": 5614,
+    "product_name": "라브아 섬유유연제 프랑지파니&가이악 4L",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 22990,
+        "sale_price": 18990,
+        "discount": 4000
+      }
+    ]
+  },
+  "53": {
+    "product_id": 53,
+    "product_name": "스카치브라이트 다용도 도트수세미 12개",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 11990,
+        "sale_price": 9590,
+        "discount": 2400
+      }
+    ]
+  },
+  "52": {
+    "product_id": 52,
+    "product_name": "스카치브라이트 다용도행주겸 청소포 100매",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 12990,
+        "sale_price": 10490,
+        "discount": 2500
+      }
+    ]
+  },
+  "622": {
+    "product_id": 622,
+    "product_name": "키친솝 주방세제포도숙성초 4.0L+ 700ML",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 11990,
+        "sale_price": 9590,
+        "discount": 2400
+      }
+    ]
+  },
+  "9490": {
+    "product_id": 9490,
+    "product_name": "페브리즈 공기탈취제 165G X 4개",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 14990,
+        "sale_price": 11190,
+        "discount": 3800
+      }
+    ]
+  },
+  "9707": {
+    "product_id": 9707,
+    "product_name": "페브리즈 섬유탈취제 / 다우니향 920ML X 2개",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 19690,
+        "sale_price": 14690,
+        "discount": 5000
+      }
+    ]
+  },
+  "187": {
+    "product_id": 187,
+    "product_name": "프릴 (헨켈) 베이킹소다 주방세제 3L/ 레몬향",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 14490,
+        "sale_price": 11790,
+        "discount": 2700
+      }
+    ]
+  },
+  "10700": {
+    "product_id": 10700,
+    "product_name": "히말라야 핑크솔트 스틱 가글 12ML X 180P",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 19490,
+        "sale_price": 15490,
+        "discount": 4000
+      }
+    ]
+  },
+  "6271": {
+    "product_id": 6271,
+    "product_name": "BODYBLUE 브라렛 2매 75A-85B ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "8070": {
+    "product_id": 8070,
+    "product_name": "BRIGHTON 여행가방 72CM (26)",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 99900,
+        "sale_price": 79900,
+        "discount": 20000
+      }
+    ]
+  },
+  "7761": {
+    "product_id": 7761,
+    "product_name": "ELLE 남성 브리프 3매 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "7108": {
+    "product_id": 7108,
+    "product_name": "FILA GOLF 남성긴팔폴로티 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "10649": {
+    "product_id": 10649,
+    "product_name": "FILA 키즈 상하의 세트 120,130,145,155",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 36990,
+        "sale_price": 28990,
+        "discount": 8000
+      }
+    ]
+  },
+  "10591": {
+    "product_id": 10591,
+    "product_name": "GUESS 주니어브리프 8매 85-100 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "9853": {
+    "product_id": 9853,
+    "product_name": "OUTDOOR PRODUCTS 남성 긴소매크루티 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.08",
+        "to_date": "2026.03.29",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "7211": {
+    "product_id": 7211,
+    "product_name": "OUTDOOR PRODUCTS 아동긴소매티셔츠 120,130,145,155,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 17990,
+        "sale_price": 14290,
+        "discount": 3700
+      }
+    ]
+  },
+  "7162": {
+    "product_id": 7162,
+    "product_name": "OUTDOOR PRODUCTS 키즈우븐바지 120,130,145,155,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 23990,
+        "sale_price": 18990,
+        "discount": 5000
+      }
+    ]
+  },
+  "3290": {
+    "product_id": 3290,
+    "product_name": "SOCKSTOP 성인덧신양말 7족 남성용/여성용",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 13990,
+        "sale_price": 10990,
+        "discount": 3000
+      }
+    ]
+  },
+  "9028": {
+    "product_id": 9028,
+    "product_name": "네파 남성 카고 바지 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 38990,
+        "sale_price": 30990,
+        "discount": 8000
+      }
+    ]
+  },
+  "9104": {
+    "product_id": 9104,
+    "product_name": "루마인 홈 메밀 베개 1P 45X25CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.07",
+        "to_date": "2026.03.15",
+        "normal_price": 17990,
+        "sale_price": 14490,
+        "discount": 3500
+      }
+    ]
+  },
+  "10421": {
+    "product_id": 10421,
+    "product_name": "코데즈컴바인 퓨징 햄팬티 5매 90-100 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "6590": {
+    "product_id": 6590,
+    "product_name": "AMERICAN SOLUTION 벤토나이트 모래 무향/ 9KG",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 17990,
+        "sale_price": 13990,
+        "discount": 4000
+      }
+    ]
+  },
+  "10473": {
+    "product_id": 10473,
+    "product_name": "DOWNY 인퓨전캄 섬유유연제 3.4L",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 23490,
+        "sale_price": 17290,
+        "discount": 6200
+      }
+    ]
+  },
+  "634": {
+    "product_id": 634,
+    "product_name": "FEBREZE 페브리즈 차량용방향제클립 2.2ML 6개",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 16490,
+        "sale_price": 12990,
+        "discount": 3500
+      }
+    ]
+  },
+  "1584": {
+    "product_id": 1584,
+    "product_name": "LED 전등선 LED전구 포함 주광색 / 전구색",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 82900,
+        "sale_price": 65900,
+        "discount": 17000
+      }
+    ]
+  },
+  "8744": {
+    "product_id": 8744,
+    "product_name": "LOVBONG 애견용한우콜라겐껌 연어/ 100G X 8",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 15990,
+        "sale_price": 12990,
+        "discount": 3000
+      }
+    ]
+  },
+  "628": {
+    "product_id": 628,
+    "product_name": "NATURAL CORE 천연 오리가슴살 700G (100G X 7EA)",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 21790,
+        "sale_price": 17490,
+        "discount": 4300
+      }
+    ]
+  },
+  "7071": {
+    "product_id": 7071,
+    "product_name": "SIDIZ 시디즈 에어메쉬 데스크체어 블랙",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 299500,
+        "sale_price": 247900,
+        "discount": 52000
+      }
+    ]
+  },
+  "8096": {
+    "product_id": 8096,
+    "product_name": "다용도 5단선반 121.9 X 45.7 X 182.8CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 107900,
+        "sale_price": 86900,
+        "discount": 21000
+      }
+    ]
+  },
+  "8984": {
+    "product_id": 8984,
+    "product_name": "슈퍼포우 베리츄 강아지껌 14G X 50",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "9567": {
+    "product_id": 9567,
+    "product_name": "퍼실 디스크캡슐세제 25G X 60DISCS",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.29",
+        "normal_price": 29490,
+        "sale_price": 24290,
+        "discount": 5200
+      }
+    ]
+  },
+  "10090": {
+    "product_id": 10090,
+    "product_name": "펫노리터 애견매트 140CM X 200CM X 0.55CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 57900,
+        "sale_price": 45900,
+        "discount": 12000
+      }
+    ]
+  },
+  "10614": {
+    "product_id": 10614,
+    "product_name": "3M 허리보호대 FREE SIZE",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "4019": {
+    "product_id": 4019,
+    "product_name": "CJ 웰케어리턴업 전립소+옥타코사놀 800MG X 90캡슐",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 32990,
+        "sale_price": 25990,
+        "discount": 7000
+      }
+    ]
+  },
+  "10255": {
+    "product_id": 10255,
+    "product_name": "DR.BRONNER'S 퓨어캐스틸솝 시트러스, 라벤더",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.02",
+        "to_date": "2026.03.15",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "7583": {
+    "product_id": 7583,
+    "product_name": "GILLETTE 질레트 프로글라이드 면도날 14개",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 59900,
+        "sale_price": 45900,
+        "discount": 14000
+      }
+    ]
+  },
+  "9451": {
+    "product_id": 9451,
+    "product_name": "NUTRIONE 뉴트리원 퓨어산양유단백질 304G",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 23990,
+        "sale_price": 18990,
+        "discount": 5000
+      }
+    ]
+  },
+  "7104": {
+    "product_id": 7104,
+    "product_name": "ORAL-B오랄비 전동칫솔 PRO 1 DUAL PACK",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 109900,
+        "sale_price": 82900,
+        "discount": 27000
+      }
+    ]
+  },
+  "3337": {
+    "product_id": 3337,
+    "product_name": "ORAL-B오랄비 전동칫솔모10개 미세모,크로스액션",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 49790,
+        "sale_price": 36790,
+        "discount": 13000
+      }
+    ]
+  },
+  "7227": {
+    "product_id": 7227,
+    "product_name": "PANTENE 팬틴 극손상 케어 트리트먼트 400ML X 3",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 17490,
+        "sale_price": 13490,
+        "discount": 4000
+      }
+    ]
+  },
+  "9643": {
+    "product_id": 9643,
+    "product_name": "RYO 려 볼륨 & 모근강화 샴푸 820ML X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 21990,
+        "sale_price": 17490,
+        "discount": 4500
+      }
+    ]
+  },
+  "10689": {
+    "product_id": 10689,
+    "product_name": "SKECHERS 스케처스 메모리폼 목 보호 쿠션 2개",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
+  },
+  "7424": {
+    "product_id": 7424,
+    "product_name": "TRUE BLUE 프로폴리스포르테 590MG X 350캡슐",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 35990,
+        "sale_price": 28790,
+        "discount": 7200
+      }
+    ]
+  },
+  "8241": {
+    "product_id": 8241,
+    "product_name": "그레인온 카무트 효소 3G X 60포",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 28990,
+        "sale_price": 23190,
+        "discount": 5800
+      }
+    ]
+  },
+  "7423": {
+    "product_id": 7423,
+    "product_name": "안국건강 아이원 눈건강 솔루션 250MG X 90캡슐",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "5491": {
+    "product_id": 5491,
+    "product_name": "에버콜라겐 인앤업플러스 750MG X 112정",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 37990,
+        "sale_price": 30390,
+        "discount": 7600
+      }
+    ]
+  },
+  "10447": {
+    "product_id": 10447,
+    "product_name": "오므론 자동 전자 혈압계  모델명 HEM-7600T",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.06",
+        "to_date": "2026.03.15",
+        "normal_price": 149900,
+        "sale_price": 119900,
+        "discount": 30000
+      }
+    ]
+  },
+  "8962": {
+    "product_id": 8962,
+    "product_name": "한미양행 다이어트가르시니아 1000MG X 180정",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.22",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "10692": {
+    "product_id": 10692,
+    "product_name": "HASBRO 해즈브로 플레이도 점보 컬러 컬렉션 65캔",
+    "category_name": "공구,문구",
+    "first_seen": "2026-03-02",
+    "last_seen": "2026-03-02",
+    "occurrences": [
+      {
+        "version": "2026-03-02",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 23990,
+        "sale_price": 18990,
+        "discount": 5000
       }
     ]
   }
