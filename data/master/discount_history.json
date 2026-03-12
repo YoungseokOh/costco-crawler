@@ -20741,5 +20741,175 @@
         "discount": 4000
       }
     ]
+  },
+  "10882": {
+    "product_id": 10882,
+    "product_name": "딸기 1박스 (1KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.12",
+        "to_date": "2026.03.12",
+        "normal_price": 11390,
+        "sale_price": 9890,
+        "discount": 1500
+      }
+    ]
+  },
+  "10887": {
+    "product_id": 10887,
+    "product_name": "KIRKLAND SIGNATURE 크림치즈 바 1.36KG (미국)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.12",
+        "to_date": "2026.03.15",
+        "normal_price": 12990,
+        "sale_price": 10290,
+        "discount": 2700
+      }
+    ]
+  },
+  "10888": {
+    "product_id": 10888,
+    "product_name": "PM SWEET 마카롱 468G 원산지:벨기에",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.12",
+        "normal_price": 18490,
+        "sale_price": 14790,
+        "discount": 3700
+      }
+    ]
+  },
+  "10886": {
+    "product_id": 10886,
+    "product_name": "아임리얼 블루베리 주스 120ML X 24",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.11",
+        "to_date": "2026.03.15",
+        "normal_price": 19990,
+        "sale_price": 16990,
+        "discount": 3000
+      }
+    ]
+  },
+  "10883": {
+    "product_id": 10883,
+    "product_name": "햇반 듬뿍 소고기죽 420G X 5",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.29",
+        "normal_price": 13990,
+        "sale_price": 12490,
+        "discount": 1500
+      }
+    ]
+  },
+  "10885": {
+    "product_id": 10885,
+    "product_name": "롯데 쌕쌕오렌지주스 240ML X 30",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.12",
+        "to_date": "2026.03.15",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      }
+    ]
+  },
+  "10884": {
+    "product_id": 10884,
+    "product_name": "GILLE 스웨덴 쿠키 7종 1.27KG",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.11",
+        "to_date": "2026.03.22",
+        "normal_price": 27690,
+        "sale_price": 23490,
+        "discount": 4200
+      }
+    ]
+  },
+  "10879": {
+    "product_id": 10879,
+    "product_name": "YUME YUMMY 향이 나는 롤리팝 인형",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.07",
+        "to_date": "2026.03.22",
+        "normal_price": 31990,
+        "sale_price": 19990,
+        "discount": 12000
+      }
+    ]
+  },
+  "10880": {
+    "product_id": 10880,
+    "product_name": "VOLVIK 플라이온골프공 3피스 / 24개입",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.02",
+        "to_date": "2026.03.15",
+        "normal_price": 34990,
+        "sale_price": 27990,
+        "discount": 7000
+      }
+    ]
+  },
+  "10563": {
+    "product_id": 10563,
+    "product_name": "크리넥스 수프림플러스화장지 40M X 30롤, 3겹",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-09",
+    "last_seen": "2026-03-09",
+    "occurrences": [
+      {
+        "version": "2026-03-09",
+        "from_date": "2026.03.09",
+        "to_date": "2026.03.15",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
   }
 }
