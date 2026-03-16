@@ -25512,5 +25512,124 @@
         "discount": 8000
       }
     ]
+  },
+  "9331": {
+    "product_id": 9331,
+    "product_name": "삼성 시스템 A/C 103.2㎡ (32PY) 단배관",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.22",
+        "normal_price": 2549000,
+        "sale_price": 2199000,
+        "discount": 350000
+      }
+    ]
+  },
+  "9329": {
+    "product_id": 9329,
+    "product_name": "삼성 시스템 A/C 112.2㎡ (35PY) 다배관",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.22",
+        "normal_price": 2879000,
+        "sale_price": 2479000,
+        "discount": 400000
+      }
+    ]
+  },
+  "9330": {
+    "product_id": 9330,
+    "product_name": "삼성 시스템 A/C 112.2㎡ (35PY) 단배관",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.22",
+        "normal_price": 3029000,
+        "sale_price": 2629000,
+        "discount": 400000
+      }
+    ]
+  },
+  "9782": {
+    "product_id": 9782,
+    "product_name": "삼성 시스템 A/C 138.2㎡ (40PY) 단배관",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.22",
+        "normal_price": 3959000,
+        "sale_price": 3459000,
+        "discount": 500000
+      }
+    ]
+  },
+  "9333": {
+    "product_id": 9333,
+    "product_name": "삼성 시스템 A/C 44.7㎡ (14PY) 다배관",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.22",
+        "normal_price": 1569000,
+        "sale_price": 1349000,
+        "discount": 220000
+      }
+    ]
+  },
+  "9327": {
+    "product_id": 9327,
+    "product_name": "삼성 시스템 A/C 77.2㎡ (24PY) 다배관",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.22",
+        "normal_price": 1859000,
+        "sale_price": 1609000,
+        "discount": 250000
+      }
+    ]
+  },
+  "9328": {
+    "product_id": 9328,
+    "product_name": "삼성 시스템 A/C 77.2㎡ (24PY) 단배관",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.10",
+        "to_date": "2026.03.22",
+        "normal_price": 19090000,
+        "sale_price": 1659000,
+        "discount": 250000
+      }
+    ]
   }
 }
