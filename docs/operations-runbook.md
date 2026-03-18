@@ -18,6 +18,20 @@
 - 크롤링은 무조건 수행
 - 현재 설정상 변경이 없어도 private dispatch 수행
 
+## 2-1) 이미지 변환 smoke test
+전체 반영 전에 품질만 빠르게 점검할 때 사용합니다.
+
+1. GitHub Actions -> `Image Transform Smoke Test`
+2. 필요하면 `seed`를 넣고, 아니면 비워둔 채 실행
+3. 실행이 끝나면 artifact `image-transform-smoke-<run_id>` 다운로드
+4. `before/`와 `after/` 이미지를 눈으로 비교
+5. `summary.md`, `summary.json`에서 샘플 메타데이터와 예상 비용 확인
+
+주의:
+- 이 워크플로우는 항상 `3`개의 distinct `image_hash`만 처리합니다.
+- tracked `data/`는 수정하지 않습니다.
+- private repo dispatch나 Firebase 배포도 수행하지 않습니다.
+
 ## 3) 최종 반영 확인
 다음 2개 파일 해시를 public 최신과 비교합니다.
 
@@ -33,5 +47,6 @@ python3 -m pip install -e ".[dev]"
 python3 -m crawler.cli check
 python3 -m crawler.cli crawl --force
 python3 scripts/validate_products_schema.py
+python3 scripts/run_transform_smoke_test.py --artifact-dir artifacts/image-transform-smoke
 python3 -m pytest tests -q
 ```

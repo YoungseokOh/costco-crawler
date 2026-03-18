@@ -8,8 +8,9 @@
 - `troubleshooting.md`: 자주 발생하는 실패와 대응
 - `xai-image-poc.md`: xAI 기반 이미지 처리 PoC 설계/운영 가이드
 
-## 현재 운영 기준 (2026-03-01)
+## 현재 운영 기준 (2026-03-18)
 - 스케줄: 4시간마다(`crawl.yml`)
 - 업데이트 판정: 공지 API 해시 기반 `check`
 - 수동 `force=true`: 데이터 변경이 없어도 private dispatch 실행
 - private 배포 후 해시 검증: `products.json`, `categories.json`
+- 수동 이미지 smoke test: `image_transform_smoke.yml`이 3개 샘플만 artifact로 생성, commit/dispatch 없음

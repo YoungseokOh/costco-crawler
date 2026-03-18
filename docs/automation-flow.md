@@ -10,6 +10,15 @@
 5. public data 동기화 후 Firebase 배포
 6. 배포 URL 해시 검증
 
+별도 수동 검수용 워크플로우:
+
+1. public repo (`costco-crawler`)에서 `image_transform_smoke.yml` 수동 실행
+2. `data/current/products.json` 기준 distinct `image_hash` 3개 랜덤 샘플 선택
+3. xAI 이미지 편집 호출 후 `before/after` artifact 업로드
+4. commit 없음
+5. private dispatch 없음
+6. Firebase 배포 없음
+
 ## public workflow 핵심
 파일: `.github/workflows/crawl.yml`
 

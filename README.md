@@ -35,6 +35,7 @@ data/versions             # versioned datasets
 
 - `test.yml`: schema validation and tests on push/PR
 - `crawl.yml`: scheduled crawl and dispatch to private deployment workflow
+- `image_transform_smoke.yml`: manual 3-image xAI transform smoke test that only uploads review artifacts
 
 ### Manual Force Run
 
@@ -47,6 +48,9 @@ If you run `crawl.yml` manually with `force=true`:
 - `PRIVATE_REPO_DISPATCH_TOKEN`
   - Personal access token that can call `repository_dispatch` on:
   - `YoungseokOh/hack-the-costco`
+- `XAI_API_KEY`
+  - Required only for `image_transform_smoke.yml`
+  - Used to edit 3 sampled product images and upload before/after artifacts for review
 
 ## Required Setup (Private Repo)
 
