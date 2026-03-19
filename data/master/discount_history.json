@@ -27092,5 +27092,209 @@
         "discount": 5000
       }
     ]
+  },
+  "10963": {
+    "product_id": 10963,
+    "product_name": "미니검은깨쿠키 MINI BLACK SESAME COOKIE 560G/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.19",
+        "to_date": "2026.03.29",
+        "normal_price": 13990,
+        "sale_price": 11190,
+        "discount": 2800
+      }
+    ]
+  },
+  "10964": {
+    "product_id": 10964,
+    "product_name": "샤랑테멜론페스츄리 CHARENTAIS MELON PASTRY 8CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.19",
+        "to_date": "2026.04.05",
+        "normal_price": 10990,
+        "sale_price": 8790,
+        "discount": 2200
+      }
+    ]
+  },
+  "10965": {
+    "product_id": 10965,
+    "product_name": "동원 훈제연어 슬라이스 270G X 2",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.19",
+        "to_date": "2026.03.29",
+        "normal_price": 23990,
+        "sale_price": 19990,
+        "discount": 4000
+      }
+    ]
+  },
+  "10962": {
+    "product_id": 10962,
+    "product_name": "듀오버스터 민트볼 30캡슐 X 3팩",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "10956": {
+    "product_id": 10956,
+    "product_name": "LG OLED TV 65형 153CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.04.12",
+        "normal_price": 2399000,
+        "sale_price": 1799000,
+        "discount": 600000
+      }
+    ]
+  },
+  "10959": {
+    "product_id": 10959,
+    "product_name": "LG 오브제 FIT & MAX 냉장고 387L",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 1329000,
+        "sale_price": 1199000,
+        "discount": 130000
+      }
+    ]
+  },
+  "10960": {
+    "product_id": 10960,
+    "product_name": "LG 오브제 FIT&MAX 냉장&냉동&김치 387L & 328L & 324L",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 4899000,
+        "sale_price": 3999000,
+        "discount": 900000
+      }
+    ]
+  },
+  "10958": {
+    "product_id": 10958,
+    "product_name": "LG 오브제 세탁기 19KG,네이처그린",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 1299000,
+        "sale_price": 1099000,
+        "discount": 200000
+      }
+    ]
+  },
+  "10957": {
+    "product_id": 10957,
+    "product_name": "LG 오브제세탁기 25KG,에센스화이트",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 1799000,
+        "sale_price": 1599000,
+        "discount": 200000
+      }
+    ]
+  },
+  "10955": {
+    "product_id": 10955,
+    "product_name": "PUMA 성인슬라이드 220 - 280MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.18",
+        "to_date": "2026.04.05",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "10953": {
+    "product_id": 10953,
+    "product_name": "LIFETIME 라이프타임 플라스틱 접이식의자 48(W)X58(D)X86(H)CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "10954": {
+    "product_id": 10954,
+    "product_name": "마이스토 MAISTO 장식용 모형자동차 1:18 스케일",
+    "category_name": "공구,문구",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 24990,
+        "sale_price": 18990,
+        "discount": 6000
+      }
+    ]
   }
 }
