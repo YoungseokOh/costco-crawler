@@ -10,21 +10,21 @@
     "category_image": "냉장,냉동",
     "category_name": "냉장,냉동",
     "category_id": 9,
-    "product_cnt": 57,
+    "product_cnt": 56,
     "category_order": 2
   },
   {
     "category_image": "가공식품",
     "category_name": "가공식품",
     "category_id": 10,
-    "product_cnt": 66,
+    "product_cnt": 65,
     "category_order": 3
   },
   {
     "category_image": "음료,주류",
     "category_name": "음료,주류",
     "category_id": 11,
-    "product_cnt": 49,
+    "product_cnt": 48,
     "category_order": 4
   },
   {
@@ -52,7 +52,7 @@
     "category_image": "주방,욕실",
     "category_name": "주방,욕실",
     "category_id": 2,
-    "product_cnt": 38,
+    "product_cnt": 37,
     "category_order": 22
   },
   {
@@ -73,7 +73,7 @@
     "category_image": "건강,미용",
     "category_name": "건강,미용",
     "category_id": 5,
-    "product_cnt": 44,
+    "product_cnt": 43,
     "category_order": 25
   },
   {
