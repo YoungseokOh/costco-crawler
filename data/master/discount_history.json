@@ -30494,5 +30494,243 @@
         "discount": 3000
       }
     ]
+  },
+  "11015": {
+    "product_id": 11015,
+    "product_name": "봄동 (500G) 원산지:국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.26",
+        "to_date": "2026.03.26",
+        "normal_price": 3790,
+        "sale_price": 2790,
+        "discount": 1000
+      }
+    ]
+  },
+  "11018": {
+    "product_id": 11018,
+    "product_name": "TRUFFETTES DE FRANCE 프렌치 기모브 510G",
+    "category_name": "가공식품",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.24",
+        "to_date": "2026.04.05",
+        "normal_price": 18490,
+        "sale_price": 14490,
+        "discount": 4000
+      }
+    ]
+  },
+  "11016": {
+    "product_id": 11016,
+    "product_name": "CHOCMOD 프렌치트러플 모음 397G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.26",
+        "to_date": "2026.04.05",
+        "normal_price": 18490,
+        "sale_price": 14790,
+        "discount": 3700
+      }
+    ]
+  },
+  "11017": {
+    "product_id": 11017,
+    "product_name": "WITOR'S 호그와트익스프레스 504G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.24",
+        "to_date": "2026.04.05",
+        "normal_price": 24490,
+        "sale_price": 19490,
+        "discount": 5000
+      }
+    ]
+  },
+  "11014": {
+    "product_id": 11014,
+    "product_name": "LG 오브제 세탁기/건조기세트 19KG /20KG LG",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.16",
+        "to_date": "2026.03.29",
+        "normal_price": 2769000,
+        "sale_price": 2199000,
+        "discount": 570000
+      }
+    ]
+  },
+  "11013": {
+    "product_id": 11013,
+    "product_name": "BENETTON 키즈 우븐 팬츠 120,130,140,150",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.25",
+        "to_date": "2026.04.12",
+        "normal_price": 22990,
+        "sale_price": 17990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11010": {
+    "product_id": 11010,
+    "product_name": "GUESS 남성 니트 크루넥 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.24",
+        "to_date": "2026.04.12",
+        "normal_price": 34990,
+        "sale_price": 27990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11012": {
+    "product_id": 11012,
+    "product_name": "LEVI'S 키즈 청바지 130, 155,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.24",
+        "to_date": "2026.04.12",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11011": {
+    "product_id": 11011,
+    "product_name": "PUMA 키즈 바람막이자켓 130,140,150,160",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.26",
+        "to_date": "2026.04.13",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11007": {
+    "product_id": 11007,
+    "product_name": "GGUBUS 꾸버스 43하이엔드차콜그릴 43 X 50 X 94CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.23",
+        "to_date": "2026.04.05",
+        "normal_price": 79900,
+        "sale_price": 63900,
+        "discount": 16000
+      }
+    ]
+  },
+  "11008": {
+    "product_id": 11008,
+    "product_name": "GGUBUS 꾸버스 훈제박스 세트 5개",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.23",
+        "to_date": "2026.04.05",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
+      }
+    ]
+  },
+  "11005": {
+    "product_id": 11005,
+    "product_name": "MAC SPORTS 접이식 손수레 98(D)X55(W)X63.5(H)CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.23",
+        "to_date": "2026.04.05",
+        "normal_price": 98900,
+        "sale_price": 78900,
+        "discount": 20000
+      }
+    ]
+  },
+  "11006": {
+    "product_id": 11006,
+    "product_name": "NEXGRILL 넥스그릴 57 차콜 그릴 57 X 68 X 100CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.23",
+        "to_date": "2026.04.05",
+        "normal_price": 149900,
+        "sale_price": 119900,
+        "discount": 30000
+      }
+    ]
+  },
+  "11009": {
+    "product_id": 11009,
+    "product_name": "크리넥스 라이트핏V 마스크 대형, 30매, KF94",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-16",
+    "last_seen": "2026-03-16",
+    "occurrences": [
+      {
+        "version": "2026-03-16",
+        "from_date": "2026.03.25",
+        "to_date": "2026.04.05",
+        "normal_price": 11490,
+        "sale_price": 9190,
+        "discount": 2300
+      }
+    ]
   }
 }
