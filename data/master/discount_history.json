@@ -37056,5 +37056,549 @@
         "discount": 7400
       }
     ]
+  },
+  "11044": {
+    "product_id": 11044,
+    "product_name": "모둠샌드위치 KG당단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.05",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 3400
+      }
+    ]
+  },
+  "11043": {
+    "product_id": 11043,
+    "product_name": "미국산 초이스 안심 진공팩 KG당단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.05",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 30000
+      }
+    ]
+  },
+  "11045": {
+    "product_id": 11045,
+    "product_name": "오트코코넛비스킷 OAT COCONUT BISCUIT 24CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.05",
+        "normal_price": 11990,
+        "sale_price": 9590,
+        "discount": 2400
+      }
+    ]
+  },
+  "11047": {
+    "product_id": 11047,
+    "product_name": "BRIDEL 무가염 버터롤 1KG 원산지:프랑스",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.26",
+        "to_date": "2026.03.31",
+        "normal_price": 21990,
+        "sale_price": 17590,
+        "discount": 4400
+      }
+    ]
+  },
+  "11050": {
+    "product_id": 11050,
+    "product_name": "CJ 제일제당 고메 김치 우동 229G X 4",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.27",
+        "to_date": "2026.04.05",
+        "normal_price": 12990,
+        "sale_price": 10590,
+        "discount": 2400
+      }
+    ]
+  },
+  "11049": {
+    "product_id": 11049,
+    "product_name": "고메 흑백요리사고기짜장 340G X 4",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.28",
+        "to_date": "2026.04.05",
+        "normal_price": 15990,
+        "sale_price": 13490,
+        "discount": 2500
+      }
+    ]
+  },
+  "11048": {
+    "product_id": 11048,
+    "product_name": "얄스버그 슬라이스치즈300G X 2 원산지아일랜드",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.05",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11051": {
+    "product_id": 11051,
+    "product_name": "존쿡델리미트 트러플잠봉슬라이스 250G X 2",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.05",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11046": {
+    "product_id": 11046,
+    "product_name": "HARIBO 푸르티부시 1.24KG",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.05",
+        "normal_price": 16590,
+        "sale_price": 13190,
+        "discount": 3400
+      }
+    ]
+  },
+  "11028": {
+    "product_id": 11028,
+    "product_name": "TCL QLED TV 50형 127CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.09",
+        "normal_price": 389900,
+        "sale_price": 359900,
+        "discount": 30000
+      }
+    ]
+  },
+  "11029": {
+    "product_id": 11029,
+    "product_name": "4BNK 싱크바스켓 & 배수구망 세트",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 25990,
+        "sale_price": 19990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11037": {
+    "product_id": 11037,
+    "product_name": "BRENTWOOD 남성 캐주얼 재킷 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.19",
+        "normal_price": 79900,
+        "sale_price": 63900,
+        "discount": 16000
+      }
+    ]
+  },
+  "11024": {
+    "product_id": 11024,
+    "product_name": "BRENTWOOD 반소매 니트 폴로 S - XXL ASIAN SIZE BRENTWOOD S/S KNIT POLO",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 34990,
+        "sale_price": 27990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11025": {
+    "product_id": 11025,
+    "product_name": "COLUMBIA 남성 반소매 폴로 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11027": {
+    "product_id": 11027,
+    "product_name": "GUESS 여성 레이온파자마 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 27990,
+        "sale_price": 22390,
+        "discount": 5600
+      }
+    ]
+  },
+  "11020": {
+    "product_id": 11020,
+    "product_name": "GUESS 여성 셔링 사켓 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 45990,
+        "sale_price": 36490,
+        "discount": 9500
+      }
+    ]
+  },
+  "11038": {
+    "product_id": 11038,
+    "product_name": "NEPA 남성 긴소매폴로티 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.19",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11022": {
+    "product_id": 11022,
+    "product_name": "NEPA 여성 반소매원피스 S, M, L, XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11021": {
+    "product_id": 11021,
+    "product_name": "NEPA 키즈 아노락 세트 120,130,140,150,160",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 36990,
+        "sale_price": 28990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11042": {
+    "product_id": 11042,
+    "product_name": "NEPA 키즈 파라슈트팬츠 130,140,150,160",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.19",
+        "normal_price": 22990,
+        "sale_price": 17990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11026": {
+    "product_id": 11026,
+    "product_name": "OUTDOOR PRODUCTS 여성 티셔츠 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 17990,
+        "sale_price": 13990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11041": {
+    "product_id": 11041,
+    "product_name": "OUTDOOR PRODUCTS 키즈 바람막이자켓 130,145,155,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 34990,
+        "sale_price": 27990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11040": {
+    "product_id": 11040,
+    "product_name": "PERRY ELLIS 남성 면 바지 30 - 38 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11023": {
+    "product_id": 11023,
+    "product_name": "SOUP 여성 청바지 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 21990,
+        "sale_price": 17490,
+        "discount": 4500
+      }
+    ]
+  },
+  "11039": {
+    "product_id": 11039,
+    "product_name": "VINE 남성 수피마 폴로 S - XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.19",
+        "normal_price": 33990,
+        "sale_price": 26990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11036": {
+    "product_id": 11036,
+    "product_name": "루마인홈 순면방수매트리스커버 싱글/110X200X33CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 32990,
+        "sale_price": 25990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11035": {
+    "product_id": 11035,
+    "product_name": "루마인홈 순면방수매트리스커버 퀸 /150X200X33CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11019": {
+    "product_id": 11019,
+    "product_name": "아디다스 여성 바람막이 재킷",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 44990
+      }
+    ]
+  },
+  "11033": {
+    "product_id": 11033,
+    "product_name": "COLEMAN 스크린 하우스 L300 X W300 X H260CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.19",
+        "normal_price": 259900,
+        "sale_price": 179900,
+        "discount": 80000
+      }
+    ]
+  },
+  "11032": {
+    "product_id": 11032,
+    "product_name": "LIFETIME라이프타임 아동 피크닉테이블 82 X 32 X 53CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.05",
+        "normal_price": 69900,
+        "sale_price": 59900,
+        "discount": 10000
+      }
+    ]
+  },
+  "11031": {
+    "product_id": 11031,
+    "product_name": "헬리오3PC세트 테이블 1개 의자 2개",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.19",
+        "normal_price": 349900,
+        "sale_price": 279900,
+        "discount": 70000
+      }
+    ]
+  },
+  "11034": {
+    "product_id": 11034,
+    "product_name": "엔젯오리진 히알루론산 60캡슐X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 26990,
+        "sale_price": 21590,
+        "discount": 5400
+      }
+    ]
   }
 }
