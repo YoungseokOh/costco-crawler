@@ -38304,5 +38304,124 @@
         "discount": 17000
       }
     ]
+  },
+  "11055": {
+    "product_id": 11055,
+    "product_name": "피땅콩 (1KG)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.02",
+        "to_date": "2026.04.10",
+        "normal_price": 12990,
+        "sale_price": 10590,
+        "discount": 2400
+      }
+    ]
+  },
+  "11058": {
+    "product_id": 11058,
+    "product_name": "연세우유 말차라떼 우유 190ML X 24",
+    "category_name": "음료,주류",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.02",
+        "to_date": "2026.04.08",
+        "normal_price": 15490,
+        "sale_price": 13090,
+        "discount": 2400
+      }
+    ]
+  },
+  "11056": {
+    "product_id": 11056,
+    "product_name": "ICKX 초콜릿 마카롱 411G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.31",
+        "to_date": "2026.04.12",
+        "normal_price": 27990,
+        "sale_price": 22990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11057": {
+    "product_id": 11057,
+    "product_name": "WITOR'S 이탈리안 트러플 1000G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.31",
+        "to_date": "2026.04.12",
+        "normal_price": 23390,
+        "sale_price": 18690,
+        "discount": 4700
+      }
+    ]
+  },
+  "11052": {
+    "product_id": 11052,
+    "product_name": "HUROM 휴롬 티마스터 2L TM-MB1FWH",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.01",
+        "to_date": "2026.04.05",
+        "normal_price": 69900,
+        "sale_price": 59900,
+        "discount": 10000
+      }
+    ]
+  },
+  "11053": {
+    "product_id": 11053,
+    "product_name": "아지오 5PC 세트 테이블 1 개 의자 4 개",
+    "category_name": "생활용품",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.19",
+        "normal_price": 999000,
+        "sale_price": 799000,
+        "discount": 200000
+      }
+    ]
+  },
+  "11054": {
+    "product_id": 11054,
+    "product_name": "디즈니 DISNEY 스냅 앤 스틱 팔찌 만들기 세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.03.30",
+        "to_date": "2026.04.12",
+        "normal_price": 25990,
+        "sale_price": 17990,
+        "discount": 8000
+      }
+    ]
   }
 }
