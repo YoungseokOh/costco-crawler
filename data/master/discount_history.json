@@ -38773,7 +38773,7 @@
     "product_name": "씨제이 가쓰오메밀생면 1,705G (6인분)",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-30",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-06",
     "occurrences": [
       {
         "version": "2026-03-30",
@@ -38782,6 +38782,14 @@
         "normal_price": 12690,
         "sale_price": 10390,
         "discount": 2300
+      },
+      {
+        "version": "2026-04-06",
+        "from_date": "2026.04.08",
+        "to_date": "2026.04.12",
+        "normal_price": 12690,
+        "sale_price": 9990,
+        "discount": 2700
       }
     ]
   },
