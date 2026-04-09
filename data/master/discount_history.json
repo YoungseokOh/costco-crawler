@@ -3389,7 +3389,7 @@
     "product_name": "ARTISAN 라자냐 키트 692G X 2",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -3411,6 +3411,14 @@
         "version": "2026-03-09",
         "from_date": "2026.03.09",
         "to_date": "2026.03.15",
+        "normal_price": 17990,
+        "sale_price": 14390,
+        "discount": 3600
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.19",
         "normal_price": 17990,
         "sale_price": 14390,
         "discount": 3600
@@ -4057,7 +4065,7 @@
     "product_name": "농심 안성탕면 125G X 20",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -4082,6 +4090,14 @@
         "normal_price": 14290,
         "sale_price": 12790,
         "discount": 1500
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.09",
+        "to_date": "2026.04.13",
+        "normal_price": 13590,
+        "sale_price": 12390,
+        "discount": 1200
       }
     ]
   },
@@ -6352,12 +6368,20 @@
     "product_name": "O'RGANIC 유기농 사과&당근 주스 125ML X 24 (유기농)",
     "category_name": "음료,주류",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-02-23",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-02-23",
         "from_date": "2026.02.16",
         "to_date": "2026.03.01",
+        "normal_price": 17790,
+        "sale_price": 14190,
+        "discount": 3600
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.12",
         "normal_price": 17790,
         "sale_price": 14190,
         "discount": 3600
@@ -14990,7 +15014,7 @@
     "product_name": "KIRKLAND SIGNATURE 생새우(50 - 70) 908G / 2LBS",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -15004,6 +15028,14 @@
         "version": "2026-03-09",
         "from_date": "2026.03.12",
         "to_date": "2026.03.12",
+        "normal_price": 21990,
+        "sale_price": 19990,
+        "discount": 2000
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.10",
         "normal_price": 21990,
         "sale_price": 19990,
         "discount": 2000
@@ -16008,7 +16040,7 @@
     "product_name": "TERRA DELYSSA 엑스트라버진올리브유 1L X 2",
     "category_name": "가공식품",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-04-06",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -16022,6 +16054,14 @@
         "version": "2026-04-06",
         "from_date": "2026.04.04",
         "to_date": "2026.04.06",
+        "normal_price": 23990,
+        "sale_price": 18990,
+        "discount": 5000
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.08",
+        "to_date": "2026.04.10",
         "normal_price": 23990,
         "sale_price": 18990,
         "discount": 5000
@@ -23258,7 +23298,7 @@
     "product_name": "한우물 새우볶음밥 300G X 7팩",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -23280,6 +23320,14 @@
         "version": "2026-03-16",
         "from_date": "2026.03.23",
         "to_date": "2026.03.29",
+        "normal_price": 13390,
+        "sale_price": 11390,
+        "discount": 2000
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.12",
         "normal_price": 13390,
         "sale_price": 11390,
         "discount": 2000
@@ -26405,7 +26453,7 @@
     "product_name": "안국건강 아이원 눈건강 솔루션 250MG X 90캡슐",
     "category_name": "건강,미용",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -26427,6 +26475,14 @@
         "version": "2026-03-16",
         "from_date": "2026.03.09",
         "to_date": "2026.03.22",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.19",
         "normal_price": 29990,
         "sale_price": 23990,
         "discount": 6000
@@ -27521,7 +27577,7 @@
     "product_name": "뼈없는 오리주물럭 오리원산지 : 국산 KG당단가",
     "category_name": "신선식품,빵",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-03-09",
@@ -27535,6 +27591,14 @@
         "version": "2026-03-16",
         "from_date": "2026.03.11",
         "to_date": "2026.03.17",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 3400
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.09",
+        "to_date": "2026.04.12",
         "normal_price": 0,
         "sale_price": 0,
         "discount": 3400
@@ -27811,7 +27875,7 @@
     "product_name": "삼육두유 순수 190ML X 24",
     "category_name": "음료,주류",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-03-09",
@@ -27825,6 +27889,14 @@
         "version": "2026-03-16",
         "from_date": "2026.03.16",
         "to_date": "2026.03.22",
+        "normal_price": 12990,
+        "sale_price": 10390,
+        "discount": 2600
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.12",
         "normal_price": 12990,
         "sale_price": 10390,
         "discount": 2600
@@ -29143,12 +29215,20 @@
     "product_name": "이금기 프리미엄 굴소스 907G X 2",
     "category_name": "가공식품",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-16",
+    "last_seen": "2026-03-30",
     "occurrences": [
       {
         "version": "2026-03-16",
         "from_date": "2026.03.16",
         "to_date": "2026.03.22",
+        "normal_price": 16990,
+        "sale_price": 13590,
+        "discount": 3400
+      },
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.08",
+        "to_date": "2026.04.12",
         "normal_price": 16990,
         "sale_price": 13590,
         "discount": 3400
@@ -43059,6 +43139,91 @@
         "normal_price": 99900,
         "sale_price": 79900,
         "discount": 20000
+      }
+    ]
+  },
+  "1879": {
+    "product_id": 1879,
+    "product_name": "냉동손질오징어 원산지 : 원양산 1.5KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.09",
+        "to_date": "2026.04.12",
+        "normal_price": 26490,
+        "sale_price": 21190,
+        "discount": 5300
+      }
+    ]
+  },
+  "11078": {
+    "product_id": 11078,
+    "product_name": "수박 1호 (5KG미만) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.10",
+        "normal_price": 22990,
+        "sale_price": 19990,
+        "discount": 3000
+      }
+    ]
+  },
+  "7997": {
+    "product_id": 7997,
+    "product_name": "수라청 찌개용 두부 420G X 2 국산콩사용",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.09",
+        "to_date": "2026.04.09",
+        "normal_price": 5590,
+        "sale_price": 4590,
+        "discount": 1000
+      }
+    ]
+  },
+  "3882": {
+    "product_id": 3882,
+    "product_name": "바이엘 베로카 발포비타민 4.8G X 60정",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.04",
+        "to_date": "2026.04.12",
+        "normal_price": 29490,
+        "sale_price": 23590,
+        "discount": 5900
+      }
+    ]
+  },
+  "4496": {
+    "product_id": 4496,
+    "product_name": "센트룸 멀티비타민구미 130구미",
+    "category_name": "건강,미용",
+    "first_seen": "2026-03-30",
+    "last_seen": "2026-03-30",
+    "occurrences": [
+      {
+        "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.12",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
       }
     ]
   }
