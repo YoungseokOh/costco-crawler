@@ -3,21 +3,21 @@
     "category_image": "신선식품,빵",
     "category_name": "신선식품,빵",
     "category_id": 7,
-    "product_cnt": 34,
+    "product_cnt": 33,
     "category_order": 1
   },
   {
     "category_image": "냉장,냉동",
     "category_name": "냉장,냉동",
     "category_id": 9,
-    "product_cnt": 56,
+    "product_cnt": 53,
     "category_order": 2
   },
   {
     "category_image": "가공식품",
     "category_name": "가공식품",
     "category_id": 10,
-    "product_cnt": 61,
+    "product_cnt": 60,
     "category_order": 3
   },
   {
@@ -45,7 +45,7 @@
     "category_image": "디지털,가전",
     "category_name": "디지털,가전",
     "category_id": 1,
-    "product_cnt": 23,
+    "product_cnt": 20,
     "category_order": 21
   },
   {
@@ -73,7 +73,7 @@
     "category_image": "건강,미용",
     "category_name": "건강,미용",
     "category_id": 5,
-    "product_cnt": 44,
+    "product_cnt": 43,
     "category_order": 25
   },
   {
