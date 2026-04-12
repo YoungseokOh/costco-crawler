@@ -3389,7 +3389,7 @@
     "product_name": "ARTISAN 라자냐 키트 692G X 2",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-06",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -3417,6 +3417,14 @@
       },
       {
         "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.19",
+        "normal_price": 17990,
+        "sale_price": 14390,
+        "discount": 3600
+      },
+      {
+        "version": "2026-04-06",
         "from_date": "2026.04.07",
         "to_date": "2026.04.19",
         "normal_price": 17990,
@@ -4065,7 +4073,7 @@
     "product_name": "농심 안성탕면 125G X 20",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-06",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -4093,6 +4101,14 @@
       },
       {
         "version": "2026-03-30",
+        "from_date": "2026.04.09",
+        "to_date": "2026.04.13",
+        "normal_price": 13590,
+        "sale_price": 12390,
+        "discount": 1200
+      },
+      {
+        "version": "2026-04-06",
         "from_date": "2026.04.09",
         "to_date": "2026.04.13",
         "normal_price": 13590,
@@ -7341,7 +7357,7 @@
     "product_name": "코카콜라 600ML X 12팩",
     "category_name": "음료,주류",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-06",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -7382,6 +7398,14 @@
         "normal_price": 21990,
         "sale_price": 17990,
         "discount": 4000
+      },
+      {
+        "version": "2026-04-06",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.19",
+        "normal_price": 21990,
+        "sale_price": 18690,
+        "discount": 3300
       }
     ]
   },
@@ -26453,7 +26477,7 @@
     "product_name": "안국건강 아이원 눈건강 솔루션 250MG X 90캡슐",
     "category_name": "건강,미용",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-06",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -26481,6 +26505,14 @@
       },
       {
         "version": "2026-03-30",
+        "from_date": "2026.04.07",
+        "to_date": "2026.04.19",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      },
+      {
+        "version": "2026-04-06",
         "from_date": "2026.04.07",
         "to_date": "2026.04.19",
         "normal_price": 29990,
@@ -27784,7 +27816,7 @@
     "product_name": "농심 새우탕면 / 튀김우동 115G X8 / 111G X 8",
     "category_name": "가공식품",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-06",
     "occurrences": [
       {
         "version": "2026-03-09",
@@ -27817,6 +27849,14 @@
         "normal_price": 17990,
         "sale_price": 15490,
         "discount": 2500
+      },
+      {
+        "version": "2026-04-06",
+        "from_date": "2026.04.09",
+        "to_date": "2026.04.13",
+        "normal_price": 17990,
+        "sale_price": 15790,
+        "discount": 2200
       }
     ]
   },
@@ -28813,7 +28853,7 @@
     "product_name": "다담 된장찌개 양념 840G X 2",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-03-30",
+    "last_seen": "2026-04-06",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -28830,6 +28870,14 @@
         "normal_price": 13890,
         "sale_price": 11390,
         "discount": 2500
+      },
+      {
+        "version": "2026-04-06",
+        "from_date": "2026.04.08",
+        "to_date": "2026.04.15",
+        "normal_price": 13890,
+        "sale_price": 10990,
+        "discount": 2900
       }
     ]
   },
