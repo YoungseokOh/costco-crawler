@@ -10,21 +10,21 @@
     "category_image": "냉장,냉동",
     "category_name": "냉장,냉동",
     "category_id": 9,
-    "product_cnt": 32,
+    "product_cnt": 31,
     "category_order": 2
   },
   {
     "category_image": "가공식품",
     "category_name": "가공식품",
     "category_id": 10,
-    "product_cnt": 15,
+    "product_cnt": 12,
     "category_order": 3
   },
   {
     "category_image": "음료,주류",
     "category_name": "음료,주류",
     "category_id": 11,
-    "product_cnt": 36,
+    "product_cnt": 34,
     "category_order": 4
   },
   {
