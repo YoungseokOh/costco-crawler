@@ -51799,5 +51799,685 @@
         "discount": 10000
       }
     ]
+  },
+  "11151": {
+    "product_id": 11151,
+    "product_name": "ZESPRI 골드키위, 3.4KG 원산지: 뉴질랜드",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 34990,
+        "sale_price": 31490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11149": {
+    "product_id": 11149,
+    "product_name": "깐대파 1KG 원산지 : 국내",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 5290,
+        "sale_price": 4290,
+        "discount": 1000
+      }
+    ]
+  },
+  "11152": {
+    "product_id": 11152,
+    "product_name": "미니 필링 도넛 MINI FILLED DONUT 20CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11150": {
+    "product_id": 11150,
+    "product_name": "미니참외 (4KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 29990,
+        "sale_price": 25990,
+        "discount": 4000
+      }
+    ]
+  },
+  "10057": {
+    "product_id": 10057,
+    "product_name": "주꾸미 볶음 KG당 단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 28590,
+        "sale_price": 23990,
+        "discount": 4600
+      }
+    ]
+  },
+  "11158": {
+    "product_id": 11158,
+    "product_name": "두바이 STYLE 쫀득 찹쌀떡 40G X 10",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.17",
+        "to_date": "2026.04.26",
+        "normal_price": 27990,
+        "sale_price": 22490,
+        "discount": 5500
+      }
+    ]
+  },
+  "11159": {
+    "product_id": 11159,
+    "product_name": "비비고 플랜테이블물만두 1500G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 11790,
+        "sale_price": 9790,
+        "discount": 2000
+      }
+    ]
+  },
+  "11153": {
+    "product_id": 11153,
+    "product_name": "농심 둥지냉면 물냉면 161G X 10",
+    "category_name": "가공식품",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 15990,
+        "sale_price": 13790,
+        "discount": 2200
+      }
+    ]
+  },
+  "11157": {
+    "product_id": 11157,
+    "product_name": "헤를링아 애플사이다 330ML X 12",
+    "category_name": "음료,주류",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2020.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 29990,
+        "sale_price": 24990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11155": {
+    "product_id": 11155,
+    "product_name": "BISCUITERIE DESTREE CHOCOLATE & SALT쿠키 500G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 17690,
+        "sale_price": 14990,
+        "discount": 2700
+      }
+    ]
+  },
+  "11156": {
+    "product_id": 11156,
+    "product_name": "KIRKLAND SIGNATURE 전자렌지 팝콘 4.1KG / 44CT",
+    "category_name": "과자,간식",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.17",
+        "to_date": "2026.04.21",
+        "normal_price": 26990,
+        "sale_price": 21990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11154": {
+    "product_id": 11154,
+    "product_name": "VICENZI 테소로아마레나쿠키 360G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 15990,
+        "sale_price": 13490,
+        "discount": 2500
+      }
+    ]
+  },
+  "11126": {
+    "product_id": 11126,
+    "product_name": "CUORE 쿠오레 산업용에어컨 1구 CIA-D550E",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 459900,
+        "sale_price": 367900,
+        "discount": 92000
+      }
+    ]
+  },
+  "11125": {
+    "product_id": 11125,
+    "product_name": "LG 그램",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 1999000,
+        "sale_price": 1799000,
+        "discount": 200000
+      }
+    ]
+  },
+  "11160": {
+    "product_id": 11160,
+    "product_name": "LG 그램",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 2399000,
+        "sale_price": 2149000,
+        "discount": 250000
+      }
+    ]
+  },
+  "11127": {
+    "product_id": 11127,
+    "product_name": "LUMENA 루메나 제습기 8L DRY TOWER",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 199900,
+        "sale_price": 159900,
+        "discount": 40000
+      }
+    ]
+  },
+  "11122": {
+    "product_id": 11122,
+    "product_name": "SAMSUNG GALAXY S26 PLUS 블랙 / 256GB",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 1389000,
+        "sale_price": 1299000,
+        "discount": 90000
+      }
+    ]
+  },
+  "11123": {
+    "product_id": 11123,
+    "product_name": "SAMSUNG GALAXY S26 PLUS 화이트/ 256GB",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 1389000,
+        "sale_price": 1299000,
+        "discount": 90000
+      }
+    ]
+  },
+  "11124": {
+    "product_id": 11124,
+    "product_name": "SAMSUNG GALAXY S26 ULTRA 바이올렛 / 256GB",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 1729000,
+        "sale_price": 1599000,
+        "discount": 130000
+      }
+    ]
+  },
+  "11121": {
+    "product_id": 11121,
+    "product_name": "SAMSUNG GALAXY S26 화이트/ 256GB",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 1189000,
+        "sale_price": 1099000,
+        "discount": 90000
+      }
+    ]
+  },
+  "11128": {
+    "product_id": 11128,
+    "product_name": "SHINIL 신일 BLDC 선풍기 SIF-CO10ST",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 114900,
+        "sale_price": 91900,
+        "discount": 23000
+      }
+    ]
+  },
+  "11129": {
+    "product_id": 11129,
+    "product_name": "COOKEVER쿡에버 스텐레스 2단 확장형 식기건조대",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 73900,
+        "sale_price": 58900,
+        "discount": 15000
+      }
+    ]
+  },
+  "11139": {
+    "product_id": 11139,
+    "product_name": "FIJI 모락셀라 스포츠세탁세제 3.5L",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 21490,
+        "sale_price": 17790,
+        "discount": 3700
+      }
+    ]
+  },
+  "11144": {
+    "product_id": 11144,
+    "product_name": "BENETTON 비치타올 90X160CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11145": {
+    "product_id": 11145,
+    "product_name": "CODES COMBINE 여성 티셔츠 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 16990,
+        "sale_price": 13490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11147": {
+    "product_id": 11147,
+    "product_name": "JACHS 여성 리넨 셔츠 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11143": {
+    "product_id": 11143,
+    "product_name": "ORIGO 면 시어써커 담요 150X100CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11146": {
+    "product_id": 11146,
+    "product_name": "SOUP 여성 블라우스 S/M, M/L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.17",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11133": {
+    "product_id": 11133,
+    "product_name": "COLEMAN 캐노피 L396 X W396 X H292CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 179900,
+        "sale_price": 129900,
+        "discount": 50000
+      }
+    ]
+  },
+  "11140": {
+    "product_id": 11140,
+    "product_name": "INABA 마구로쥬레 유산균 65G X 24입",
+    "category_name": "생활용품",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 26990,
+        "sale_price": 23990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11131": {
+    "product_id": 11131,
+    "product_name": "KASMO 자전거 헬멧 성인용",
+    "category_name": "생활용품",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11132": {
+    "product_id": 11132,
+    "product_name": "LUMENA M3 LED 캠핑 랜턴",
+    "category_name": "생활용품",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11136": {
+    "product_id": 11136,
+    "product_name": "MIMI PET 옷입는 아기고양이 냥이",
+    "category_name": "생활용품",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11130": {
+    "product_id": 11130,
+    "product_name": "SUNVILLA 선빌라 야외용 쿠션 그네 210 X 120 X 190CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.10",
+        "normal_price": 679000,
+        "sale_price": 529000,
+        "discount": 150000
+      }
+    ]
+  },
+  "11141": {
+    "product_id": 11141,
+    "product_name": "BIORE 비오레 UV 리치 워터리 에센스 50G X 3",
+    "category_name": "건강,미용",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.04.26",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11142": {
+    "product_id": 11142,
+    "product_name": "종근당건강 키즈 홍삼 튼튼업 20ML X 30포",
+    "category_name": "건강,미용",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 33990,
+        "sale_price": 27190,
+        "discount": 6800
+      }
+    ]
+  },
+  "11137": {
+    "product_id": 11137,
+    "product_name": "AMOS 아모스 글라스데코 산리오 캐릭터즈",
+    "category_name": "공구,문구",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.20",
+        "to_date": "2026.05.03",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11138": {
+    "product_id": 11138,
+    "product_name": "뽀롱뽀롱 뽀로로 생선 구이 가게",
+    "category_name": "공구,문구",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.18",
+        "to_date": "2026.05.03",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11135": {
+    "product_id": 11135,
+    "product_name": "산리오 SANRIO 마이멜로디 또는 쿠로미 인형",
+    "category_name": "공구,문구",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.18",
+        "to_date": "2026.05.03",
+        "normal_price": 17790,
+        "sale_price": 13790,
+        "discount": 4000
+      }
+    ]
+  },
+  "11134": {
+    "product_id": 11134,
+    "product_name": "자도르 J'ADORE 사이버 다이노 라이드온",
+    "category_name": "공구,문구",
+    "first_seen": "2026-04-20",
+    "last_seen": "2026-04-20",
+    "occurrences": [
+      {
+        "version": "2026-04-20",
+        "from_date": "2026.04.18",
+        "to_date": "2026.05.03",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
+      }
+    ]
   }
 }
