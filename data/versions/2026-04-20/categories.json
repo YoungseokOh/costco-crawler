@@ -3,14 +3,14 @@
     "category_image": "신선식품,빵",
     "category_name": "신선식품,빵",
     "category_id": 7,
-    "product_cnt": 31,
+    "product_cnt": 30,
     "category_order": 1
   },
   {
     "category_image": "냉장,냉동",
     "category_name": "냉장,냉동",
     "category_id": 9,
-    "product_cnt": 56,
+    "product_cnt": 55,
     "category_order": 2
   },
   {
@@ -38,7 +38,7 @@
     "category_image": "과자,간식",
     "category_name": "과자,간식",
     "category_id": 12,
-    "product_cnt": 31,
+    "product_cnt": 30,
     "category_order": 6
   },
   {
