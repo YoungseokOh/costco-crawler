@@ -58415,5 +58415,124 @@
         "discount": 6500
       }
     ]
+  },
+  "11212": {
+    "product_id": 11212,
+    "product_name": "수박3호 (7KG미만) 원산지: 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "occurrences": [
+      {
+        "version": "2026-04-27",
+        "from_date": "2026.04.29",
+        "to_date": "2026.05.03",
+        "normal_price": 22490,
+        "sale_price": 19490,
+        "discount": 3000
+      }
+    ]
+  },
+  "11213": {
+    "product_id": 11213,
+    "product_name": "CHOCOVIA 두바이스타일 초코 450G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "occurrences": [
+      {
+        "version": "2026-04-27",
+        "from_date": "2026.04.30",
+        "to_date": "2026.05.10",
+        "normal_price": 19890,
+        "sale_price": 15890,
+        "discount": 4000
+      }
+    ]
+  },
+  "11214": {
+    "product_id": 11214,
+    "product_name": "PANCRACIO 너트 락 초콜릿 280G / 140G X 2",
+    "category_name": "과자,간식",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "occurrences": [
+      {
+        "version": "2026-04-27",
+        "from_date": "2026.04.30",
+        "to_date": "2026.05.10",
+        "normal_price": 24390,
+        "sale_price": 19390,
+        "discount": 5000
+      }
+    ]
+  },
+  "11218": {
+    "product_id": 11218,
+    "product_name": "ADIDAS  남성 반소매티 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "occurrences": [
+      {
+        "version": "2026-04-27",
+        "from_date": "2026.04.28",
+        "to_date": "2026.05.17",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11216": {
+    "product_id": 11216,
+    "product_name": "CROCS 남성 클로그 250 - 290MM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "occurrences": [
+      {
+        "version": "2026-04-27",
+        "from_date": "2026.04.30",
+        "to_date": "2026.05.05",
+        "normal_price": 31990,
+        "sale_price": 28490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11217": {
+    "product_id": 11217,
+    "product_name": "FILA KIDS 스트라이프 티셔츠 120,130,145,155,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "occurrences": [
+      {
+        "version": "2026-04-27",
+        "from_date": "2026.04.29",
+        "to_date": "2026.05.17",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11215": {
+    "product_id": 11215,
+    "product_name": "LEGO MINECRAFT 여우 #21588",
+    "category_name": "공구,문구",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "occurrences": [
+      {
+        "version": "2026-04-27",
+        "from_date": "2026.04.29",
+        "to_date": "2026.05.10",
+        "normal_price": 56900,
+        "sale_price": 44900,
+        "discount": 12000
+      }
+    ]
   }
 }
