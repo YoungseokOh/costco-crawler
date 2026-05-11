@@ -64649,5 +64649,396 @@
         "discount": 3500
       }
     ]
+  },
+  "11265": {
+    "product_id": 11265,
+    "product_name": "대추야자(907G) 원산지 : 미국산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11264": {
+    "product_id": 11264,
+    "product_name": "루꼴라 샐러드 (500G)",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 7990,
+        "sale_price": 6490,
+        "discount": 1500
+      }
+    ]
+  },
+  "11268": {
+    "product_id": 11268,
+    "product_name": "아워홈 갓석박지 1.5KG",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.17",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11267": {
+    "product_id": 11267,
+    "product_name": "CAMPFIRE 마시멜로 1KG",
+    "category_name": "과자,간식",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.31",
+        "normal_price": 11490,
+        "sale_price": 8990,
+        "discount": 2500
+      }
+    ]
+  },
+  "11245": {
+    "product_id": 11245,
+    "product_name": "CJ 맛콩 검은콩 700G / 50G X 14",
+    "category_name": "과자,간식",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 13990,
+        "sale_price": 10990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11266": {
+    "product_id": 11266,
+    "product_name": "ST.MICHEL 샌드위치 갈레트",
+    "category_name": "과자,간식",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 14290,
+        "sale_price": 10990,
+        "discount": 3300
+      }
+    ]
+  },
+  "11250": {
+    "product_id": 11250,
+    "product_name": "SAMSUNG 삼성 제습기 18L AY70H18100GVD",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 469900,
+        "sale_price": 419900,
+        "discount": 50000
+      }
+    ]
+  },
+  "11253": {
+    "product_id": 11253,
+    "product_name": "ATTIC & BASE 접시세트 8P",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 27990,
+        "sale_price": 22290,
+        "discount": 5700
+      }
+    ]
+  },
+  "11252": {
+    "product_id": 11252,
+    "product_name": "마리슈타이거 무쇠 라이스 팟 16CM",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 44990,
+        "sale_price": 34990,
+        "discount": 10000
+      }
+    ]
+  },
+  "11251": {
+    "product_id": 11251,
+    "product_name": "쿠진아트 에어프라이어 오븐 17L",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.17",
+        "normal_price": 159900,
+        "sale_price": 127900,
+        "discount": 32000
+      }
+    ]
+  },
+  "11263": {
+    "product_id": 11263,
+    "product_name": "ANSICH 여성 나일론 바지 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.31",
+        "normal_price": 23990,
+        "sale_price": 18990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11260": {
+    "product_id": 11260,
+    "product_name": "BALLOP 성인 운동화 230 - 285MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 39990,
+        "sale_price": 29990,
+        "discount": 10000
+      }
+    ]
+  },
+  "11261": {
+    "product_id": 11261,
+    "product_name": "DIADORA 브리프 5매 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 28990,
+        "sale_price": 22990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11262": {
+    "product_id": 11262,
+    "product_name": "NEW BALANCE 여성스포츠양말6족 FREE SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 15990,
+        "sale_price": 12490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11256": {
+    "product_id": 11256,
+    "product_name": "BESTWAY 패밀리 풀장",
+    "category_name": "생활용품",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.31",
+        "normal_price": 58900,
+        "sale_price": 45900,
+        "discount": 13000
+      }
+    ]
+  },
+  "11243": {
+    "product_id": 11243,
+    "product_name": "COLEMAN 쿨러 4.7L COLEMAN COOLER 4.7L",
+    "category_name": "생활용품",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 23990,
+        "sale_price": 18990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11259": {
+    "product_id": 11259,
+    "product_name": "SAMSONITE 여행가방 48CM & 70CM (19&28)",
+    "category_name": "생활용품",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 229900,
+        "sale_price": 179900,
+        "discount": 50000
+      }
+    ]
+  },
+  "11255": {
+    "product_id": 11255,
+    "product_name": "솔라 LED 브릭 라이트 6개입",
+    "category_name": "생활용품",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 26990,
+        "sale_price": 19990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11254": {
+    "product_id": 11254,
+    "product_name": "핀란디아 베네 이동식 테이블",
+    "category_name": "생활용품",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 57900,
+        "sale_price": 45900,
+        "discount": 12000
+      }
+    ]
+  },
+  "11249": {
+    "product_id": 11249,
+    "product_name": "DENTISTE 덴티스테 뉴플러스화이트치약 160G X 4",
+    "category_name": "건강,미용",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 28790,
+        "sale_price": 21990,
+        "discount": 6800
+      }
+    ]
+  },
+  "11244": {
+    "product_id": 11244,
+    "product_name": "드시모네 밀리 플러스 4G X 50포",
+    "category_name": "건강,미용",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 89900,
+        "sale_price": 71900,
+        "discount": 18000
+      }
+    ]
+  },
+  "11258": {
+    "product_id": 11258,
+    "product_name": "안국건강 하이퍼멜팅마그네슘 3G X 100포",
+    "category_name": "건강,미용",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 27990,
+        "sale_price": 22390,
+        "discount": 5600
+      }
+    ]
+  },
+  "11257": {
+    "product_id": 11257,
+    "product_name": "ZURU X-SHOT 모터 소커즈 전동 물총 2PK",
+    "category_name": "공구,문구",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "occurrences": [
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.11",
+        "to_date": "2026.05.24",
+        "normal_price": 42990,
+        "sale_price": 33990,
+        "discount": 9000
+      }
+    ]
   }
 }
