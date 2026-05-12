@@ -19521,7 +19521,7 @@
     "product_name": "NOEL 타파스트레이 400G 원산지스페인",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-04-27",
+    "last_seen": "2026-05-11",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -19559,6 +19559,14 @@
         "version": "2026-04-27",
         "from_date": "2026.04.16",
         "to_date": "2026.04.29",
+        "normal_price": 17990,
+        "sale_price": 14190,
+        "discount": 3800
+      },
+      {
+        "version": "2026-05-11",
+        "from_date": "2026.05.13",
+        "to_date": "2026.05.15",
         "normal_price": 17990,
         "sale_price": 14190,
         "discount": 3800
