@@ -69098,5 +69098,447 @@
         "discount": 5200
       }
     ]
+  },
+  "11292": {
+    "product_id": 11292,
+    "product_name": "건취나물 (200G) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.24",
+        "normal_price": 10990,
+        "sale_price": 9290,
+        "discount": 1700
+      }
+    ]
+  },
+  "11294": {
+    "product_id": 11294,
+    "product_name": "롤치즈 치아바타 ROLL CHEESE CIABATTA 4CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.21",
+        "normal_price": 10990,
+        "sale_price": 8790,
+        "discount": 2200
+      }
+    ]
+  },
+  "11291": {
+    "product_id": 11291,
+    "product_name": "미이랑 캐나다산 귀리쌀 5.5KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.31",
+        "normal_price": 8990,
+        "sale_price": 7190,
+        "discount": 1800
+      }
+    ]
+  },
+  "11293": {
+    "product_id": 11293,
+    "product_name": "토마토 (4KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.24",
+        "normal_price": 12790,
+        "sale_price": 10790,
+        "discount": 2000
+      }
+    ]
+  },
+  "11301": {
+    "product_id": 11301,
+    "product_name": "DESSERTINE 초콜렛무스 100GX6원산지프랑스",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.16",
+        "to_date": "2026.05.18",
+        "normal_price": 22990,
+        "sale_price": 19490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11302": {
+    "product_id": 11302,
+    "product_name": "SCOIATTOLO 페투치네 680G 원산지이탈리아",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.25",
+        "normal_price": 7390,
+        "sale_price": 5890,
+        "discount": 1500
+      }
+    ]
+  },
+  "11295": {
+    "product_id": 11295,
+    "product_name": "훈도다이 유즈 폰즈 360ML X 3",
+    "category_name": "가공식품",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.24",
+        "normal_price": 13990,
+        "sale_price": 11290,
+        "discount": 2700
+      }
+    ]
+  },
+  "11298": {
+    "product_id": 11298,
+    "product_name": "BLOOM에너지드링크 피치 & 망고 355ML X 12캔",
+    "category_name": "음료,주류",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.31",
+        "normal_price": 28990,
+        "sale_price": 24490,
+        "discount": 4500
+      }
+    ]
+  },
+  "11299": {
+    "product_id": 11299,
+    "product_name": "[앤쿠폰적용상품] 스텔라아르투아 495ML X 8캔",
+    "category_name": "음료,주류",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.31",
+        "normal_price": 13690,
+        "sale_price": 12690,
+        "discount": 1000
+      }
+    ]
+  },
+  "11300": {
+    "product_id": 11300,
+    "product_name": "클라우디 베이 쇼비뇽블랑 750ML",
+    "category_name": "음료,주류",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.24",
+        "normal_price": 45990,
+        "sale_price": 39990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11297": {
+    "product_id": 11297,
+    "product_name": "AMOS 축구 믹스 젤리 1,000G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.16",
+        "to_date": "2026.05.31",
+        "normal_price": 22990,
+        "sale_price": 18490,
+        "discount": 4500
+      }
+    ]
+  },
+  "11296": {
+    "product_id": 11296,
+    "product_name": "해태 에이스 1,744G / 436G X 4",
+    "category_name": "과자,간식",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.24",
+        "normal_price": 12790,
+        "sale_price": 10590,
+        "discount": 2200
+      }
+    ]
+  },
+  "11278": {
+    "product_id": 11278,
+    "product_name": "CARRIER 벽걸이형 에어컨 기본 배송설치 포함",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.31",
+        "normal_price": 649000,
+        "sale_price": 519000,
+        "discount": 130000
+      }
+    ]
+  },
+  "11277": {
+    "product_id": 11277,
+    "product_name": "LG 엘지 휘센 뷰2 18+6 PY 스탠드 + 벽걸이",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.06.07",
+        "normal_price": 2399000,
+        "sale_price": 2099000,
+        "discount": 300000
+      }
+    ]
+  },
+  "11279": {
+    "product_id": 11279,
+    "product_name": "AMT 샤프시리즈 파티웍 스티머28CM",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.24",
+        "normal_price": 159900,
+        "sale_price": 127900,
+        "discount": 32000
+      }
+    ]
+  },
+  "11280": {
+    "product_id": 11280,
+    "product_name": "OXO 보틀클리닝 세트 3P",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.31",
+        "normal_price": 11990,
+        "sale_price": 9490,
+        "discount": 2500
+      }
+    ]
+  },
+  "11285": {
+    "product_id": 11285,
+    "product_name": "ANSICH 여성 니트 점퍼 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.06.07",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11287": {
+    "product_id": 11287,
+    "product_name": "EIDER 남성 아이스 폴로 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.06.07",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11288": {
+    "product_id": 11288,
+    "product_name": "GUESS JUNIOR 시어서커파자마세트 140,155,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.31",
+        "normal_price": 23990,
+        "sale_price": 18490,
+        "discount": 5500
+      }
+    ]
+  },
+  "11283": {
+    "product_id": 11283,
+    "product_name": "GUY LAROCHE 바스 타월 1P, 80X150CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.15",
+        "to_date": "2026.05.24",
+        "normal_price": 9970,
+        "sale_price": 7970,
+        "discount": 2000
+      }
+    ]
+  },
+  "11286": {
+    "product_id": 11286,
+    "product_name": "KENNETH COLE 여성 나일론 팬츠 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.06.14",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11289": {
+    "product_id": 11289,
+    "product_name": "NEPA 키즈 나일론 바지 130 - 160 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.06.07",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11290": {
+    "product_id": 11290,
+    "product_name": "PUMA 프리컷로고팬티5매 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.14",
+        "to_date": "2026.05.31",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11284": {
+    "product_id": 11284,
+    "product_name": "ROCKFISH 여성 첼시레인부츠 235 - 255MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.06.07",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11281": {
+    "product_id": 11281,
+    "product_name": "AQI 에이큐아이 리프레쉬샤워젤 1.5L",
+    "category_name": "건강,미용",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.18",
+        "to_date": "2026.05.31",
+        "normal_price": 17990,
+        "sale_price": 14390,
+        "discount": 3600
+      }
+    ]
+  },
+  "11282": {
+    "product_id": 11282,
+    "product_name": "뉴트리코어 헤어그릭스케라넷 42캡슐",
+    "category_name": "건강,미용",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.16",
+        "to_date": "2026.05.31",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
   }
 }
