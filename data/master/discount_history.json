@@ -69769,5 +69769,56 @@
         "discount": 11000
       }
     ]
+  },
+  "11305": {
+    "product_id": 11305,
+    "product_name": "KIRKLAND SIGNATURE 베이글시즈닝 505G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.20",
+        "to_date": "2026.05.31",
+        "normal_price": 11690,
+        "sale_price": 9990,
+        "discount": 1700
+      }
+    ]
+  },
+  "11306": {
+    "product_id": 11306,
+    "product_name": "오리온 비쵸비 750G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.21",
+        "to_date": "2026.05.24",
+        "normal_price": 13990,
+        "sale_price": 11890,
+        "discount": 2100
+      }
+    ]
+  },
+  "11303": {
+    "product_id": 11303,
+    "product_name": "CJ BYO 생유산균프리미엄",
+    "category_name": "건강,미용",
+    "first_seen": "2026-05-18",
+    "last_seen": "2026-05-18",
+    "occurrences": [
+      {
+        "version": "2026-05-18",
+        "from_date": "2026.05.20",
+        "to_date": "2026.06.07",
+        "normal_price": 44990,
+        "sale_price": 35990,
+        "discount": 9000
+      }
+    ]
   }
 }
