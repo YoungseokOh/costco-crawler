@@ -74335,5 +74335,22 @@
         "discount": 6000
       }
     ]
+  },
+  "11342": {
+    "product_id": 11342,
+    "product_name": "OFF오프 에어로졸 모기/진드기 기피제 150ML X 3",
+    "category_name": "생활용품",
+    "first_seen": "2026-05-25",
+    "last_seen": "2026-05-25",
+    "occurrences": [
+      {
+        "version": "2026-05-25",
+        "from_date": "2026.05.25",
+        "to_date": "2026.06.07",
+        "normal_price": 18490,
+        "sale_price": 14490,
+        "discount": 4000
+      }
+    ]
   }
 }
