@@ -78209,5 +78209,158 @@
         "discount": 6000
       }
     ]
+  },
+  "11362": {
+    "product_id": 11362,
+    "product_name": "대구농산 호주산 루피니빈 2.1KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.02",
+        "to_date": "2026.06.07",
+        "normal_price": 9990,
+        "sale_price": 7990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11363": {
+    "product_id": 11363,
+    "product_name": "델라웨어포도 (1KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.03",
+        "to_date": "2026.06.07",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11364": {
+    "product_id": 11364,
+    "product_name": "BEL 미니 베이비벨 720G 원산지프랑스",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.03",
+        "to_date": "2026.06.07",
+        "normal_price": 31990,
+        "sale_price": 26490,
+        "discount": 5500
+      }
+    ]
+  },
+  "11360": {
+    "product_id": 11360,
+    "product_name": "COUNTESS MARA 남성 반소매 폴로 S - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.03",
+        "to_date": "2026.06.21",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11357": {
+    "product_id": 11357,
+    "product_name": "ELLE 아동 모자 M, L SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.03",
+        "to_date": "2026.06.21",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11359": {
+    "product_id": 11359,
+    "product_name": "MILLET 남성 반소매 셔츠 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.03",
+        "to_date": "2026.06.14",
+        "normal_price": 35990,
+        "sale_price": 28490,
+        "discount": 7500
+      }
+    ]
+  },
+  "11358": {
+    "product_id": 11358,
+    "product_name": "WEATHERPROOF VINTAGE 여성 리넨 반바지 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.02",
+        "to_date": "2026.06.21",
+        "normal_price": 19990,
+        "sale_price": 13990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11361": {
+    "product_id": 11361,
+    "product_name": "HUISH OUTDOOR 스노클링세트 성인용",
+    "category_name": "생활용품",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.01",
+        "to_date": "2026.06.28",
+        "normal_price": 64900,
+        "sale_price": 49900,
+        "discount": 15000
+      }
+    ]
+  },
+  "11356": {
+    "product_id": 11356,
+    "product_name": "접이식 수납함 55L 2개",
+    "category_name": "생활용품",
+    "first_seen": "2026-06-01",
+    "last_seen": "2026-06-01",
+    "occurrences": [
+      {
+        "version": "2026-06-01",
+        "from_date": "2026.06.01",
+        "to_date": "2026.06.14",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
   }
 }
