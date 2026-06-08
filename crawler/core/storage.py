@@ -64,6 +64,7 @@ class Storage:
         catalog_hash: Optional[str] = None,
         catalog_count: Optional[int] = None,
         check_reason: Optional[str] = None,
+        min_from_date: Optional[str] = None,
     ):
         """크롤링 로그 저장 (Master)"""
         log_file = self.master_dir / 'crawl_log.json'
@@ -86,6 +87,8 @@ class Storage:
             log['last_catalog_count'] = catalog_count
         if check_reason:
             log['check_reason'] = check_reason
+        if min_from_date is not None:
+            log['last_min_from_date'] = min_from_date
 
         log['last_check_at'] = now
         log['last_crawl_at'] = now

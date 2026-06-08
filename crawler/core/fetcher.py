@@ -6,7 +6,7 @@ API Fetcher
 import hashlib
 import json
 import time
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from typing import Any, Dict, List, Optional, Tuple
 
 import requests
@@ -38,6 +38,7 @@ class Fetcher:
             )
         except (TypeError, ValueError):
             self._last_catalog_count = None
+        self._last_min_from_date: Optional[str] = self._crawl_log.get('last_min_from_date')
         self._last_check_result: Dict[str, Any] = {}
     
     def _load_crawl_log(self) -> Dict:
@@ -68,6 +69,7 @@ class Fetcher:
         catalog_hash: Optional[str] = None,
         catalog_count: Optional[int] = None,
         check_reason: Optional[str] = None,
+        min_from_date: Optional[str] = None,
     ):
         """크롤링 로그 저장"""
         log_file = MASTER_DIR / config.get('storage.crawl_log_file', 'crawl_log.json')
@@ -89,6 +91,8 @@ class Fetcher:
             log['last_catalog_count'] = catalog_count
         if check_reason:
             log['check_reason'] = check_reason
+        if min_from_date is not None:
+            log['last_min_from_date'] = min_from_date
 
         log['last_check_at'] = now
         log['last_crawl_at'] = now
@@ -107,12 +111,17 @@ class Fetcher:
             return 'none'
         return value[:8]
 
-    def _build_catalog_fingerprint(self) -> Tuple[Optional[str], Optional[int]]:
-        """상품 스냅샷 해시 계산용 카탈로그 지문 생성"""
+    def _build_catalog_fingerprint(self) -> Tuple[Optional[str], Optional[int], Optional[str]]:
+        """상품 스냅샷 해시 계산용 카탈로그 지문 생성.
+
+        Returns:
+            (catalog_hash, product_count, min_from_date)
+            min_from_date: 'YYYY-MM-DD' 형식, 상품이 없거나 파싱 실패 시 None
+        """
         categories = self._request('categories')
         if categories is None:
             print("[WARN] Catalog snapshot skipped: categories endpoint unavailable")
-            return None, None
+            return None, None, None
 
         all_products: List[Dict] = []
         for cat in categories:
@@ -125,7 +134,7 @@ class Fetcher:
                     "[WARN] Catalog snapshot skipped: "
                     f"products endpoint unavailable for category {category_id}"
                 )
-                return None, None
+                return None, None, None
             all_products.extend(products)
 
         unique_products: Dict[Any, Dict] = {}
@@ -155,7 +164,18 @@ class Fetcher:
             separators=(',', ':'),
         )
         catalog_hash = hashlib.sha256(payload.encode()).hexdigest()
-        return catalog_hash, len(normalized)
+
+        # 가장 이른 from_date 추출 (세일 기간 교체 감지용)
+        min_from_date: Optional[str] = None
+        raw_dates = [p['from_date'] for p in normalized if p.get('from_date')]
+        if raw_dates:
+            try:
+                parsed = [datetime.strptime(d, '%Y.%m.%d').date() for d in raw_dates]
+                min_from_date = min(parsed).isoformat()
+            except (ValueError, TypeError):
+                pass
+
+        return catalog_hash, len(normalized), min_from_date
     
     def _request(self, endpoint_key: str, **kwargs) -> Optional[Any]:
         """API 요청"""
@@ -204,7 +224,7 @@ class Fetcher:
 
         notice_str = json.dumps(notices, sort_keys=True, ensure_ascii=False, separators=(',', ':'))
         notice_hash = hashlib.md5(notice_str.encode()).hexdigest()
-        catalog_hash, catalog_count = self._build_catalog_fingerprint()
+        catalog_hash, catalog_count, min_from_date = self._build_catalog_fingerprint()
 
         notice_changed = self._last_notice_hash != notice_hash
         if catalog_hash is None:
@@ -215,7 +235,25 @@ class Fetcher:
         else:
             catalog_changed = self._last_catalog_hash != catalog_hash
 
-        should_crawl = notice_changed or catalog_changed
+        # 세일 기간 교체 감지: 마지막 세일 시작일로부터 7일이 지났고, 그 이후 크롤을 아직 안 했으면 강제 실행
+        sale_rotation_due = False
+        if self._last_min_from_date and not notice_changed and not catalog_changed:
+            try:
+                last_from = date.fromisoformat(self._last_min_from_date)
+                expected_next = last_from + timedelta(days=7)
+                today = date.today()
+                last_crawl_str = self._crawl_log.get('last_crawl_at', '')
+                last_crawl_date = date.fromisoformat(last_crawl_str[:10]) if last_crawl_str else None
+                if today >= expected_next and (last_crawl_date is None or last_crawl_date < expected_next):
+                    sale_rotation_due = True
+                    print(
+                        f"[INFO] Sale rotation due: last_from={self._last_min_from_date}, "
+                        f"expected_next={expected_next.isoformat()}, today={today.isoformat()}"
+                    )
+            except (ValueError, TypeError):
+                pass
+
+        should_crawl = notice_changed or catalog_changed or sale_rotation_due
         catalog_count_change_ratio: Optional[float] = None
         if (
             catalog_count is not None
@@ -233,7 +271,9 @@ class Fetcher:
                 )
 
         if should_crawl:
-            if notice_changed and catalog_changed:
+            if sale_rotation_due and not notice_changed and not catalog_changed:
+                reason = 'sale_rotation_due'
+            elif notice_changed and catalog_changed:
                 reason = 'notice_and_catalog_changed'
             elif notice_changed:
                 reason = 'notice_changed'
@@ -249,9 +289,11 @@ class Fetcher:
             'reason': reason,
             'notice_changed': notice_changed,
             'catalog_changed': catalog_changed,
+            'sale_rotation_due': sale_rotation_due,
             'notice_hash': notice_hash,
             'catalog_hash': catalog_hash,
             'catalog_count': catalog_count,
+            'min_from_date': min_from_date,
             'catalog_count_change_ratio': catalog_count_change_ratio,
         }
 
@@ -267,6 +309,8 @@ class Fetcher:
                 f"({'changed' if catalog_changed else 'unchanged'}) "
                 f"/ products={catalog_count}"
             )
+        if min_from_date:
+            print(f"[INFO] Min from_date: {min_from_date}")
         print(f"[INFO] Check reason: {reason}")
         print(
             "CHECK_RESULT "
@@ -274,6 +318,7 @@ class Fetcher:
             f"should_crawl={'true' if should_crawl else 'false'} "
             f"notice_changed={'true' if notice_changed else 'false'} "
             f"catalog_changed={'true' if catalog_changed else 'false'} "
+            f"sale_rotation_due={'true' if sale_rotation_due else 'false'} "
             f"notice_hash={self._short_hash(notice_hash)} "
             f"catalog_hash={self._short_hash(catalog_hash)} "
             f"catalog_count={catalog_count if catalog_count is not None else 'unknown'}"

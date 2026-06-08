@@ -71,6 +71,7 @@ class CrawlerV2:
             catalog_hash=check_result.get('catalog_hash'),
             catalog_count=check_result.get('catalog_count'),
             check_reason=check_result.get('reason'),
+            min_from_date=check_result.get('min_from_date'),
         )
         
         # 7. 이미지 다운로드 (선택적)
