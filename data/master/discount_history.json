@@ -82533,5 +82533,243 @@
         "discount": 3200
       }
     ]
+  },
+  "11413": {
+    "product_id": 11413,
+    "product_name": "M PARK 고당도오렌지3.5KG 원산지 : 미국",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.11",
+        "to_date": "2026.06.21",
+        "normal_price": 16990,
+        "sale_price": 13990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11414": {
+    "product_id": 11414,
+    "product_name": "말랑 가래떡 MALLANG GARAETTEOK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.11",
+        "to_date": "2026.06.14",
+        "normal_price": 9990,
+        "sale_price": 7990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11415": {
+    "product_id": 11415,
+    "product_name": "메이플 버터떡 MAPLE BUTTER TTEOK 6CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.11",
+        "to_date": "2026.06.14",
+        "normal_price": 9990,
+        "sale_price": 7990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11418": {
+    "product_id": 11418,
+    "product_name": "수박 6호 (10KG미만) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.08",
+        "to_date": "2026.06.14",
+        "normal_price": 22890,
+        "sale_price": 19890,
+        "discount": 3000
+      }
+    ]
+  },
+  "11412": {
+    "product_id": 11412,
+    "product_name": "애플수박 (2입) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.10",
+        "to_date": "2026.06.21",
+        "normal_price": 18990,
+        "sale_price": 15990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11416": {
+    "product_id": 11416,
+    "product_name": "MARIANI 와규육포 225G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.10",
+        "to_date": "2026.06.16",
+        "normal_price": 16990,
+        "sale_price": 13590,
+        "discount": 3400
+      }
+    ]
+  },
+  "11403": {
+    "product_id": 11403,
+    "product_name": "APPLE PENCIL PRO",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.07",
+        "to_date": "2026.06.20",
+        "normal_price": 182900,
+        "sale_price": 158900,
+        "discount": 24000
+      }
+    ]
+  },
+  "11404": {
+    "product_id": 11404,
+    "product_name": "LG 엘지 휘센 뷰1 22+6 PY 스탠드 + 벽걸이",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.10",
+        "to_date": "2026.06.28",
+        "normal_price": 3349000,
+        "sale_price": 2999000,
+        "discount": 350000
+      }
+    ]
+  },
+  "11408": {
+    "product_id": 11408,
+    "product_name": "FLAGSHIP 남성 반바지 30,32,34,36 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.09",
+        "to_date": "2026.06.28",
+        "normal_price": 19990,
+        "sale_price": 14990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11405": {
+    "product_id": 11405,
+    "product_name": "PENFIELD 반소매 포켓티셔츠 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.09",
+        "to_date": "2026.07.05",
+        "normal_price": 15990,
+        "sale_price": 12790,
+        "discount": 3200
+      }
+    ]
+  },
+  "11410": {
+    "product_id": 11410,
+    "product_name": "ROCKFISH 여성 롱 레인부츠 230 - 245MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.08",
+        "to_date": "2026.06.28",
+        "normal_price": 68900,
+        "sale_price": 54900,
+        "discount": 14000
+      }
+    ]
+  },
+  "11406": {
+    "product_id": 11406,
+    "product_name": "TRUE RELIGION 남성 반소매 크루 S - XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.10",
+        "to_date": "2026.06.21",
+        "normal_price": 17990,
+        "sale_price": 13990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11407": {
+    "product_id": 11407,
+    "product_name": "네파 남성 트리코트바지 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.08",
+        "to_date": "2026.07.05",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11409": {
+    "product_id": 11409,
+    "product_name": "ORAL B 오랄비 전동 칫솔 IO 센서티브 클린",
+    "category_name": "건강,미용",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "occurrences": [
+      {
+        "version": "2026-06-08",
+        "from_date": "2026.06.08",
+        "to_date": "2026.06.21",
+        "normal_price": 99900,
+        "sale_price": 74900,
+        "discount": 25000
+      }
+    ]
   }
 }
