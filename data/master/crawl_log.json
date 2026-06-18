@@ -1,10 +1,10 @@
 {
   "last_notice_hash": "023d1d1bce0393637fba9b4288516d7a",
-  "last_crawl_at": "2026-06-18T09:46:43.013882",
-  "products_count": 537,
-  "last_catalog_hash": "49f4e46285c9db0c9aea6ac06af8332f2c8cb5453c1c2ae0075fd30cb3a8b3f5",
-  "last_catalog_count": 537,
+  "last_crawl_at": "2026-06-18T17:22:54.947344",
+  "products_count": 533,
+  "last_catalog_hash": "391539119da1888473b9307040615e257decc6dec504e430eab08c45df2b8064",
+  "last_catalog_count": 533,
   "check_reason": "catalog_changed",
-  "last_check_at": "2026-06-18T09:46:43.013882",
+  "last_check_at": "2026-06-18T17:22:54.947344",
   "last_min_from_date": "2025-06-08"
 }
