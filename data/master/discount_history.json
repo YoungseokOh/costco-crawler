@@ -87596,5 +87596,175 @@
         "discount": 4000
       }
     ]
+  },
+  "11457": {
+    "product_id": 11457,
+    "product_name": "스윗밸런스 당근라페 650G",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.18",
+        "to_date": "2026.06.21",
+        "normal_price": 9990,
+        "sale_price": 8490,
+        "discount": 1500
+      }
+    ]
+  },
+  "11456": {
+    "product_id": 11456,
+    "product_name": "트리벨리 파프리카(1KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.16",
+        "to_date": "2026.06.21",
+        "normal_price": 9890,
+        "sale_price": 7390,
+        "discount": 2500
+      }
+    ]
+  },
+  "11458": {
+    "product_id": 11458,
+    "product_name": "하우스 자두 (1KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.18",
+        "to_date": "2026.06.21",
+        "normal_price": 17890,
+        "sale_price": 15390,
+        "discount": 2500
+      }
+    ]
+  },
+  "11449": {
+    "product_id": 11449,
+    "product_name": "SAMSUNG NEO QLED TV 75형 189CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.18",
+        "to_date": "2026.07.05",
+        "normal_price": 2799000,
+        "sale_price": 2399000,
+        "discount": 400000
+      }
+    ]
+  },
+  "11450": {
+    "product_id": 11450,
+    "product_name": "SAMSUNG NEO QLED TV 85형 214CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.18",
+        "to_date": "2026.07.05",
+        "normal_price": 3449000,
+        "sale_price": 2849000,
+        "discount": 600000
+      }
+    ]
+  },
+  "11455": {
+    "product_id": 11455,
+    "product_name": "BENETTON 키즈 반소매 티셔츠 120,130,140,150",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.18",
+        "to_date": "2026.07.12",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11452": {
+    "product_id": 11452,
+    "product_name": "COLUMBIA 쿨링 팔토시 2쌍 M(손덮개),L(일반)",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.17",
+        "to_date": "2026.06.28",
+        "normal_price": 12990,
+        "sale_price": 10490,
+        "discount": 2500
+      }
+    ]
+  },
+  "11453": {
+    "product_id": 11453,
+    "product_name": "GAP 여성 트윌 반바지 S,M,L US SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.17",
+        "to_date": "2026.07.12",
+        "normal_price": 19490,
+        "sale_price": 14990,
+        "discount": 4500
+      }
+    ]
+  },
+  "11454": {
+    "product_id": 11454,
+    "product_name": "TAILOR VINTAGE 남성 반바지 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.17",
+        "to_date": "2026.07.12",
+        "normal_price": 19990,
+        "sale_price": 13490,
+        "discount": 6500
+      }
+    ]
+  },
+  "11451": {
+    "product_id": 11451,
+    "product_name": "오리고 냉감 삼각등쿠션 48X46X26CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-15",
+    "last_seen": "2026-06-15",
+    "occurrences": [
+      {
+        "version": "2026-06-15",
+        "from_date": "2026.06.16",
+        "to_date": "2026.06.21",
+        "normal_price": 25990,
+        "sale_price": 20490,
+        "discount": 5500
+      }
+    ]
   }
 }
