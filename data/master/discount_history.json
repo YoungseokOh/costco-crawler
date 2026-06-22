@@ -92280,5 +92280,532 @@
         "discount": 3500
       }
     ]
+  },
+  "11482": {
+    "product_id": 11482,
+    "product_name": "대구농산 쌀가루 2.5KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 7990,
+        "sale_price": 5990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11483": {
+    "product_id": 11483,
+    "product_name": "아스파라거스(794G) 원산지 : 멕시코",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 17890,
+        "sale_price": 13890,
+        "discount": 4000
+      }
+    ]
+  },
+  "11484": {
+    "product_id": 11484,
+    "product_name": "햇감자 1봉 (3KG)",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 14790,
+        "sale_price": 12290,
+        "discount": 2500
+      }
+    ]
+  },
+  "11492": {
+    "product_id": 11492,
+    "product_name": "건한치 안주/간식용 400G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 29990,
+        "sale_price": 26690,
+        "discount": 3300
+      }
+    ]
+  },
+  "11491": {
+    "product_id": 11491,
+    "product_name": "하림 초계국수 530G X 4",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 17990,
+        "sale_price": 15290,
+        "discount": 2700
+      }
+    ]
+  },
+  "11488": {
+    "product_id": 11488,
+    "product_name": "KIRKLAND SIGNATURE 믹스넛 스프레드 765G",
+    "category_name": "가공식품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11489": {
+    "product_id": 11489,
+    "product_name": "MAMA'S CHOICE 돼지고기 김치찜 700G X 3",
+    "category_name": "가공식품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 19990,
+        "sale_price": 16990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11486": {
+    "product_id": 11486,
+    "product_name": "ORGANIC VALLEY 기버터 368G",
+    "category_name": "가공식품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11487": {
+    "product_id": 11487,
+    "product_name": "청화 페페론치노 160G",
+    "category_name": "가공식품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 15990,
+        "sale_price": 12790,
+        "discount": 3200
+      }
+    ]
+  },
+  "11485": {
+    "product_id": 11485,
+    "product_name": "큐원 알룰로스 940G X 2",
+    "category_name": "가공식품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11490": {
+    "product_id": 11490,
+    "product_name": "TEAZEN 레몬콤부차 5G X 70",
+    "category_name": "커피,차",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 17990,
+        "sale_price": 15990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11468": {
+    "product_id": 11468,
+    "product_name": "CUORE 쿠오레 제습기 8L CD-P68W",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 149900,
+        "sale_price": 119900,
+        "discount": 30000
+      }
+    ]
+  },
+  "11469": {
+    "product_id": 11469,
+    "product_name": "TUMS 텀스 허니비 머그 2PK, 600ML",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 22990,
+        "sale_price": 18390,
+        "discount": 4600
+      }
+    ]
+  },
+  "11481": {
+    "product_id": 11481,
+    "product_name": "ADIDAS 빅토리 버킷 햇 FREE SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.17",
+        "to_date": "2026.06.28",
+        "normal_price": 22990,
+        "sale_price": 17990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11476": {
+    "product_id": 11476,
+    "product_name": "BALLOP 성인 아쿠아슈즈 230 - 280MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11477": {
+    "product_id": 11477,
+    "product_name": "BALLOP 키즈 아쿠아슈즈 190 - 220MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11475": {
+    "product_id": 11475,
+    "product_name": "CASUAL LIVING 냉감 바디필로우 50X121CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 25990,
+        "sale_price": 20490,
+        "discount": 5500
+      }
+    ]
+  },
+  "11480": {
+    "product_id": 11480,
+    "product_name": "FILA GOLF 시어서커 반바지 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.12",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11467": {
+    "product_id": 11467,
+    "product_name": "LAP(레드컬러X) 태슬 썬드레스 S/M,M/L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 26990,
+        "sale_price": 21490,
+        "discount": 5500
+      }
+    ]
+  },
+  "11466": {
+    "product_id": 11466,
+    "product_name": "NEPA 시어써커 셋업 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11465": {
+    "product_id": 11465,
+    "product_name": "SKECHERS 남성 고워크 맥스 260 - 280MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 44990,
+        "sale_price": 35990,
+        "discount": 9000
+      }
+    ]
+  },
+  "11464": {
+    "product_id": 11464,
+    "product_name": "SKECHERS 여성 스위프트 핏 230 - 250MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
+      }
+    ]
+  },
+  "11478": {
+    "product_id": 11478,
+    "product_name": "VIVIEN 여성라운지바지 2PK S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.19",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11479": {
+    "product_id": 11479,
+    "product_name": "VOLVIK 남성 반소매 폴로 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.12",
+        "normal_price": 35990,
+        "sale_price": 28490,
+        "discount": 7500
+      }
+    ]
+  },
+  "11470": {
+    "product_id": 11470,
+    "product_name": "ANYWHERE LIGHT 무선 다운라이트 2개입",
+    "category_name": "생활용품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 31990,
+        "sale_price": 24990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11460": {
+    "product_id": 11460,
+    "product_name": "HOPEON 압축 파우치 3종",
+    "category_name": "생활용품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.03.22",
+        "to_date": "2026.07.05",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11461": {
+    "product_id": 11461,
+    "product_name": "NATIONAL GEOGRAPHIC 방수팩2개입",
+    "category_name": "생활용품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11462": {
+    "product_id": 11462,
+    "product_name": "WHITE SANDS 경량 우산 양산겸용",
+    "category_name": "생활용품",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 34990,
+        "sale_price": 27990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11474": {
+    "product_id": 11474,
+    "product_name": "시루콧토 페이셜 타월 40매 X 5개입",
+    "category_name": "건강,미용",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.06.28",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11473": {
+    "product_id": 11473,
+    "product_name": "여에스더 리포좀베르베린 60CT (30CT X 2 SET)",
+    "category_name": "건강,미용",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 47990,
+        "sale_price": 38390,
+        "discount": 9600
+      }
+    ]
+  },
+  "11471": {
+    "product_id": 11471,
+    "product_name": "LEGO SMALL ASST. 보태니컬 꽃다발 2종 택 1",
+    "category_name": "공구,문구",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.22",
+        "to_date": "2026.07.05",
+        "normal_price": 69900,
+        "sale_price": 55900,
+        "discount": 14000
+      }
+    ]
   }
 }
