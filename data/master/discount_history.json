@@ -65559,7 +65559,7 @@
     "product_name": "TCL QLED TV 50형 127CM",
     "category_name": "디지털,가전",
     "first_seen": "2026-03-30",
-    "last_seen": "2026-06-01",
+    "last_seen": "2026-06-22",
     "occurrences": [
       {
         "version": "2026-03-30",
@@ -65589,6 +65589,14 @@
         "version": "2026-06-01",
         "from_date": "2026.05.25",
         "to_date": "2026.06.07",
+        "normal_price": 399900,
+        "sale_price": 369900,
+        "discount": 30000
+      },
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.07.07",
         "normal_price": 399900,
         "sale_price": 369900,
         "discount": 30000
