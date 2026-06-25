@@ -93183,5 +93183,243 @@
         "discount": 5000
       }
     ]
+  },
+  "11503": {
+    "product_id": 11503,
+    "product_name": "신비복숭아 (1.5KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.24",
+        "to_date": "2026.06.28",
+        "normal_price": 16890,
+        "sale_price": 13890,
+        "discount": 3000
+      }
+    ]
+  },
+  "11502": {
+    "product_id": 11502,
+    "product_name": "초당옥수수 (8입) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.23",
+        "to_date": "2026.06.26",
+        "normal_price": 12490,
+        "sale_price": 11190,
+        "discount": 1300
+      }
+    ]
+  },
+  "11507": {
+    "product_id": 11507,
+    "product_name": "BIBIGO 비비고 깻잎만두 1600G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.24",
+        "to_date": "2026.06.28",
+        "normal_price": 15490,
+        "sale_price": 12990,
+        "discount": 2500
+      }
+    ]
+  },
+  "11504": {
+    "product_id": 11504,
+    "product_name": "MARTINELLI'S 사과주스 296ML X 24",
+    "category_name": "음료,주류",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.06.27",
+        "normal_price": 46990,
+        "sale_price": 39990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11506": {
+    "product_id": 11506,
+    "product_name": "매일두유 고단백 플레인 190ML X 24",
+    "category_name": "음료,주류",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.06.27",
+        "normal_price": 15990,
+        "sale_price": 13490,
+        "discount": 2500
+      }
+    ]
+  },
+  "11505": {
+    "product_id": 11505,
+    "product_name": "BALANCE GROW 룩얼라이브 진저샷 20G X 30",
+    "category_name": "커피,차",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.24",
+        "to_date": "2026.07.05",
+        "normal_price": 14990,
+        "sale_price": 12490,
+        "discount": 2500
+      }
+    ]
+  },
+  "11495": {
+    "product_id": 11495,
+    "product_name": "CUCKOO 쿠쿠 IH 전기 압력밥솥 10인용",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.06.28",
+        "normal_price": 329900,
+        "sale_price": 294900,
+        "discount": 35000
+      }
+    ]
+  },
+  "11494": {
+    "product_id": 11494,
+    "product_name": "FRIGIDAIRE 프리지데어 제빙기 (최대제빙12KG/일)",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.23",
+        "to_date": "2026.07.05",
+        "normal_price": 114900,
+        "sale_price": 97900,
+        "discount": 17000
+      }
+    ]
+  },
+  "11497": {
+    "product_id": 11497,
+    "product_name": "LOCK&LOCK 락앤락 이지캡 반찬용기 16P",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.07.12",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11496": {
+    "product_id": 11496,
+    "product_name": "NEOFLAM 네오플램 서빙스푼 세트 3P",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.07.12",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11493": {
+    "product_id": 11493,
+    "product_name": "TEFAL 테팔 비보 토스터기 2구",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.23",
+        "to_date": "2026.07.05",
+        "normal_price": 29490,
+        "sale_price": 25490,
+        "discount": 4000
+      }
+    ]
+  },
+  "11498": {
+    "product_id": 11498,
+    "product_name": "CODES COMBINE 남성 브리프 3매 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.07.05",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "11500": {
+    "product_id": 11500,
+    "product_name": "FILA KIDS 키즈 바람막이자켓 130,145,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.07.07",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11499": {
+    "product_id": 11499,
+    "product_name": "TAILOR VINTAGE 시어서커반바지 30 - 38 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "occurrences": [
+      {
+        "version": "2026-06-22",
+        "from_date": "2026.06.25",
+        "to_date": "2026.07.15",
+        "normal_price": 20990,
+        "sale_price": 15990,
+        "discount": 5000
+      }
+    ]
   }
 }
