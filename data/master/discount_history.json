@@ -17777,7 +17777,7 @@
     "product_name": "SAMSUNG Q9000 17+6 PY 스탠드+벽걸이",
     "category_name": "디지털,가전",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-03-02",
+    "last_seen": "2026-07-06",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -17794,6 +17794,14 @@
         "normal_price": 1699000,
         "sale_price": 1609000,
         "discount": 90000
+      },
+      {
+        "version": "2026-07-06",
+        "from_date": "2026.07.06",
+        "to_date": "2026.08.02",
+        "normal_price": 1699000,
+        "sale_price": 1559000,
+        "discount": 140000
       }
     ]
   },
@@ -30642,7 +30650,7 @@
     "product_name": "BE KIND 다크초콜릿 너트바 480 / 20G X 24CT",
     "category_name": "과자,간식",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-07-06",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -30731,6 +30739,14 @@
         "normal_price": 20590,
         "sale_price": 16590,
         "discount": 4000
+      },
+      {
+        "version": "2026-07-06",
+        "from_date": "2026.06.29",
+        "to_date": "2026.07.12",
+        "normal_price": 20590,
+        "sale_price": 16390,
+        "discount": 4200
       }
     ]
   },
@@ -31892,7 +31908,7 @@
     "product_name": "ELECTROLUX 무선 청소기 WELL Q7",
     "category_name": "디지털,가전",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-05-11",
+    "last_seen": "2026-07-06",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -31930,6 +31946,14 @@
         "version": "2026-05-11",
         "from_date": "2026.05.04",
         "to_date": "2026.05.17",
+        "normal_price": 249900,
+        "sale_price": 199900,
+        "discount": 50000
+      },
+      {
+        "version": "2026-07-06",
+        "from_date": "2026.06.29",
+        "to_date": "2026.07.12",
         "normal_price": 249900,
         "sale_price": 199900,
         "discount": 50000
@@ -33368,7 +33392,7 @@
     "product_name": "크리넥스 빨아쓰는 행주타월 45매 X 6롤",
     "category_name": "주방,욕실",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-06-08",
+    "last_seen": "2026-07-06",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -33449,6 +33473,14 @@
         "normal_price": 18990,
         "sale_price": 15190,
         "discount": 3800
+      },
+      {
+        "version": "2026-07-06",
+        "from_date": "2026.07.04",
+        "to_date": "2026.07.26",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
       }
     ]
   },
@@ -63299,7 +63331,7 @@
     "product_name": "네이처스트루스 애플사이다비니거구미 120구미",
     "category_name": "건강,미용",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-04-27",
+    "last_seen": "2026-07-06",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -63332,6 +63364,14 @@
         "normal_price": 27990,
         "sale_price": 22390,
         "discount": 5600
+      },
+      {
+        "version": "2026-07-06",
+        "from_date": "2026.06.29",
+        "to_date": "2026.07.12",
+        "normal_price": 26990,
+        "sale_price": 21490,
+        "discount": 5500
       }
     ]
   },
@@ -102734,6 +102774,40 @@
         "normal_price": 199900,
         "sale_price": 159900,
         "discount": 40000
+      }
+    ]
+  },
+  "11582": {
+    "product_id": 11582,
+    "product_name": "풀무원 퀴노아 영양밥 268G X 6",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "occurrences": [
+      {
+        "version": "2026-07-06",
+        "from_date": "2026.07.06",
+        "to_date": "2026.07.12",
+        "normal_price": 15490,
+        "sale_price": 12390,
+        "discount": 3100
+      }
+    ]
+  },
+  "910": {
+    "product_id": 910,
+    "product_name": "미왕 고소한 쌀과자 250G X 5",
+    "category_name": "과자,간식",
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "occurrences": [
+      {
+        "version": "2026-07-06",
+        "from_date": "2026.07.06",
+        "to_date": "2026.07.12",
+        "normal_price": 14490,
+        "sale_price": 11490,
+        "discount": 3000
       }
     ]
   }
