@@ -111909,5 +111909,39 @@
         "discount": 7500
       }
     ]
+  },
+  "11647": {
+    "product_id": 11647,
+    "product_name": "무농약브라운양송이(400G)",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.20",
+        "to_date": "2026.07.26",
+        "normal_price": 8990,
+        "sale_price": 7990,
+        "discount": 1000
+      }
+    ]
+  },
+  "11668": {
+    "product_id": 11668,
+    "product_name": "SKECHERS 무릎 보호대 2개",
+    "category_name": "생활용품",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.20",
+        "to_date": "2026.08.02",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
   }
 }
