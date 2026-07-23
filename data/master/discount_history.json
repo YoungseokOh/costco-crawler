@@ -112218,5 +112218,124 @@
         "discount": 4500
       }
     ]
+  },
+  "11671": {
+    "product_id": 11671,
+    "product_name": "대구농산 국내산 찹쌀 5KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.21",
+        "to_date": "2026.07.26",
+        "normal_price": 18490,
+        "sale_price": 16490,
+        "discount": 2000
+      }
+    ]
+  },
+  "11674": {
+    "product_id": 11674,
+    "product_name": "대파 버터 롤 GREENONION BUTTER ROLL 6CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.22",
+        "to_date": "2026.07.26",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11673": {
+    "product_id": 11673,
+    "product_name": "복숭아 (3KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.22",
+        "to_date": "2026.07.23",
+        "normal_price": 25990,
+        "sale_price": 22490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11672": {
+    "product_id": 11672,
+    "product_name": "스텔라벨라청포도 (1.36 KG)",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.22",
+        "to_date": "2026.08.02",
+        "normal_price": 21990,
+        "sale_price": 18490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11675": {
+    "product_id": 11675,
+    "product_name": "소스락 바싹말린청양고추 50G",
+    "category_name": "가공식품",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.22",
+        "to_date": "2026.08.02",
+        "normal_price": 7990,
+        "sale_price": 6390,
+        "discount": 1600
+      }
+    ]
+  },
+  "11669": {
+    "product_id": 11669,
+    "product_name": "SAMSUNG MINI LED TV 85형 214CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.23",
+        "to_date": "2026.08.02",
+        "normal_price": 2199000,
+        "sale_price": 1949000,
+        "discount": 250000
+      }
+    ]
+  },
+  "11670": {
+    "product_id": 11670,
+    "product_name": "MASTER BUNNEY 얼음 주머니 2개",
+    "category_name": "생활용품",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-07-20",
+    "occurrences": [
+      {
+        "version": "2026-07-20",
+        "from_date": "2026.07.03",
+        "to_date": "2026.08.16",
+        "normal_price": 16990,
+        "sale_price": 12990,
+        "discount": 4000
+      }
+    ]
   }
 }
