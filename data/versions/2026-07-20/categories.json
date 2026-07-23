@@ -52,35 +52,35 @@
     "category_image": "주방,욕실",
     "category_name": "주방,욕실",
     "category_id": 2,
-    "product_cnt": 51,
+    "product_cnt": 53,
     "category_order": 22
   },
   {
     "category_image": "의류,잡화",
     "category_name": "의류,잡화",
     "category_id": 3,
-    "product_cnt": 69,
+    "product_cnt": 70,
     "category_order": 23
   },
   {
     "category_image": "생활용품",
     "category_name": "생활용품",
     "category_id": 4,
-    "product_cnt": 45,
+    "product_cnt": 47,
     "category_order": 24
   },
   {
     "category_image": "건강,미용",
     "category_name": "건강,미용",
     "category_id": 5,
-    "product_cnt": 40,
+    "product_cnt": 42,
     "category_order": 25
   },
   {
     "category_image": "공구,문구",
     "category_name": "공구,문구",
     "category_id": 6,
-    "product_cnt": 5,
+    "product_cnt": 6,
     "category_order": 26
   }
 ]
