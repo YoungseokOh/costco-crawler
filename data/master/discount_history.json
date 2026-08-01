@@ -117915,5 +117915,22 @@
         "discount": 30000
       }
     ]
+  },
+  "11706": {
+    "product_id": 11706,
+    "product_name": "등갈비찜 등갈비:스페인산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "occurrences": [
+      {
+        "version": "2026-07-27",
+        "from_date": "2026.07.30",
+        "to_date": "2026.08.02",
+        "normal_price": 35990,
+        "sale_price": 28790,
+        "discount": 7200
+      }
+    ]
   }
 }
