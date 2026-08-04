@@ -87140,7 +87140,7 @@
     "product_name": "GOODFEEL 좋은느낌 유기농순면 수퍼롱 오버나이트 40개",
     "category_name": "건강,미용",
     "first_seen": "2026-04-13",
-    "last_seen": "2026-06-08",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-04-13",
@@ -87170,6 +87170,14 @@
         "version": "2026-06-08",
         "from_date": "2026.06.01",
         "to_date": "2026.06.14",
+        "normal_price": 16990,
+        "sale_price": 13490,
+        "discount": 3500
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.05",
+        "to_date": "2026.08.16",
         "normal_price": 16990,
         "sale_price": 13490,
         "discount": 3500
