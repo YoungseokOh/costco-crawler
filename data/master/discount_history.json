@@ -121655,5 +121655,158 @@
         "discount": 3000
       }
     ]
+  },
+  "11748": {
+    "product_id": 11748,
+    "product_name": "대구농산 국내산 흰찹쌀보리 5KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.04",
+        "to_date": "2026.08.16",
+        "normal_price": 11990,
+        "sale_price": 9990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11753": {
+    "product_id": 11753,
+    "product_name": "ITALPIZZA 마르게리타피자 440G X 3",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.06",
+        "to_date": "2026.08.11",
+        "normal_price": 16990,
+        "sale_price": 14990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11752": {
+    "product_id": 11752,
+    "product_name": "[앤쿠폰 적용상품] 뉴트럴 레몬 473ML X 8캔",
+    "category_name": "음료,주류",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.04",
+        "to_date": "2026.08.30",
+        "normal_price": 17690,
+        "sale_price": 15990,
+        "discount": 1700
+      }
+    ]
+  },
+  "11751": {
+    "product_id": 11751,
+    "product_name": "STARBUCKS 커피크래프트 블랙 260ML X 3",
+    "category_name": "커피,차",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.04",
+        "to_date": "2026.08.09",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11750": {
+    "product_id": 11750,
+    "product_name": "STARBUCKS 커피크래프트캐러멜향 260ML X 3",
+    "category_name": "커피,차",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.04",
+        "to_date": "2026.08.09",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "11744": {
+    "product_id": 11744,
+    "product_name": "TCL QLED TV 50형 126CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.05",
+        "to_date": "2026.08.16",
+        "normal_price": 529000,
+        "sale_price": 489000,
+        "discount": 40000
+      }
+    ]
+  },
+  "11745": {
+    "product_id": 11745,
+    "product_name": "TCL QLED TV 55형 139CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.05",
+        "to_date": "2026.08.16",
+        "normal_price": 599000,
+        "sale_price": 564000,
+        "discount": 35000
+      }
+    ]
+  },
+  "11747": {
+    "product_id": 11747,
+    "product_name": "PURETEIN 퓨어틴 프로틴 초코쉐이크 330ML X 12팩",
+    "category_name": "건강,미용",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.06",
+        "to_date": "2026.08.09",
+        "normal_price": 33990,
+        "sale_price": 26990,
+        "discount": 7000
+      }
+    ]
+  },
+  "11746": {
+    "product_id": 11746,
+    "product_name": "PURETEIN 퓨어틴 프로틴 커피쉐이크 330ML X 12팩",
+    "category_name": "건강,미용",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.06",
+        "to_date": "2026.08.09",
+        "normal_price": 33990,
+        "sale_price": 26990,
+        "discount": 7000
+      }
+    ]
   }
 }
