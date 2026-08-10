@@ -21430,7 +21430,7 @@
     "product_name": "ZIPLOC 지퍼락 버라이어티 냉장백 소형 200, 미니 100",
     "category_name": "주방,욕실",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -21516,6 +21516,14 @@
         "version": "2026-07-20",
         "from_date": "2026.07.13",
         "to_date": "2026.07.26",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
         "normal_price": 12990,
         "sale_price": 10990,
         "discount": 2000
@@ -27226,7 +27234,7 @@
     "product_name": "HUGGIES 하기스 네이쳐메이드 팬티형 6단계54개(공용)",
     "category_name": "건강,미용",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-04-27",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -27288,6 +27296,14 @@
         "version": "2026-04-27",
         "from_date": "2026.04.14",
         "to_date": "2026.04.29",
+        "normal_price": 47990,
+        "sale_price": 37990,
+        "discount": 10000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.08",
+        "to_date": "2026.08.13",
         "normal_price": 47990,
         "sale_price": 37990,
         "discount": 10000
@@ -33567,7 +33583,7 @@
     "product_name": "BELL'S 스카치 위스키 1L",
     "category_name": "음료,주류",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-05-11",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -33616,6 +33632,14 @@
         "normal_price": 20990,
         "sale_price": 17790,
         "discount": 3200
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.09.06",
+        "normal_price": 20990,
+        "sale_price": 13590,
+        "discount": 7400
       }
     ]
   },
@@ -36914,7 +36938,7 @@
     "product_name": "BREF 변기세정볼(레몬) 50G X 4입 3팩",
     "category_name": "주방,욕실",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -36992,6 +37016,14 @@
         "version": "2026-07-20",
         "from_date": "2026.07.13",
         "to_date": "2026.07.26",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
         "normal_price": 19990,
         "sale_price": 15990,
         "discount": 4000
@@ -85046,7 +85078,7 @@
     "product_name": "뉴트리나 비스트로 애묘사료 300G X 20BAG",
     "category_name": "생활용품",
     "first_seen": "2026-04-13",
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-04-13",
@@ -85079,6 +85111,14 @@
         "normal_price": 19790,
         "sale_price": 15790,
         "discount": 4000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 19790,
+        "sale_price": 16790,
+        "discount": 3000
       }
     ]
   },
@@ -118984,12 +119024,20 @@
     "product_name": "화과방 우유앙빵 35G X 15",
     "category_name": "신선식품,빵",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-07-20",
         "from_date": "2026.07.20",
         "to_date": "2026.07.26",
+        "normal_price": 12990,
+        "sale_price": 11490,
+        "discount": 1500
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.16",
         "normal_price": 12990,
         "sale_price": 11490,
         "discount": 1500
@@ -122800,6 +122848,431 @@
         "normal_price": 699900,
         "sale_price": 559900,
         "discount": 140000
+      }
+    ]
+  },
+  "11776": {
+    "product_id": 11776,
+    "product_name": "망고 푸딩 MANGO PUDDING",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 15990,
+        "sale_price": 12490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11775": {
+    "product_id": 11775,
+    "product_name": "일품채 솥밥용버섯채소모둠 200G",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.16",
+        "normal_price": 14990,
+        "sale_price": 12990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11780": {
+    "product_id": 11780,
+    "product_name": "BRIDEL 무가염버터 500GX2원산지프랑스",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 22990,
+        "sale_price": 18390,
+        "discount": 4600
+      }
+    ]
+  },
+  "11784": {
+    "product_id": 11784,
+    "product_name": "비비드 저당오리엔탈드레싱 1,030G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.16",
+        "normal_price": 8990,
+        "sale_price": 6990,
+        "discount": 2000
+      }
+    ]
+  },
+  "11781": {
+    "product_id": 11781,
+    "product_name": "신천해주냉면 매운비빔냉면 3,120G (6인분)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.17",
+        "normal_price": 22990,
+        "sale_price": 19490,
+        "discount": 3500
+      }
+    ]
+  },
+  "11777": {
+    "product_id": 11777,
+    "product_name": "BONDUELLE 봉듀엘 완두콩 400G X 3",
+    "category_name": "가공식품",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.08",
+        "to_date": "2026.08.23",
+        "normal_price": 9990,
+        "sale_price": 7490,
+        "discount": 2500
+      }
+    ]
+  },
+  "11778": {
+    "product_id": 11778,
+    "product_name": "POST 통보리 그래놀라 500G X 3",
+    "category_name": "과자,간식",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.16",
+        "normal_price": 18990,
+        "sale_price": 15190,
+        "discount": 3800
+      }
+    ]
+  },
+  "11779": {
+    "product_id": 11779,
+    "product_name": "SWEET SPACE 멀티 믹스 젤리 783G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.16",
+        "normal_price": 19790,
+        "sale_price": 15790,
+        "discount": 4000
+      }
+    ]
+  },
+  "11760": {
+    "product_id": 11760,
+    "product_name": "CARRIER 모드비 냉장고 525L",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 659000,
+        "sale_price": 599000,
+        "discount": 60000
+      }
+    ]
+  },
+  "11783": {
+    "product_id": 11783,
+    "product_name": "노비타NOVITA 비데BD-WCC4-03SB 배송&설치비 포함",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 259900,
+        "sale_price": 199900,
+        "discount": 60000
+      }
+    ]
+  },
+  "11761": {
+    "product_id": 11761,
+    "product_name": "캐리어 냉동고 299L",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 309900,
+        "sale_price": 279900,
+        "discount": 30000
+      }
+    ]
+  },
+  "11762": {
+    "product_id": 11762,
+    "product_name": "LOCK&LOCK 락앤락 숨쉬는 유리용기 2.2L + 3.0L",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 15990,
+        "sale_price": 11490,
+        "discount": 4500
+      }
+    ]
+  },
+  "11770": {
+    "product_id": 11770,
+    "product_name": "BALLOP 성인 러닝화 230 - 285MM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.07",
+        "to_date": "2026.08.23",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11769": {
+    "product_id": 11769,
+    "product_name": "DIADORA 여성 스니커즈 230 - 250MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.07",
+        "to_date": "2026.08.23",
+        "normal_price": 39990,
+        "sale_price": 29990,
+        "discount": 10000
+      }
+    ]
+  },
+  "11773": {
+    "product_id": 11773,
+    "product_name": "KENNETH COLE 여성 배럴 청바지 67-79 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.07",
+        "to_date": "2026.08.23",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11771": {
+    "product_id": 11771,
+    "product_name": "NEW BALANCE 여성 후드 자켓 S,M,L,XL US SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.07",
+        "to_date": "2026.08.23",
+        "normal_price": 51900,
+        "sale_price": 41900,
+        "discount": 10000
+      }
+    ]
+  },
+  "11768": {
+    "product_id": 11768,
+    "product_name": "ONKAPARINGA 냉감 양면베개2P 48X73CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 32990,
+        "sale_price": 24990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11774": {
+    "product_id": 11774,
+    "product_name": "OUTDOOR PRODUCTS 남성반소매티셔츠 S,M ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.30",
+        "normal_price": 15970,
+        "sale_price": 11970,
+        "discount": 4000
+      }
+    ]
+  },
+  "11772": {
+    "product_id": 11772,
+    "product_name": "WEATHERPROOF VINTAGE 여성 러플 가디건 S,M,L US SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.08",
+        "to_date": "2026.08.23",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11764": {
+    "product_id": 11764,
+    "product_name": "KOVEA 벨로 우드 롤 캠핑 테이블",
+    "category_name": "생활용품",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 69900,
+        "sale_price": 54900,
+        "discount": 15000
+      }
+    ]
+  },
+  "11763": {
+    "product_id": 11763,
+    "product_name": "불스원 초극세사2 IN 1 먼지털이개",
+    "category_name": "생활용품",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      }
+    ]
+  },
+  "11765": {
+    "product_id": 11765,
+    "product_name": "조공 한방보양식 삼계탕 45G X 24",
+    "category_name": "생활용품",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.16",
+        "normal_price": 25490,
+        "sale_price": 21990,
+        "discount": 3500
+      }
+    ]
+  },
+  "11767": {
+    "product_id": 11767,
+    "product_name": "BELIF 빌리프 아쿠아 밤 아이 젤 듀오 15ML X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "11766": {
+    "product_id": 11766,
+    "product_name": "BELIF 빌리프 아쿠아 밤 프로존 크림 50MLX2+10MLX2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.10",
+        "to_date": "2026.08.23",
+        "normal_price": 28990,
+        "sale_price": 22990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11782": {
+    "product_id": 11782,
+    "product_name": "드시모네 패밀리 캡슐 500MG X 150캡슐",
+    "category_name": "건강,미용",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.03",
+        "to_date": "2026.08.16",
+        "normal_price": 59900,
+        "sale_price": 47900,
+        "discount": 12000
       }
     ]
   }
