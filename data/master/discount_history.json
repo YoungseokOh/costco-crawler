@@ -9831,7 +9831,7 @@
     "product_name": "본죽 쇠고기 장조림 170G X 4",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -9869,6 +9869,14 @@
         "version": "2026-06-29",
         "from_date": "2026.06.22",
         "to_date": "2026.07.05",
+        "normal_price": 17490,
+        "sale_price": 14690,
+        "discount": 2800
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.11",
+        "to_date": "2026.08.16",
         "normal_price": 17490,
         "sale_price": 14690,
         "discount": 2800
@@ -11039,7 +11047,7 @@
     "product_name": "삼양 1963 라면 131G X 16",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -11104,6 +11112,14 @@
         "normal_price": 18790,
         "sale_price": 16790,
         "discount": 2000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.08.17",
+        "normal_price": 18790,
+        "sale_price": 16290,
+        "discount": 2500
       }
     ]
   },
@@ -22356,7 +22372,7 @@
     "product_name": "스카치브라이트 옥수수그물망사수세미 10개",
     "category_name": "주방,욕실",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-07-27",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -22477,6 +22493,14 @@
         "normal_price": 13790,
         "sale_price": 11190,
         "discount": 2600
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.11",
+        "to_date": "2026.08.23",
+        "normal_price": 13790,
+        "sale_price": 10990,
+        "discount": 2800
       }
     ]
   },
@@ -27871,7 +27895,7 @@
     "product_name": "SILK THERAPY 헤어 밀크 120ML X 2개",
     "category_name": "건강,미용",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-06-01",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -27888,6 +27912,14 @@
         "normal_price": 22990,
         "sale_price": 18490,
         "discount": 4500
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.11",
+        "to_date": "2026.08.23",
+        "normal_price": 22990,
+        "sale_price": 17990,
+        "discount": 5000
       }
     ]
   },
@@ -29921,7 +29953,7 @@
     "product_name": "칵테일 토마토(2KG) 원산지 : 국내산",
     "category_name": "신선식품,빵",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -29953,6 +29985,14 @@
         "to_date": "2026.07.01",
         "normal_price": 10990,
         "sale_price": 8990,
+        "discount": 2000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.12",
+        "to_date": "2026.08.13",
+        "normal_price": 9990,
+        "sale_price": 7990,
         "discount": 2000
       }
     ]
@@ -46698,7 +46738,7 @@
     "product_name": "농심 너구리 120G X 20",
     "category_name": "가공식품",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-07-27",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -46819,6 +46859,14 @@
         "normal_price": 17590,
         "sale_price": 15290,
         "discount": 2300
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.08.17",
+        "normal_price": 17590,
+        "sale_price": 14690,
+        "discount": 2900
       }
     ]
   },
@@ -52241,7 +52289,7 @@
     "product_name": "HASBRO 해즈브로 플레이도 점보 컬러 컬렉션 65캔",
     "category_name": "공구,문구",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-03-09",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -52257,6 +52305,14 @@
         "to_date": "2026.03.15",
         "normal_price": 23990,
         "sale_price": 18990,
+        "discount": 5000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.08.23",
+        "normal_price": 24990,
+        "sale_price": 19990,
         "discount": 5000
       }
     ]
@@ -52576,7 +52632,7 @@
     "product_name": "백제 가마타마 우동 216G X 6",
     "category_name": "가공식품",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-07-13",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-09",
@@ -52606,6 +52662,14 @@
         "version": "2026-07-13",
         "from_date": "2026.07.13",
         "to_date": "2026.07.19",
+        "normal_price": 14790,
+        "sale_price": 11790,
+        "discount": 3000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.12",
+        "to_date": "2026.08.23",
         "normal_price": 14790,
         "sale_price": 11790,
         "discount": 3000
@@ -71661,7 +71725,7 @@
     "product_name": "뉴트리원BB LAB 더콜라겐1500 2G X 90포",
     "category_name": "건강,미용",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-07-13",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -71731,6 +71795,14 @@
         "version": "2026-07-13",
         "from_date": "2026.07.06",
         "to_date": "2026.07.19",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.12",
+        "to_date": "2026.08.30",
         "normal_price": 29990,
         "sale_price": 23990,
         "discount": 6000
@@ -75192,7 +75264,7 @@
     "product_name": "NEXGRILL 넥스그릴 57 차콜 그릴 57 X 68 X 100CM",
     "category_name": "생활용품",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-07-13",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -75270,6 +75342,14 @@
         "version": "2026-07-13",
         "from_date": "2026.07.06",
         "to_date": "2026.07.19",
+        "normal_price": 149900,
+        "sale_price": 119900,
+        "discount": 30000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.09.06",
         "normal_price": 149900,
         "sale_price": 119900,
         "discount": 30000
@@ -75863,7 +75943,7 @@
     "product_name": "천일 낙지 볶음밥 300G X 7팩",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-30",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-03-30",
@@ -75941,6 +76021,14 @@
         "version": "2026-07-20",
         "from_date": "2026.07.20",
         "to_date": "2026.07.26",
+        "normal_price": 13290,
+        "sale_price": 10890,
+        "discount": 2400
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.11",
+        "to_date": "2026.08.17",
         "normal_price": 13290,
         "sale_price": 10890,
         "discount": 2400
@@ -92045,7 +92133,7 @@
     "product_name": "연어 (양식) 원산지 : 노르웨이 KG당단가",
     "category_name": "신선식품,빵",
     "first_seen": "2026-04-27",
-    "last_seen": "2026-07-06",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-04-27",
@@ -92083,6 +92171,14 @@
         "version": "2026-07-06",
         "from_date": "2026.07.02",
         "to_date": "2026.07.12",
+        "normal_price": 45990,
+        "sale_price": 39990,
+        "discount": 6000
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.08.19",
         "normal_price": 45990,
         "sale_price": 39990,
         "discount": 6000
@@ -114724,7 +114820,7 @@
     "product_name": "OUTDOOR PRODUCTS 키즈 반소매티셔츠 120 - 165 ASIAN SIZE",
     "category_name": "의류,잡화",
     "first_seen": "2026-06-29",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-06-29",
@@ -114756,6 +114852,14 @@
         "to_date": "2026.07.26",
         "normal_price": 15990,
         "sale_price": 12490,
+        "discount": 3500
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.11",
+        "to_date": "2026.08.30",
+        "normal_price": 11470,
+        "sale_price": 7970,
         "discount": 3500
       }
     ]
@@ -115086,7 +115190,7 @@
     "product_name": "에프킬라 라이트 트랩 히터2 + 리필8입",
     "category_name": "생활용품",
     "first_seen": "2026-06-29",
-    "last_seen": "2026-07-06",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-06-29",
@@ -115100,6 +115204,14 @@
         "version": "2026-07-06",
         "from_date": "2026.06.29",
         "to_date": "2026.07.12",
+        "normal_price": 23490,
+        "sale_price": 18790,
+        "discount": 4700
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.08.30",
         "normal_price": 23490,
         "sale_price": 18790,
         "discount": 4700
@@ -115499,7 +115611,7 @@
     "product_name": "풀무원 평양 물냉면 205G X 8",
     "category_name": "가공식품",
     "first_seen": "2026-06-29",
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-06-29",
@@ -115516,6 +115628,14 @@
         "normal_price": 12490,
         "sale_price": 9990,
         "discount": 2500
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.12",
+        "to_date": "2026.08.23",
+        "normal_price": 12490,
+        "sale_price": 9690,
+        "discount": 2800
       }
     ]
   },
@@ -117145,7 +117265,7 @@
     "product_name": "참프레 한우사골 삼계탕 900G X 2",
     "category_name": "가공식품",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
+    "last_seen": "2026-08-03",
     "occurrences": [
       {
         "version": "2026-07-06",
@@ -117154,6 +117274,14 @@
         "normal_price": 14790,
         "sale_price": 12490,
         "discount": 2300
+      },
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.12",
+        "to_date": "2026.08.17",
+        "normal_price": 14790,
+        "sale_price": 12290,
+        "discount": 2500
       }
     ]
   },
