@@ -123403,5 +123403,39 @@
         "discount": 12000
       }
     ]
+  },
+  "11786": {
+    "product_id": 11786,
+    "product_name": "COUNTESS MARA 남성 반소매 폴로 S-XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.09.06",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "11785": {
+    "product_id": 11785,
+    "product_name": "에프킬라 바퀴살충제에어로졸 500ML X 3개",
+    "category_name": "생활용품",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "occurrences": [
+      {
+        "version": "2026-08-03",
+        "from_date": "2026.08.13",
+        "to_date": "2026.08.30",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      }
+    ]
   }
 }
