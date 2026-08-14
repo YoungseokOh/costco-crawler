@@ -21,6 +21,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
 from crawler import DATA_DIR
+from crawler.core.version_manager import VersionManager
 
 
 class ImageDownloaderSelenium:
@@ -244,6 +245,7 @@ class ImageDownloaderSelenium:
     def _update_manifest(self, version: str) -> None:
         """매니페스트 업데이트"""
         manifest_file = self.versions_dir / version / "manifest.json"
+        products_file = self.versions_dir / version / "products.json"
         if not manifest_file.exists():
             return
         
@@ -253,6 +255,13 @@ class ImageDownloaderSelenium:
         manifest['stats']['images_count'] = self.progress['total']
         manifest['stats']['images_downloaded'] = self.progress['completed']
         manifest['stats']['images_failed'] = self.progress['failed']
+
+        if products_file.exists():
+            with open(products_file, 'r', encoding='utf-8') as f:
+                products = json.load(f)
+            data_revision = VersionManager.get_data_revision(products)
+            manifest['data_revision'] = data_revision
+            manifest.setdefault('checksum', {})['products'] = data_revision
         
         with open(manifest_file, 'w', encoding='utf-8') as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)

@@ -13,6 +13,7 @@ from typing import Dict, List, Optional
 from datetime import datetime
 
 from crawler import DATA_DIR
+from crawler.core.version_manager import VersionManager
 
 
 class ImageDownloader:
@@ -180,6 +181,7 @@ class ImageDownloader:
     
     def _update_manifest(self, version: str) -> None:
         manifest_file = self.versions_dir / version / "manifest.json"
+        products_file = self.versions_dir / version / "products.json"
         if not manifest_file.exists():
             return
         
@@ -189,6 +191,13 @@ class ImageDownloader:
         manifest['stats']['images_count'] = self.progress['total']
         manifest['stats']['images_downloaded'] = self.progress['completed']
         manifest['stats']['images_failed'] = self.progress['failed']
+
+        if products_file.exists():
+            with open(products_file, 'r', encoding='utf-8') as f:
+                products = json.load(f)
+            data_revision = VersionManager.get_data_revision(products)
+            manifest['data_revision'] = data_revision
+            manifest.setdefault('checksum', {})['products'] = data_revision
         
         with open(manifest_file, 'w', encoding='utf-8') as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)

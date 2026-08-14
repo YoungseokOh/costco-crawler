@@ -38,6 +38,26 @@ class VersionManager:
         most_common = Counter(from_dates).most_common(1)[0][0]
         # 2026.01.05 -> 2026-01-05
         return most_common.replace('.', '-')
+
+    @staticmethod
+    def get_data_revision(products: List[Dict]) -> str:
+        """상품 내용으로부터 결정적인 데이터 revision을 생성한다.
+
+        할인 주차를 나타내는 ``version``은 같은 값으로 유지될 수 있으므로,
+        클라이언트 캐시 무효화에는 상품 내용 전체의 해시를 별도로 사용한다.
+        상품 순서만 달라진 경우에는 같은 revision을 유지한다.
+        """
+        normalized_products = sorted(
+            products,
+            key=lambda product: str(product.get('product_id', '')),
+        )
+        payload = json.dumps(
+            normalized_products,
+            sort_keys=True,
+            ensure_ascii=False,
+            separators=(',', ':'),
+        )
+        return f"sha256:{hashlib.sha256(payload.encode()).hexdigest()}"
     
     def get_discount_period(self, products: List[Dict]) -> Dict[str, str]:
         """할인 기간 추출"""
@@ -124,11 +144,11 @@ class VersionManager:
         versions = self.list_versions()
         prev_version = versions[-1] if versions and versions[-1] != version else None
         
-        products_json = json.dumps(products, sort_keys=True, ensure_ascii=False)
-        products_hash = hashlib.sha256(products_json.encode()).hexdigest()
+        data_revision = self.get_data_revision(products)
         
         return {
             "version": version,
+            "data_revision": data_revision,
             "created_at": datetime.now().isoformat(),
             "discount_period": discount_period,
             "stats": {
@@ -147,7 +167,7 @@ class VersionManager:
                 "images_dir": "images/products/"
             },
             "checksum": {
-                "products": f"sha256:{products_hash[:16]}..."
+                "products": data_revision
             },
             "previous_version": prev_version,
             "next_crawl_suggested": next_crawl

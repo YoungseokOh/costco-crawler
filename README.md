@@ -8,6 +8,7 @@ This repository:
 - Crawls the latest product and discount data
 - Stores versioned snapshots under `data/versions/`
 - Maintains `data/current` as a symlink to the latest version
+- Publishes a content-derived `data_revision` for reliable client cache invalidation
 - Runs on GitHub Actions
 - Dispatches private deployment after crawl completion
 
