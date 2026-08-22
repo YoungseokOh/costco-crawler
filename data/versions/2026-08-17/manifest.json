@@ -1,19 +1,19 @@
 {
   "version": "2026-08-17",
-  "data_revision": "sha256:28cee666b3c81a1f7693a19d3b65b3eab13f576be7e9ea0c64747909aaa5e09d",
-  "created_at": "2026-08-21T16:25:39.576834",
+  "data_revision": "sha256:e60d7824ed784b002aa87382b5f33bf078fa5619bd5d381589ace183fd5a9de2",
+  "created_at": "2026-08-22T16:24:43.336701",
   "discount_period": {
     "from": "2025.06.01",
     "to": "2029.05.17"
   },
   "stats": {
-    "products_count": 375,
-    "images_count": 375,
-    "images_downloaded": 375,
+    "products_count": 373,
+    "images_count": 373,
+    "images_downloaded": 373,
     "images_failed": 0,
     "new_products": 0,
     "returning_products": 0,
-    "continuing_products": 375,
+    "continuing_products": 373,
     "categories_count": 12
   },
   "files": {
@@ -22,7 +22,7 @@
     "images_dir": "images/products/"
   },
   "checksum": {
-    "products": "sha256:28cee666b3c81a1f7693a19d3b65b3eab13f576be7e9ea0c64747909aaa5e09d"
+    "products": "sha256:e60d7824ed784b002aa87382b5f33bf078fa5619bd5d381589ace183fd5a9de2"
   },
   "previous_version": null,
   "next_crawl_suggested": "2026-08-24"
