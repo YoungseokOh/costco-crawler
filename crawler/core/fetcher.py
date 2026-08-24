@@ -6,22 +6,34 @@ API Fetcher
 import hashlib
 import json
 import time
+from collections import Counter
+from dataclasses import dataclass
 from datetime import date, datetime, timedelta
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
 import requests
 
-from crawler import MASTER_DIR, RAW_DIR
+from crawler import DATA_DIR, MASTER_DIR, RAW_DIR
+from crawler.core.catalog_safety import assess_catalog_safety
 from crawler.core.config import config
+
+
+@dataclass(frozen=True)
+class CatalogSnapshot:
+    catalog_hash: str
+    product_count: int
+    min_from_date: Optional[str]
+    category_counts: Dict[str, int]
+    reported_category_counts: Dict[str, int]
 
 
 class Fetcher:
     """API 데이터 Fetcher"""
-    
+
     def __init__(self):
         self.session = requests.Session()
         self.session.headers.update(config.request.get('headers', {}))
-        
+
         self.base_url = config.get('api.base_url')
         self.endpoints = config.get('api.endpoints', {})
         self.delay = config.get('request.delay', 0.5)
@@ -38,9 +50,34 @@ class Fetcher:
             )
         except (TypeError, ValueError):
             self._last_catalog_count = None
+        self._last_category_counts = self._load_last_category_counts()
         self._last_min_from_date: Optional[str] = self._crawl_log.get('last_min_from_date')
         self._last_check_result: Dict[str, Any] = {}
-    
+
+    def _load_last_category_counts(self) -> Dict[str, int]:
+        raw_counts = self._crawl_log.get('last_category_counts')
+        if isinstance(raw_counts, dict):
+            try:
+                return {str(key): int(value) for key, value in raw_counts.items()}
+            except (TypeError, ValueError):
+                pass
+
+        # Older crawl logs do not contain per-category counts. Derive the
+        # baseline from the last published products so the first guarded run is
+        # protected as well.
+        products_file = DATA_DIR / 'current' / 'products.json'
+        try:
+            with open(products_file, 'r', encoding='utf-8') as f:
+                products = json.load(f)
+            counts = Counter(
+                str(product['category_id'])
+                for product in products
+                if product.get('category_id') is not None
+            )
+            return dict(counts)
+        except (OSError, TypeError, ValueError, json.JSONDecodeError):
+            return {}
+
     def _load_crawl_log(self) -> Dict:
         """크롤링 로그 로드"""
         log_name = config.get('storage.crawl_log_file', 'crawl_log.json')
@@ -61,7 +98,7 @@ class Fetcher:
             except Exception:
                 continue
         return {}
-    
+
     def _save_crawl_log(
         self,
         notice_hash: Optional[str],
@@ -111,19 +148,20 @@ class Fetcher:
             return 'none'
         return value[:8]
 
-    def _build_catalog_fingerprint(self) -> Tuple[Optional[str], Optional[int], Optional[str]]:
+    def _build_catalog_fingerprint(self) -> Optional[CatalogSnapshot]:
         """상품 스냅샷 해시 계산용 카탈로그 지문 생성.
 
         Returns:
-            (catalog_hash, product_count, min_from_date)
-            min_from_date: 'YYYY-MM-DD' 형식, 상품이 없거나 파싱 실패 시 None
+            CatalogSnapshot 또는 API 조회 실패 시 None
         """
         categories = self._request('categories')
         if categories is None:
-            print("[WARN] Catalog snapshot skipped: categories endpoint unavailable")
-            return None, None, None
+            print('[WARN] Catalog snapshot skipped: categories endpoint unavailable')
+            return None
 
         all_products: List[Dict] = []
+        category_counts: Dict[str, int] = {}
+        reported_category_counts: Dict[str, int] = {}
         for cat in categories:
             category_id = cat.get('category_id')
             if category_id is None:
@@ -131,10 +169,16 @@ class Fetcher:
             products = self._request('products_by_category', category_id=category_id)
             if products is None:
                 print(
-                    "[WARN] Catalog snapshot skipped: "
-                    f"products endpoint unavailable for category {category_id}"
+                    '[WARN] Catalog snapshot skipped: '
+                    f'products endpoint unavailable for category {category_id}'
                 )
-                return None, None, None
+                return None
+            category_key = str(category_id)
+            category_counts[category_key] = len(products)
+            try:
+                reported_category_counts[category_key] = int(cat.get('product_cnt', 0))
+            except (TypeError, ValueError):
+                reported_category_counts[category_key] = 0
             all_products.extend(products)
 
         unique_products: Dict[Any, Dict] = {}
@@ -148,14 +192,16 @@ class Fetcher:
         normalized: List[Dict[str, Any]] = []
         for product_id in sorted(unique_products):
             product = unique_products[product_id]
-            normalized.append({
-                'product_id': product_id,
-                'sale_price': product.get('sale_price'),
-                'normal_price': product.get('normal_price'),
-                'discount': product.get('discount'),
-                'from_date': product.get('from_date'),
-                'to_date': product.get('to_date'),
-            })
+            normalized.append(
+                {
+                    'product_id': product_id,
+                    'sale_price': product.get('sale_price'),
+                    'normal_price': product.get('normal_price'),
+                    'discount': product.get('discount'),
+                    'from_date': product.get('from_date'),
+                    'to_date': product.get('to_date'),
+                }
+            )
 
         payload = json.dumps(
             normalized,
@@ -175,13 +221,19 @@ class Fetcher:
             except (ValueError, TypeError):
                 pass
 
-        return catalog_hash, len(normalized), min_from_date
-    
+        return CatalogSnapshot(
+            catalog_hash=catalog_hash,
+            product_count=len(normalized),
+            min_from_date=min_from_date,
+            category_counts=category_counts,
+            reported_category_counts=reported_category_counts,
+        )
+
     def _request(self, endpoint_key: str, **kwargs) -> Optional[Any]:
         """API 요청"""
         endpoint = self.endpoints.get(endpoint_key, '')
         url = self.base_url + endpoint.format(**kwargs)
-        
+
         for attempt in range(self.max_retries):
             try:
                 response = self.session.get(url, timeout=self.timeout)
@@ -189,14 +241,14 @@ class Fetcher:
                 time.sleep(self.delay)
                 return response.json()
             except requests.RequestException:
-                print(f"[ERROR] Request failed ({attempt+1}/{self.max_retries}): {url}")
+                print(f'[ERROR] Request failed ({attempt + 1}/{self.max_retries}): {url}')
                 if attempt < self.max_retries - 1:
-                    time.sleep(2 ** attempt)
+                    time.sleep(2**attempt)
         return None
-    
+
     def check_update(self) -> tuple[bool, Optional[str]]:
         """업데이트 확인"""
-        print("[INFO] Checking for updates...")
+        print('[INFO] Checking for updates...')
         notices = self._request('notice')
 
         if notices is None:
@@ -208,23 +260,29 @@ class Fetcher:
                 'notice_hash': None,
                 'catalog_hash': None,
                 'catalog_count': None,
+                'safety_blocked': False,
+                'safety_reasons': [],
             }
-            print("[WARN] Notice endpoint unavailable. Treating as no update.")
+            print('[WARN] Notice endpoint unavailable. Treating as no update.')
             print(
-                "CHECK_RESULT "
-                "reason=notice_unavailable "
-                "should_crawl=false "
-                "notice_changed=false "
-                "catalog_changed=false "
-                "notice_hash=none "
-                "catalog_hash=none "
-                "catalog_count=unknown"
+                'CHECK_RESULT '
+                'reason=notice_unavailable '
+                'should_crawl=false '
+                'notice_changed=false '
+                'catalog_changed=false '
+                'safety_blocked=false '
+                'notice_hash=none '
+                'catalog_hash=none '
+                'catalog_count=unknown'
             )
             return False, None
 
         notice_str = json.dumps(notices, sort_keys=True, ensure_ascii=False, separators=(',', ':'))
         notice_hash = hashlib.md5(notice_str.encode()).hexdigest()
-        catalog_hash, catalog_count, min_from_date = self._build_catalog_fingerprint()
+        snapshot = self._build_catalog_fingerprint()
+        catalog_hash = snapshot.catalog_hash if snapshot else None
+        catalog_count = snapshot.product_count if snapshot else None
+        min_from_date = snapshot.min_from_date if snapshot else None
 
         notice_changed = self._last_notice_hash != notice_hash
         if catalog_hash is None:
@@ -235,7 +293,7 @@ class Fetcher:
         else:
             catalog_changed = self._last_catalog_hash != catalog_hash
 
-        # 세일 기간 교체 감지: 마지막 세일 시작일로부터 7일이 지났고, 그 이후 크롤을 아직 안 했으면 강제 실행
+        # 세일 기간 교체 감지: 시작일로부터 7일 뒤에도 크롤하지 않았으면 강제 실행
         sale_rotation_due = False
         if self._last_min_from_date and not notice_changed and not catalog_changed:
             try:
@@ -243,17 +301,20 @@ class Fetcher:
                 expected_next = last_from + timedelta(days=7)
                 today = date.today()
                 last_crawl_str = self._crawl_log.get('last_crawl_at', '')
-                last_crawl_date = date.fromisoformat(last_crawl_str[:10]) if last_crawl_str else None
-                if today >= expected_next and (last_crawl_date is None or last_crawl_date < expected_next):
+                last_crawl_date = (
+                    date.fromisoformat(last_crawl_str[:10]) if last_crawl_str else None
+                )
+                rotation_not_crawled = last_crawl_date is None or last_crawl_date < expected_next
+                if today >= expected_next and rotation_not_crawled:
                     sale_rotation_due = True
                     print(
-                        f"[INFO] Sale rotation due: last_from={self._last_min_from_date}, "
-                        f"expected_next={expected_next.isoformat()}, today={today.isoformat()}"
+                        f'[INFO] Sale rotation due: last_from={self._last_min_from_date}, '
+                        f'expected_next={expected_next.isoformat()}, today={today.isoformat()}'
                     )
             except (ValueError, TypeError):
                 pass
 
-        should_crawl = notice_changed or catalog_changed or sale_rotation_due
+        update_detected = notice_changed or catalog_changed or sale_rotation_due
         catalog_count_change_ratio: Optional[float] = None
         if (
             catalog_count is not None
@@ -265,12 +326,36 @@ class Fetcher:
             )
             if catalog_count_change_ratio >= 0.2:
                 print(
-                    "[WARN] Catalog size changed significantly: "
-                    f"previous={self._last_catalog_count}, current={catalog_count}, "
-                    f"delta={catalog_count_change_ratio * 100:.1f}%"
+                    '[WARN] Catalog size changed significantly: '
+                    f'previous={self._last_catalog_count}, current={catalog_count}, '
+                    f'delta={catalog_count_change_ratio * 100:.1f}%'
                 )
 
-        if should_crawl:
+        safety_assessment = None
+        if snapshot is not None:
+            safety_assessment = assess_catalog_safety(
+                previous_total=self._last_catalog_count,
+                current_total=snapshot.product_count,
+                previous_category_counts=self._last_category_counts,
+                current_category_counts=snapshot.category_counts,
+                reported_category_counts=snapshot.reported_category_counts,
+                max_total_drop_ratio=float(config.get('catalog_safety.max_total_drop_ratio', 0.20)),
+                max_category_drop_ratio=float(
+                    config.get('catalog_safety.max_category_drop_ratio', 0.50)
+                ),
+                min_category_baseline=int(config.get('catalog_safety.min_category_baseline', 10)),
+                max_source_count_drift=int(config.get('catalog_safety.max_source_count_drift', 2)),
+            )
+
+        safety_blocked = bool(safety_assessment and safety_assessment.blocked)
+        should_crawl = update_detected and not safety_blocked
+
+        if safety_blocked:
+            reason = 'catalog_safety_blocked'
+            print('[ERROR] Catalog safety gate blocked automatic publishing:')
+            for blocked_reason in safety_assessment.reasons:
+                print(f'        - {blocked_reason}')
+        elif should_crawl:
             if sale_rotation_due and not notice_changed and not catalog_changed:
                 reason = 'sale_rotation_due'
             elif notice_changed and catalog_changed:
@@ -295,63 +380,75 @@ class Fetcher:
             'catalog_count': catalog_count,
             'min_from_date': min_from_date,
             'catalog_count_change_ratio': catalog_count_change_ratio,
+            'category_counts': snapshot.category_counts if snapshot else {},
+            'reported_category_counts': (snapshot.reported_category_counts if snapshot else {}),
+            'safety_blocked': safety_blocked,
+            'safety_reasons': list(safety_assessment.reasons) if safety_assessment else [],
+            'total_drop_ratio': (safety_assessment.total_drop_ratio if safety_assessment else None),
+            'category_drop_ratios': (
+                safety_assessment.category_drop_ratios if safety_assessment else {}
+            ),
+            'source_count_drifts': (
+                safety_assessment.source_count_drifts if safety_assessment else {}
+            ),
         }
 
         print(
-            f"[INFO] Notice hash: {self._short_hash(notice_hash)} "
-            f"({'changed' if notice_changed else 'unchanged'})"
+            f'[INFO] Notice hash: {self._short_hash(notice_hash)} '
+            f'({"changed" if notice_changed else "unchanged"})'
         )
         if catalog_hash is None:
-            print("[INFO] Catalog hash: unavailable (fallback to notice-only)")
+            print('[INFO] Catalog hash: unavailable (fallback to notice-only)')
         else:
             print(
-                f"[INFO] Catalog hash: {self._short_hash(catalog_hash)} "
-                f"({'changed' if catalog_changed else 'unchanged'}) "
-                f"/ products={catalog_count}"
+                f'[INFO] Catalog hash: {self._short_hash(catalog_hash)} '
+                f'({"changed" if catalog_changed else "unchanged"}) '
+                f'/ products={catalog_count}'
             )
         if min_from_date:
-            print(f"[INFO] Min from_date: {min_from_date}")
-        print(f"[INFO] Check reason: {reason}")
+            print(f'[INFO] Min from_date: {min_from_date}')
+        print(f'[INFO] Check reason: {reason}')
         print(
-            "CHECK_RESULT "
-            f"reason={reason} "
-            f"should_crawl={'true' if should_crawl else 'false'} "
-            f"notice_changed={'true' if notice_changed else 'false'} "
-            f"catalog_changed={'true' if catalog_changed else 'false'} "
-            f"sale_rotation_due={'true' if sale_rotation_due else 'false'} "
-            f"notice_hash={self._short_hash(notice_hash)} "
-            f"catalog_hash={self._short_hash(catalog_hash)} "
-            f"catalog_count={catalog_count if catalog_count is not None else 'unknown'}"
+            'CHECK_RESULT '
+            f'reason={reason} '
+            f'should_crawl={"true" if should_crawl else "false"} '
+            f'notice_changed={"true" if notice_changed else "false"} '
+            f'catalog_changed={"true" if catalog_changed else "false"} '
+            f'sale_rotation_due={"true" if sale_rotation_due else "false"} '
+            f'safety_blocked={"true" if safety_blocked else "false"} '
+            f'notice_hash={self._short_hash(notice_hash)} '
+            f'catalog_hash={self._short_hash(catalog_hash)} '
+            f'catalog_count={catalog_count if catalog_count is not None else "unknown"}'
         )
 
         if should_crawl:
-            print("[INFO] Update detected")
+            print('[INFO] Update detected')
         else:
-            print("[INFO] No updates detected")
+            print('[INFO] No updates detected')
         return should_crawl, notice_hash
-    
+
     def fetch_categories(self) -> List[Dict]:
         """카테고리 목록 조회"""
-        print("[INFO] Fetching categories...")
+        print('[INFO] Fetching categories...')
         categories = self._request('categories')
         if categories:
-            print(f"[INFO] Found {len(categories)} categories")
+            print(f'[INFO] Found {len(categories)} categories')
         return categories or []
-    
+
     def fetch_products_by_category(self, category_id: int) -> List[Dict]:
         """카테고리별 상품 조회"""
         return self._request('products_by_category', category_id=category_id) or []
-    
+
     def fetch_all_products(self, categories: List[Dict]) -> List[Dict]:
         """모든 카테고리의 상품 조회"""
-        print("[INFO] Fetching all products...")
+        print('[INFO] Fetching all products...')
         all_products = []
-        
+
         for cat in categories:
             products = self.fetch_products_by_category(cat['category_id'])
-            print(f"       - {cat['category_name']}: {len(products)} products")
+            print(f'       - {cat["category_name"]}: {len(products)} products')
             all_products.extend(products)
-        
+
         # 중복 제거
         seen = set()
         unique = []
@@ -359,10 +456,10 @@ class Fetcher:
             if p['product_id'] not in seen:
                 seen.add(p['product_id'])
                 unique.append(p)
-        
-        print(f"[INFO] Total unique products: {len(unique)}")
+
+        print(f'[INFO] Total unique products: {len(unique)}')
         return unique
-    
+
     def fetch_popular(self) -> List[Dict]:
         """인기 상품 조회"""
         return self._request('popular') or []

@@ -9,6 +9,8 @@ This repository:
 - Stores versioned snapshots under `data/versions/`
 - Maintains `data/current` as a symlink to the latest version
 - Publishes a content-derived `data_revision` for reliable client cache invalidation
+- Blocks suspicious total/category shrinkage and Cocodalin count mismatches before commit
+- Preserves changed same-week catalogs as immutable revision-suffixed snapshots
 - Runs on GitHub Actions
 - Dispatches private deployment after crawl completion
 
@@ -19,6 +21,7 @@ python3 -m pip install -e ".[dev]"
 python3 -m crawler.cli check
 python3 -m crawler.cli crawl
 python3 scripts/validate_products_schema.py
+python3 scripts/verify_source_parity.py
 ```
 
 ## Repository Layout
@@ -43,6 +46,11 @@ data/versions             # versioned datasets
 If you run `crawl.yml` manually with `force=true`:
 - Crawling is executed regardless of update-check result
 - Private dispatch is also executed even when no data commit is created
+- The catalog safety gate remains enabled
+
+`allow_unsafe_drop=true` is a separate operator approval. Use it only after
+`scripts/verify_source_parity.py` and a direct Cocodalin UI/API count check prove
+that a large reduction is intentional.
 
 ## Required Secret (Public Repo)
 

@@ -4,8 +4,9 @@
 기본적으로 스케줄 실행에 맡깁니다.
 
 - `crawl.yml`가 4시간마다 실행
-- 공지 해시가 같으면 crawl skip
+- 공지와 카탈로그 해시가 같으면 crawl skip
 - 변경이 있으면 자동 배포 트리거
+- 급감 또는 코코달인 원본 내부 불일치가 감지되면 commit/dispatch 전에 실패
 
 ## 2) 수동 즉시 실행
 즉시 확인 또는 강제 재실행이 필요할 때 사용합니다.
@@ -17,6 +18,16 @@
 `force=true` 동작:
 - 크롤링은 무조건 수행
 - 현재 설정상 변경이 없어도 private dispatch 수행
+- 급감 안전장치는 우회하지 않음
+
+안전장치가 차단한 감소를 승인해야 할 때만 다음을 수행합니다.
+
+1. 코코달인 화면의 12개 카테고리 표시 수 확인
+2. `python scripts/verify_source_parity.py`로 실제 상품 ID/수를 대조
+3. 감소가 실제 원본 변경임을 확인한 뒤 수동 workflow에서
+   `force=true`, `allow_unsafe_drop=true`를 함께 선택
+
+`allow_unsafe_drop`은 단순 재시도 옵션이 아니라 운영자 승인 기록입니다.
 
 ## 2-1) 이미지 변환 smoke test
 전체 반영 전에 품질만 빠르게 점검할 때 사용합니다.
@@ -47,6 +58,11 @@ python3 -m pip install -e ".[dev]"
 python3 -m crawler.cli check
 python3 -m crawler.cli crawl --force
 python3 scripts/validate_products_schema.py
+python3 scripts/verify_source_parity.py
 python3 scripts/run_transform_smoke_test.py --artifact-dir artifacts/image-transform-smoke
 python3 -m pytest tests -q
 ```
+
+정상 parity 출력은 `source_actual`과 `local`이 모든 카테고리에서 같고,
+마지막에 `[PASS]`가 표시됩니다. `reported`는 코코달인 자체 필터 때문에
+실제 목록보다 1~2개 많을 수 있습니다.

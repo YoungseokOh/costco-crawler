@@ -1,5 +1,19 @@
 # Troubleshooting
 
+## `catalog_safety_blocked`
+증상:
+- workflow가 crawl/commit 전에 exit code 2로 실패
+- 로그에 `total_catalog_drop`, `category_catalog_drop`, 또는
+  `upstream_count_mismatch`가 표시됨
+
+조치:
+1. `python scripts/verify_source_parity.py` 실행
+2. 코코달인 `/saleSummary` 표시 수와 `/productList/{category_id}` 실제 수 확인
+3. 일시적인 원본 이상이면 승인하지 말고 다음 스케줄까지 기존 공개본 유지
+4. 실제 카탈로그 변경이면 수동 workflow의 `allow_unsafe_drop=true`로 명시적 승인
+
+`force=true`만으로는 안전장치가 해제되지 않습니다.
+
 ## 403 on dispatch
 증상:
 - `Resource not accessible by personal access token`
@@ -30,3 +44,7 @@
 1. public dispatch payload의 `public_sha`가 최신인지
 2. private deploy run이 해당 `public_sha`를 checkout 했는지
 3. 배포 후 해시 검증 결과가 통과했는지
+
+동일 할인 시작일 안에서 내용이 변경된 경우 `data/current`가
+`YYYY-MM-DD--<revision>` 디렉토리를 가리키는 것은 정상입니다. 기존 주차
+디렉토리를 덮어쓰지 않고 이전 스냅샷을 보존하기 위한 동작입니다.

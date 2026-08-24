@@ -29,7 +29,14 @@ def _catalog_hash(products: List[Dict[str, Any]]) -> str:
 
 
 def _build_fetcher(monkeypatch, crawl_log: Dict[str, Any]) -> Fetcher:
-    monkeypatch.setattr(Fetcher, "_load_crawl_log", lambda self: crawl_log, raising=False)
+    isolated_log = dict(crawl_log)
+    isolated_log.setdefault("last_category_counts", {})
+    monkeypatch.setattr(
+        Fetcher,
+        "_load_crawl_log",
+        lambda self: isolated_log,
+        raising=False,
+    )
     return Fetcher()
 
 
@@ -243,3 +250,78 @@ def test_check_update_records_catalog_count_change_ratio(monkeypatch):
     has_update, _ = fetcher.check_update()
     assert has_update is True
     assert fetcher.last_check_result["catalog_count_change_ratio"] == 1.0
+
+
+def test_check_update_blocks_total_and_category_catalog_collapse(monkeypatch):
+    notices = [{"id": 1, "notice_title": "8월 할인"}]
+    categories = [
+        {
+            "category_id": 7,
+            "category_name": "신선식품,빵",
+            "product_cnt": 5,
+        }
+    ]
+    old_products = [
+        {
+            "product_id": product_id,
+            "sale_price": 1000,
+            "normal_price": 1200,
+            "discount": 200,
+            "from_date": "2026.08.17",
+            "to_date": "2026.08.30",
+        }
+        for product_id in range(1, 26)
+    ]
+    new_products = old_products[:5]
+    crawl_log = {
+        "last_notice_hash": _notice_hash(notices),
+        "last_catalog_hash": _catalog_hash(old_products),
+        "last_catalog_count": 25,
+        "last_category_counts": {"7": 25},
+    }
+    fetcher = _build_fetcher(monkeypatch, crawl_log)
+    _set_request_stub(monkeypatch, fetcher, notices, categories, {7: new_products})
+
+    has_update, _ = fetcher.check_update()
+
+    assert has_update is False
+    assert fetcher.last_check_result["reason"] == "catalog_safety_blocked"
+    assert fetcher.last_check_result["safety_blocked"] is True
+    assert fetcher.last_check_result["total_drop_ratio"] == 0.8
+    assert fetcher.last_check_result["category_drop_ratios"] == {"7": 0.8}
+
+
+def test_check_update_blocks_large_sale_summary_product_list_mismatch(monkeypatch):
+    notices = [{"id": 1, "notice_title": "8월 할인"}]
+    categories = [
+        {
+            "category_id": 7,
+            "category_name": "신선식품,빵",
+            "product_cnt": 25,
+        }
+    ]
+    products = [
+        {
+            "product_id": product_id,
+            "sale_price": 1000,
+            "normal_price": 1200,
+            "discount": 200,
+            "from_date": "2026.08.17",
+            "to_date": "2026.08.30",
+        }
+        for product_id in range(1, 6)
+    ]
+    crawl_log = {
+        "last_notice_hash": _notice_hash(notices),
+        "last_catalog_hash": _catalog_hash(products),
+        "last_catalog_count": 5,
+        "last_category_counts": {"7": 5},
+    }
+    fetcher = _build_fetcher(monkeypatch, crawl_log)
+    _set_request_stub(monkeypatch, fetcher, notices, categories, {7: products})
+
+    has_update, _ = fetcher.check_update()
+
+    assert has_update is False
+    assert fetcher.last_check_result["safety_blocked"] is True
+    assert fetcher.last_check_result["source_count_drifts"] == {"7": -20}

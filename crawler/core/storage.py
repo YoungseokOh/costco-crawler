@@ -14,55 +14,55 @@ from crawler.core.config import config
 
 class Storage:
     """데이터 저장소"""
-    
-    IMAGE_BASE_URL = "https://image.cocodalin.com/product"
-    
+
+    IMAGE_BASE_URL = 'https://image.cocodalin.com/product'
+
     def __init__(self):
         self.master_dir = MASTER_DIR
         self.versions_dir = VERSIONS_DIR
         self.raw_dir = RAW_DIR
-    
+
     def generate_image_url(self, product: Dict) -> Optional[str]:
         """상품 이미지 URL 생성"""
         product_image = product.get('product_image')
         if not product_image:
             return None
-        
+
         # 실제 사이트에서 사용하는 /sm/ 경로 적용
         encoded = urllib.parse.quote(product_image)
-        return f"{self.IMAGE_BASE_URL}/sm/{encoded}.jpg"
+        return f'{self.IMAGE_BASE_URL}/sm/{encoded}.jpg'
 
-    
     def add_image_urls(self, products: List[Dict]) -> List[Dict]:
         """상품에 이미지 URL 추가"""
         for product in products:
             product['image_url'] = self.generate_image_url(product)
         return products
-    
+
     def save_products(self, products: List[Dict]):
         """상품 데이터 저장 (Master에 반영)"""
         # 이미지 URL 추가
         products = self.add_image_urls(products)
-        
+
         # 최신 파일 저장 (Master)
         products_file = self.master_dir / 'products.json'
         with open(products_file, 'w', encoding='utf-8') as f:
             json.dump(products, f, ensure_ascii=False, indent=2)
-        
-        print(f"[INFO] Saved {len(products)} products to {products_file}")
-    
+
+        print(f'[INFO] Saved {len(products)} products to {products_file}')
+
     def save_categories(self, categories: List[Dict]):
         """카테고리 데이터 저장"""
         cat_file = self.raw_dir / config.get('storage.categories_file', 'categories.json')
         with open(cat_file, 'w', encoding='utf-8') as f:
             json.dump(categories, f, ensure_ascii=False, indent=2)
-    
+
     def save_crawl_log(
         self,
         notice_hash: Optional[str],
         products_count: int,
         catalog_hash: Optional[str] = None,
         catalog_count: Optional[int] = None,
+        category_counts: Optional[Dict[str, int]] = None,
         check_reason: Optional[str] = None,
         min_from_date: Optional[str] = None,
     ):
@@ -85,6 +85,10 @@ class Storage:
             log['last_catalog_hash'] = catalog_hash
         if catalog_count is not None:
             log['last_catalog_count'] = catalog_count
+        if category_counts is not None:
+            log['last_category_counts'] = {
+                str(key): int(value) for key, value in category_counts.items()
+            }
         if check_reason:
             log['check_reason'] = check_reason
         if min_from_date is not None:
@@ -96,7 +100,7 @@ class Storage:
 
         with open(log_file, 'w', encoding='utf-8') as f:
             json.dump(log, f, ensure_ascii=False, indent=2)
-    
+
     def load_products(self) -> List[Dict]:
         """상품 데이터 로드"""
         products_file = self.raw_dir / config.get('storage.raw_data_file', 'products.json')
@@ -104,7 +108,7 @@ class Storage:
             with open(products_file, 'r', encoding='utf-8') as f:
                 return json.load(f)
         return []
-    
+
     def load_categories(self) -> List[Dict]:
         """카테고리 데이터 로드"""
         cat_file = self.raw_dir / config.get('storage.categories_file', 'categories.json')
