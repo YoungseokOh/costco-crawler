@@ -8,6 +8,7 @@ from typing import Dict, Iterable, List, Mapping, Set
 @dataclass(frozen=True)
 class SourceParityReport:
     matches: bool
+    product_lists_match: bool
     local_count: int
     source_count: int
     local_category_counts: Dict[str, int]
@@ -65,14 +66,13 @@ def compare_source_parity(
     missing_product_ids = source_ids - local_ids
     extra_product_ids = local_ids - source_ids
     category_counts_match = local_category_counts == source_category_counts
+    product_lists_match = (
+        not missing_product_ids and not extra_product_ids and category_counts_match
+    )
 
     return SourceParityReport(
-        matches=(
-            not missing_product_ids
-            and not extra_product_ids
-            and category_counts_match
-            and not source_count_drifts
-        ),
+        matches=product_lists_match and not source_count_drifts,
+        product_lists_match=product_lists_match,
         local_count=len(local_ids),
         source_count=len(source_ids),
         local_category_counts=local_category_counts,

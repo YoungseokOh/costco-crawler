@@ -11,7 +11,7 @@ on:
         type: boolean
         default: false
       allow_unsafe_drop:
-        description: "Approve a blocked catalog drop after direct Cocodalin verification"
+        description: "Approve a blocked catalog after direct Cocodalin verification"
         required: false
         type: boolean
         default: false
@@ -130,7 +130,15 @@ jobs:
 
       - name: Verify Cocodalin source parity
         if: steps.decide.outputs.should_crawl == 'true'
-        run: python scripts/verify_source_parity.py
+        env:
+          ALLOW_UNSAFE_DROP: ${{ github.event.inputs.allow_unsafe_drop || 'false' }}
+        run: |
+          set -euo pipefail
+          args=()
+          if [[ "$ALLOW_UNSAFE_DROP" == "true" ]]; then
+            args+=(--allow-source-count-drift)
+          fi
+          python scripts/verify_source_parity.py "${args[@]}"
 
       - name: Commit updated data
         if: steps.decide.outputs.should_crawl == 'true'

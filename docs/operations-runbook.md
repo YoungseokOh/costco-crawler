@@ -20,11 +20,11 @@
 - 현재 설정상 변경이 없어도 private dispatch 수행
 - 급감 안전장치는 우회하지 않음
 
-안전장치가 차단한 감소를 승인해야 할 때만 다음을 수행합니다.
+안전장치가 차단한 감소나 원본 요약 수 불일치를 승인해야 할 때만 다음을 수행합니다.
 
 1. 코코달인 화면의 12개 카테고리 표시 수 확인
 2. `python scripts/verify_source_parity.py`로 실제 상품 ID/수를 대조
-3. 감소가 실제 원본 변경임을 확인한 뒤 수동 workflow에서
+3. 실제 `productList`가 원본 화면과 일치함을 확인한 뒤 수동 workflow에서
    `force=true`, `allow_unsafe_drop=true`를 함께 선택
 
 `allow_unsafe_drop`은 단순 재시도 옵션이 아니라 운영자 승인 기록입니다.

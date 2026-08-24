@@ -18,6 +18,11 @@ def main() -> int:
         default=Path("data/current/products.json"),
         help="Saved products JSON to compare",
     )
+    parser.add_argument(
+        "--allow-source-count-drift",
+        action="store_true",
+        help="Accept saleSummary count drift after direct Cocodalin verification",
+    )
     args = parser.parse_args()
 
     local_products = json.loads(args.products.read_text(encoding="utf-8"))
@@ -61,6 +66,15 @@ def main() -> int:
 
     if report.matches:
         print("[PASS] Saved catalog exactly matches Cocodalin product IDs and category counts")
+        return 0
+
+    if args.allow_source_count_drift and report.product_lists_match:
+        print(
+            "[PASS] Saved catalog matches every Cocodalin productList; "
+            "saleSummary count drift was explicitly accepted"
+        )
+        if report.source_count_drifts:
+            print(f"       Accepted upstream count drift: {report.source_count_drifts}")
         return 0
 
     print("[FAIL] Saved catalog does not match Cocodalin")
