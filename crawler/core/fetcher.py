@@ -7,14 +7,15 @@ import hashlib
 import json
 import time
 from collections import Counter
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta
 from typing import Any, Dict, List, Optional
+from zoneinfo import ZoneInfo
 
 import requests
 
 from crawler import DATA_DIR, MASTER_DIR, RAW_DIR
-from crawler.core.catalog_safety import assess_catalog_safety
+from crawler.core.catalog_safety import assess_catalog_safety, expired_removal_counts
 from crawler.core.config import config
 
 
@@ -25,6 +26,7 @@ class CatalogSnapshot:
     min_from_date: Optional[str]
     category_counts: Dict[str, int]
     reported_category_counts: Dict[str, int]
+    product_ids: tuple = field(default_factory=tuple)
 
 
 class Fetcher:
@@ -227,7 +229,28 @@ class Fetcher:
             min_from_date=min_from_date,
             category_counts=category_counts,
             reported_category_counts=reported_category_counts,
+            product_ids=tuple(unique_products),
         )
+
+    def _expired_removal_counts(self, snapshot: CatalogSnapshot) -> Dict[str, int]:
+        try:
+            products = json.loads((DATA_DIR / 'current/products.json').read_text(encoding='utf-8'))
+            # Never waive a drop using a stale or incomplete baseline.
+            if (
+                len(products) != self._last_catalog_count
+                or len({str(p['product_id']) for p in products}) != len(products)
+                or len(snapshot.product_ids) != snapshot.product_count
+            ):
+                return {}
+            counts = Counter(str(p.get('category_id')) for p in products)
+            if dict(counts) != self._last_category_counts:
+                return {}
+            return expired_removal_counts(
+                products, snapshot.product_ids,
+                today=datetime.now(ZoneInfo('Asia/Seoul')).date(),
+            )
+        except (OSError, TypeError, ValueError, AttributeError, KeyError):
+            return {}
 
     def _request(self, endpoint_key: str, **kwargs) -> Optional[Any]:
         """API 요청"""
@@ -326,14 +349,19 @@ class Fetcher:
             )
             if catalog_count_change_ratio >= 0.2:
                 print(
-                    '[WARN] Catalog size changed significantly: '
+                    '[INFO] Catalog size changed significantly: '
                     f'previous={self._last_catalog_count}, current={catalog_count}, '
                     f'delta={catalog_count_change_ratio * 100:.1f}%'
                 )
 
         safety_assessment = None
+        expired_counts = {}
         if snapshot is not None:
+            expired_counts = self._expired_removal_counts(snapshot)
+            if expired_counts:
+                print(f'[INFO] Naturally expired removals: {sum(expired_counts.values())}')
             safety_assessment = assess_catalog_safety(
+                expired_category_counts=expired_counts,
                 previous_total=self._last_catalog_count,
                 current_total=snapshot.product_count,
                 previous_category_counts=self._last_category_counts,
@@ -382,6 +410,8 @@ class Fetcher:
             'catalog_count_change_ratio': catalog_count_change_ratio,
             'category_counts': snapshot.category_counts if snapshot else {},
             'reported_category_counts': (snapshot.reported_category_counts if snapshot else {}),
+            'expired_removal_count': sum(expired_counts.values()),
+            'expired_category_counts': expired_counts,
             'safety_blocked': safety_blocked,
             'safety_reasons': list(safety_assessment.reasons) if safety_assessment else [],
             'total_drop_ratio': (safety_assessment.total_drop_ratio if safety_assessment else None),
@@ -423,6 +453,8 @@ class Fetcher:
 
         if should_crawl:
             print('[INFO] Update detected')
+        elif safety_blocked:
+            print('[INFO] Update detected but blocked by catalog safety')
         else:
             print('[INFO] No updates detected')
         return should_crawl, notice_hash

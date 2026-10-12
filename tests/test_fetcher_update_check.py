@@ -325,3 +325,36 @@ def test_check_update_blocks_large_sale_summary_product_list_mismatch(monkeypatc
     assert has_update is False
     assert fetcher.last_check_result["safety_blocked"] is True
     assert fetcher.last_check_result["source_count_drifts"] == {"7": -20}
+
+
+
+def test_check_update_allows_expired_removals_from_matching_saved_baseline(monkeypatch, tmp_path):
+    from datetime import datetime, timedelta
+    from zoneinfo import ZoneInfo
+    from crawler.core import fetcher as module
+
+    today = datetime.now(ZoneInfo("Asia/Seoul")).date()
+    expired = (today - timedelta(days=1)).strftime("%Y.%m.%d")
+    active = (today + timedelta(days=1)).strftime("%Y.%m.%d")
+    previous = [
+        {"product_id": i, "category_id": 7, "to_date": active if i < 5 else expired}
+        for i in range(25)
+    ]
+    current = previous[:5]
+    (tmp_path / "current").mkdir()
+    product_file = tmp_path / "current/products.json"
+    product_file.write_text(json.dumps(previous))
+    monkeypatch.setattr(module, "DATA_DIR", tmp_path)
+    fetcher = _build_fetcher(monkeypatch, {
+        "last_catalog_count": 25, "last_category_counts": {"7": 25},
+        "last_catalog_hash": "old",
+    })
+    _set_request_stub(monkeypatch, fetcher, [], [{"category_id": 7, "product_cnt": 5}], {7: current})
+    assert fetcher.check_update()[0] is True
+    assert fetcher.last_check_result["expired_removal_count"] == 20
+    assert fetcher.last_check_result["total_drop_ratio"] == 0
+
+    # A stale/incomplete saved baseline cannot explain a published count drop.
+    product_file.write_text(json.dumps(previous[:-1]))
+    assert fetcher.check_update()[0] is False
+    assert fetcher.last_check_result["expired_removal_count"] == 0
