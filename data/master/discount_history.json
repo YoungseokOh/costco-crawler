@@ -159685,5 +159685,226 @@
         "discount": 5600
       }
     ]
+  },
+  "12141": {
+    "product_id": 12141,
+    "product_name": "골드망고 (4입) 원산지 : 베트남",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.14",
+        "to_date": "2026.10.17",
+        "normal_price": 16490,
+        "sale_price": 13990,
+        "discount": 2500
+      }
+    ]
+  },
+  "12140": {
+    "product_id": 12140,
+    "product_name": "대구농산 국내산 찰현미 5KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.14",
+        "to_date": "2026.10.25",
+        "normal_price": 17990,
+        "sale_price": 15990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12138": {
+    "product_id": 12138,
+    "product_name": "대구농산 국내산 찰흑미 5KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.14",
+        "to_date": "2026.10.25",
+        "normal_price": 18990,
+        "sale_price": 16990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12137": {
+    "product_id": 12137,
+    "product_name": "호주산냉장양고기 로인찹/양티본 1.3KG",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.14",
+        "to_date": "2026.10.18",
+        "normal_price": 57900,
+        "sale_price": 46900,
+        "discount": 11000
+      }
+    ]
+  },
+  "12139": {
+    "product_id": 12139,
+    "product_name": "쿡스타 슈퍼그레인 파이브 100G X 10",
+    "category_name": "가공식품",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.15",
+        "to_date": "2026.10.18",
+        "normal_price": 19990,
+        "sale_price": 16990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12134": {
+    "product_id": 12134,
+    "product_name": "ANSICH 여성 모크넥 니트 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.15",
+        "to_date": "2026.11.08",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12135": {
+    "product_id": 12135,
+    "product_name": "LYDIA VINE 여성 캐시미어100% 스웨터 SIZE S,M,L",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.15",
+        "to_date": "2026.10.25",
+        "normal_price": 89990,
+        "sale_price": 69990,
+        "discount": 20000
+      }
+    ]
+  },
+  "12136": {
+    "product_id": 12136,
+    "product_name": "SCOTCH & SODA 여성 가디건 S,M,L US SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.14",
+        "to_date": "2026.11.08",
+        "normal_price": 28990,
+        "sale_price": 22990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12132": {
+    "product_id": 12132,
+    "product_name": "SKECHERS 여성 글라이드스텝 230 - 250MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.15",
+        "to_date": "2026.10.25",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
+      }
+    ]
+  },
+  "12133": {
+    "product_id": 12133,
+    "product_name": "YOICHEU 여성 모크넥 티 S/M, M/L ASIAN SIZE YOICHEU WOMEN MOCKNECK T",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.15",
+        "to_date": "2026.11.08",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12131": {
+    "product_id": 12131,
+    "product_name": "기라로쉬 모달선염 타월세트 4P, 180G",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.15",
+        "to_date": "2026.11.01",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12130": {
+    "product_id": 12130,
+    "product_name": "EIDER 남성 & 여성 장갑 SIZE : S, M, L",
+    "category_name": "생활용품",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.12",
+        "to_date": "2026.10.25",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12129": {
+    "product_id": 12129,
+    "product_name": "파크론 PARKLON 볼룸 주방매트 120X44X2CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "occurrences": [
+      {
+        "version": "2026-10-12",
+        "from_date": "2026.10.15",
+        "to_date": "2026.11.01",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
   }
 }
