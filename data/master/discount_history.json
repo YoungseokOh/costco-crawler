@@ -163460,5 +163460,464 @@
         "discount": 4000
       }
     ]
+  },
+  "12162": {
+    "product_id": 12162,
+    "product_name": "건가지 (300G) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 7990,
+        "sale_price": 6790,
+        "discount": 1200
+      }
+    ]
+  },
+  "12163": {
+    "product_id": 12163,
+    "product_name": "그린향 밀감 (2KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12167": {
+    "product_id": 12167,
+    "product_name": "상하목장 유기농 파우치그릭요거트 120G X 12 (사과케일)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.01",
+        "normal_price": 16990,
+        "sale_price": 13590,
+        "discount": 3400
+      }
+    ]
+  },
+  "12169": {
+    "product_id": 12169,
+    "product_name": "일품채 코울슬로 900G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 8490,
+        "sale_price": 6990,
+        "discount": 1500
+      }
+    ]
+  },
+  "12168": {
+    "product_id": 12168,
+    "product_name": "카스텔로휩트크림치즈 오리지널&갈릭 125G X 4",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12164": {
+    "product_id": 12164,
+    "product_name": "LOTTE 빼빼로 모음 677G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.16",
+        "to_date": "2026.10.25",
+        "normal_price": 17990,
+        "sale_price": 14990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12166": {
+    "product_id": 12166,
+    "product_name": "맥스봉 치즈플러스 40G X 33",
+    "category_name": "과자,간식",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 16490,
+        "sale_price": 14490,
+        "discount": 2000
+      }
+    ]
+  },
+  "12165": {
+    "product_id": 12165,
+    "product_name": "스트라이킹 팝핑 캔디 225G / 1G X 225",
+    "category_name": "과자,간식",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12143": {
+    "product_id": 12143,
+    "product_name": "GLASSLOCK 글라스락 보온도시락 8P (가방 포함)",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.01",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12145": {
+    "product_id": 12145,
+    "product_name": "스카치브라이트 베이킹소다 물걸레 청소포 50매",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.01",
+        "normal_price": 17990,
+        "sale_price": 14390,
+        "discount": 3600
+      }
+    ]
+  },
+  "12142": {
+    "product_id": 12142,
+    "product_name": "키친플라워 스테인리스김장용기 5.5L X 2PK",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.01",
+        "normal_price": 32990,
+        "sale_price": 25990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12161": {
+    "product_id": 12161,
+    "product_name": "ADIDAS 남성 조거 바지 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.17",
+        "to_date": "2026.11.08",
+        "normal_price": 39490,
+        "sale_price": 24490,
+        "discount": 15000
+      }
+    ]
+  },
+  "12155": {
+    "product_id": 12155,
+    "product_name": "BRENTWOOD 남성레이어드니트 M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.01",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
+      }
+    ]
+  },
+  "12154": {
+    "product_id": 12154,
+    "product_name": "CODE GRAPHY 남성 후디 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.17",
+        "to_date": "2026.11.08",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12158": {
+    "product_id": 12158,
+    "product_name": "COUNTESS MARA 남성 니트 베스트 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.22",
+        "normal_price": 27970,
+        "sale_price": 21970,
+        "discount": 6000
+      }
+    ]
+  },
+  "12157": {
+    "product_id": 12157,
+    "product_name": "DANIEL HECHTER 남성 케이블 니트 S,M,L,XL US SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.08",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12159": {
+    "product_id": 12159,
+    "product_name": "DICKIES 남성셔츠 재킷 S,M,L US SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.17",
+        "to_date": "2026.11.08",
+        "normal_price": 59970,
+        "sale_price": 44970,
+        "discount": 15000
+      }
+    ]
+  },
+  "12153": {
+    "product_id": 12153,
+    "product_name": "EPIGRAM 남성 울 트러커 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.08",
+        "normal_price": 119990,
+        "sale_price": 94990,
+        "discount": 25000
+      }
+    ]
+  },
+  "12170": {
+    "product_id": 12170,
+    "product_name": "PEANUTS 벨루어 라운지세트 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.08",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12151": {
+    "product_id": 12151,
+    "product_name": "SOUP 여성 구스다운자켓 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.08",
+        "normal_price": 79900,
+        "sale_price": 63900,
+        "discount": 16000
+      }
+    ]
+  },
+  "12150": {
+    "product_id": 12150,
+    "product_name": "SOUP 여성 하프 코트 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.17",
+        "to_date": "2026.11.01",
+        "normal_price": 53900,
+        "sale_price": 42900,
+        "discount": 11000
+      }
+    ]
+  },
+  "12160": {
+    "product_id": 12160,
+    "product_name": "TAILOR VINTAGE 남성 스판 바지 30,32 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.08",
+        "normal_price": 16970,
+        "sale_price": 13470,
+        "discount": 3500
+      }
+    ]
+  },
+  "12156": {
+    "product_id": 12156,
+    "product_name": "VINE 남성 캐시미어폴로 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.17",
+        "to_date": "2026.11.08",
+        "normal_price": 109990,
+        "sale_price": 84990,
+        "discount": 25000
+      }
+    ]
+  },
+  "12152": {
+    "product_id": 12152,
+    "product_name": "VIVIEN 여성라운지바지 2PK S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.16",
+        "to_date": "2026.11.08",
+        "normal_price": 22990,
+        "sale_price": 17990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12149": {
+    "product_id": 12149,
+    "product_name": "SAMSONITE 여행가방 49&64&74CM (20&25&29)",
+    "category_name": "생활용품",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 289990,
+        "sale_price": 239990,
+        "discount": 50000
+      }
+    ]
+  },
+  "12146": {
+    "product_id": 12146,
+    "product_name": "DEPEND 디펜드 프리미엄성인용기저귀 40개",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.10.25",
+        "normal_price": 32990,
+        "sale_price": 25990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12144": {
+    "product_id": 12144,
+    "product_name": "ECOGRIP 친환경 장갑 6켤레",
+    "category_name": "공구,문구",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "occurrences": [
+      {
+        "version": "2026-10-19",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.01",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      }
+    ]
   }
 }
