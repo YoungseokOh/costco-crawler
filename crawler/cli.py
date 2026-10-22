@@ -76,10 +76,14 @@ class CrawlerV2:
             p['others'] = parsed['others']
 
         # 5. 버전 생성
-        version = self.version_manager.create_version(products, categories)
+        check_result = self.fetcher.last_check_result
+        version = self.version_manager.create_version(
+            products,
+            categories,
+            source_update_date=check_result.get('source_update_date'),
+        )
 
         # 6. 크롤 로그 저장
-        check_result = self.fetcher.last_check_result
         self.storage.save_crawl_log(
             notice_hash=notice_hash,
             products_count=len(products),

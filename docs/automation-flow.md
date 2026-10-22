@@ -40,7 +40,11 @@
 - `client_payload.public_sha`: 크롤링 후 최신 커밋 SHA
 - `client_payload.data_version`: `readlink data/current` 기반 버전명
 
-동일 할인 주차에 상품 내용이 달라지면 `data_version`에는
+`manifest.version`과 `data_version`의 날짜는 코코달인 공지의 `업데이트 완료` 날짜를
+사용합니다. 할인 시작일 기반 `sale_period`는 상품 할인 이력과 `first_seen_version`에
+계속 사용합니다.
+
+동일 코코달인 업데이트 날짜에 상품 내용이 달라지면 `data_version`에는
 `YYYY-MM-DD--<revision>` 형식의 불변 스냅샷 이름이 들어갈 수 있습니다.
 
 ## 필요한 시크릿

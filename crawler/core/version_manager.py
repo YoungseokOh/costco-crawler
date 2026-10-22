@@ -7,9 +7,10 @@ import hashlib
 import json
 import os
 from collections import Counter
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Set
+from zoneinfo import ZoneInfo
 
 from crawler import DATA_DIR
 
@@ -27,16 +28,32 @@ class VersionManager:
         self.master_dir.mkdir(parents=True, exist_ok=True)
         (self.master_dir / 'images' / 'products').mkdir(parents=True, exist_ok=True)
 
-    def get_version_name(self, products: List[Dict]) -> str:
-        """상품 목록에서 버전명 추출 (할인 시작일 기준)"""
+    def get_sale_period_name(self, products: List[Dict]) -> str:
+        """상품 목록에서 가장 흔한 할인 시작일을 반환한다."""
         from_dates = [p.get('from_date', '') for p in products if p.get('from_date')]
         if not from_dates:
             return datetime.now().strftime('%Y-%m-%d')
 
-        # 가장 흔한 시작일 찾기
         most_common = Counter(from_dates).most_common(1)[0][0]
-        # 2026.01.05 -> 2026-01-05
         return most_common.replace('.', '-')
+
+    @staticmethod
+    def get_version_name(source_update_date: Optional[str] = None) -> str:
+        """Return the official Cocodalin update date used to name a snapshot."""
+        if source_update_date:
+            try:
+                return date.fromisoformat(source_update_date).isoformat()
+            except ValueError:
+                print(
+                    '[WARN] Cocodalin update date is invalid; '
+                    'using the current Korea date for the snapshot version'
+                )
+        else:
+            print(
+                '[WARN] Cocodalin update date is unavailable; '
+                'using the current Korea date for the snapshot version'
+            )
+        return datetime.now(ZoneInfo('Asia/Seoul')).date().isoformat()
 
     @staticmethod
     def get_data_revision(products: List[Dict]) -> str:
@@ -118,9 +135,20 @@ class VersionManager:
         except (TypeError, ValueError):
             return None
 
-    def create_version(self, products: List[Dict], categories: List[Dict]) -> str:
+    def create_version(
+        self,
+        products: List[Dict],
+        categories: List[Dict],
+        source_update_date: Optional[str] = None,
+    ) -> str:
         """새 버전 생성"""
-        sale_version = self.get_version_name(products)
+        if source_update_date:
+            try:
+                source_update_date = date.fromisoformat(source_update_date).isoformat()
+            except ValueError:
+                source_update_date = None
+        version = self.get_version_name(source_update_date)
+        sale_period = self.get_sale_period_name(products)
         previous_storage_version = self.get_current_storage_version()
 
         # 히스토리 로드
@@ -133,8 +161,10 @@ class VersionManager:
         catalog_revision = self.get_catalog_revision(products)
 
         # 상품에 메타데이터 추가
-        products = self.enrich_products(products, history, sale_version)
-        storage_version = self.get_storage_version_name(sale_version, catalog_revision)
+        # Discount occurrence counts continue to follow sale periods. The
+        # snapshot label follows Cocodalin's separate catalog update date.
+        products = self.enrich_products(products, history, sale_period)
+        storage_version = self.get_storage_version_name(version, catalog_revision)
         version_dir = self.versions_dir / storage_version
 
         # 같은 할인 주차라도 내용이 다르면 revision suffix가 붙은 새 디렉토리를
@@ -154,7 +184,7 @@ class VersionManager:
 
         # 매니페스트 생성
         manifest = self.create_manifest(
-            sale_version,
+            version,
             products,
             categories,
             categorized,
@@ -163,19 +193,21 @@ class VersionManager:
                 storage_version, previous_storage_version
             ),
             catalog_revision=catalog_revision,
+            source_update_date=source_update_date,
         )
         manifest_file = version_dir / 'manifest.json'
         with open(manifest_file, 'w', encoding='utf-8') as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
         # 히스토리 업데이트
-        self.update_discount_history(products, sale_version, history)
+        self.update_discount_history(products, sale_period, history)
 
         # current 심볼릭 링크 업데이트
         self.update_current_link(storage_version)
 
         print(f'[INFO] Created version: {storage_version}')
-        print(f'       Sale version: {sale_version}')
+        print(f'       Cocodalin update date: {source_update_date or "unavailable"}')
+        print(f'       Sale period: {sale_period}')
         print(f'       Products: {len(products)}')
         print(f'       New: {len(categorized["new"])}, Returning: {len(categorized["returning"])}')
 
@@ -244,6 +276,7 @@ class VersionManager:
         storage_version: Optional[str] = None,
         previous_version: Optional[str] = None,
         catalog_revision: Optional[str] = None,
+        source_update_date: Optional[str] = None,
     ) -> Dict:
         """매니페스트 생성"""
         discount_period = self.get_discount_period(products)
@@ -254,6 +287,7 @@ class VersionManager:
         return {
             'version': version,
             'storage_version': storage_version or version,
+            'source_update_date': source_update_date,
             'catalog_revision': catalog_revision or self.get_catalog_revision(products),
             'data_revision': data_revision,
             'created_at': datetime.now().isoformat(),

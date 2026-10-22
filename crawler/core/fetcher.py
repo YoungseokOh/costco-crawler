@@ -5,6 +5,7 @@ API Fetcher
 
 import hashlib
 import json
+import re
 import time
 from collections import Counter
 from dataclasses import dataclass, field
@@ -27,6 +28,80 @@ class CatalogSnapshot:
     category_counts: Dict[str, int]
     reported_category_counts: Dict[str, int]
     product_ids: tuple = field(default_factory=tuple)
+
+
+def extract_cocodalin_update_date(notices: Any) -> Optional[str]:
+    """Return the date Cocodalin announces its catalog update was completed."""
+    if not isinstance(notices, list):
+        return None
+
+    patterns = (
+        re.compile(
+            r'(?P<year>20\d{2})\s*(?:년|[./-])\s*'
+            r'(?P<month>\d{1,2})\s*(?:월|[./-])\s*'
+            r'(?P<day>\d{1,2})\s*일?'
+        ),
+        re.compile(r'(?P<month>\d{1,2})\s*월\s*(?P<day>\d{1,2})\s*일'),
+    )
+    today = datetime.now(ZoneInfo('Asia/Seoul')).date()
+
+    for notice in notices:
+        if not isinstance(notice, dict) or notice.get('notice_type') != 'notice':
+            continue
+        content = str(notice.get('notice_contents') or '')
+        if '업데이트' not in content:
+            continue
+
+        match = None
+        for pattern in patterns:
+            match = pattern.search(content)
+            if match:
+                break
+        if match is None:
+            continue
+
+        try:
+            month = int(match.group('month'))
+            day = int(match.group('day'))
+            year_value = match.groupdict().get('year')
+            if year_value:
+                return date(int(year_value), month, day).isoformat()
+
+            reference_date = today
+            for field_name in ('from_date', 'to_date'):
+                raw_value = notice.get(field_name)
+                if not raw_value:
+                    continue
+                try:
+                    reference = datetime.fromisoformat(str(raw_value).replace('Z', '+00:00'))
+                    if reference.tzinfo is not None:
+                        reference = reference.astimezone(ZoneInfo('Asia/Seoul'))
+                    reference_date = reference.date()
+                    break
+                except ValueError:
+                    continue
+
+            candidates = []
+            candidate_years = (
+                reference_date.year - 1,
+                reference_date.year,
+                reference_date.year + 1,
+            )
+            for candidate_year in candidate_years:
+                try:
+                    candidates.append(date(candidate_year, month, day))
+                except ValueError:
+                    continue
+            if candidates:
+                closest = min(
+                    candidates,
+                    key=lambda candidate: abs((candidate - reference_date).days),
+                )
+                return closest.isoformat()
+        except (TypeError, ValueError):
+            continue
+
+    return None
 
 
 class Fetcher:
@@ -283,6 +358,7 @@ class Fetcher:
                 'notice_hash': None,
                 'catalog_hash': None,
                 'catalog_count': None,
+                'source_update_date': None,
                 'safety_blocked': False,
                 'safety_reasons': [],
             }
@@ -291,6 +367,7 @@ class Fetcher:
                 'CHECK_RESULT '
                 'reason=notice_unavailable '
                 'should_crawl=false '
+                'source_update_date=none '
                 'notice_changed=false '
                 'catalog_changed=false '
                 'safety_blocked=false '
@@ -302,6 +379,7 @@ class Fetcher:
 
         notice_str = json.dumps(notices, sort_keys=True, ensure_ascii=False, separators=(',', ':'))
         notice_hash = hashlib.md5(notice_str.encode()).hexdigest()
+        source_update_date = extract_cocodalin_update_date(notices)
         snapshot = self._build_catalog_fingerprint()
         catalog_hash = snapshot.catalog_hash if snapshot else None
         catalog_count = snapshot.product_count if snapshot else None
@@ -406,6 +484,7 @@ class Fetcher:
             'notice_hash': notice_hash,
             'catalog_hash': catalog_hash,
             'catalog_count': catalog_count,
+            'source_update_date': source_update_date,
             'min_from_date': min_from_date,
             'catalog_count_change_ratio': catalog_count_change_ratio,
             'category_counts': snapshot.category_counts if snapshot else {},
@@ -438,10 +517,12 @@ class Fetcher:
         if min_from_date:
             print(f'[INFO] Min from_date: {min_from_date}')
         print(f'[INFO] Check reason: {reason}')
+        print(f'[INFO] Cocodalin update date: {source_update_date or "unavailable"}')
         print(
             'CHECK_RESULT '
             f'reason={reason} '
             f'should_crawl={"true" if should_crawl else "false"} '
+            f'source_update_date={source_update_date or "unknown"} '
             f'notice_changed={"true" if notice_changed else "false"} '
             f'catalog_changed={"true" if catalog_changed else "false"} '
             f'sale_rotation_due={"true" if sale_rotation_due else "false"} '
