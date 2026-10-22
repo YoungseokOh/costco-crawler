@@ -8,6 +8,7 @@ import json
 import hashlib
 import time
 import requests
+import shutil
 from pathlib import Path
 from typing import Dict, List, Optional
 from datetime import datetime
@@ -94,6 +95,13 @@ class ImageDownloader:
                     'product_id': product['product_id'],
                     'error': status
                 })
+                # Keep the original failure visible and retry upstream on every crawl.
+                # Never place this asset in master_images_dir, which is a download cache.
+                placeholder = Path(__file__).resolve().parents[1] / 'assets/image-pending.jpg'
+                target = version_images_dir / f"{product['product_id']}.jpg"
+                shutil.copyfile(placeholder, target)
+                product['image_status'] = f'placeholder:{status}'
+                product['image_hash'] = self._calculate_hash(target)
             
             # 진행 상황 출력
             done = i + 1

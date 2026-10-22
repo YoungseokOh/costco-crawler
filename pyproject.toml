@@ -29,6 +29,9 @@ build-backend = "setuptools.build_meta"
 where = ["."]
 include = ["crawler*"]
 
+[tool.setuptools.package-data]
+crawler = ["assets/*.jpg"]
+
 [tool.black]
 line-length = 100
 target-version = ["py310"]
