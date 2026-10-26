@@ -5874,7 +5874,7 @@
     "product_name": "삼진어묵 정통어묵탕모듬 1188G",
     "category_name": "냉장,냉동",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -6019,6 +6019,14 @@
         "normal_price": 12990,
         "sale_price": 10590,
         "discount": 2400
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
       }
     ]
   },
@@ -15857,7 +15865,7 @@
     "product_name": "풍국면 들기름 막국수 798G (6인분)",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -16023,6 +16031,14 @@
         "version": "2026-10-19",
         "from_date": "2026.10.19",
         "to_date": "2026.10.25",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.01",
         "normal_price": 12990,
         "sale_price": 10990,
         "discount": 2000
@@ -58215,7 +58231,7 @@
     "product_name": "KRAFT 양송이스프 198G X 12",
     "category_name": "가공식품",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -58293,6 +58309,14 @@
         "version": "2026-10-12",
         "from_date": "2026.10.12",
         "to_date": "2026.10.18",
+        "normal_price": 21990,
+        "sale_price": 18990,
+        "discount": 3000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.01",
         "normal_price": 21990,
         "sale_price": 18990,
         "discount": 3000
@@ -61217,7 +61241,7 @@
     "product_name": "RICOLA 레몬민트 허브캔디 684G / 342G X 2PK",
     "category_name": "과자,간식",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -61255,6 +61279,14 @@
         "version": "2026-09-14",
         "from_date": "2026.09.14",
         "to_date": "2026.09.20",
+        "normal_price": 21990,
+        "sale_price": 17990,
+        "discount": 4000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
         "normal_price": 21990,
         "sale_price": 17990,
         "discount": 4000
@@ -69324,7 +69356,7 @@
     "product_name": "크리넥스 수프림플러스화장지 40M X 30롤, 3겹",
     "category_name": "생활용품",
     "first_seen": "2026-03-09",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-03-09",
@@ -69485,6 +69517,14 @@
         "normal_price": 29990,
         "sale_price": 23990,
         "discount": 6000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 29990,
+        "sale_price": 23490,
+        "discount": 6500
       }
     ]
   },
@@ -97467,7 +97507,7 @@
     "product_name": "고메 흑백요리사고기짜장 340G X 4",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-30",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-03-30",
@@ -97628,6 +97668,14 @@
         "normal_price": 15990,
         "sale_price": 13490,
         "discount": 2500
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 15990,
+        "sale_price": 12490,
+        "discount": 3500
       }
     ]
   },
@@ -110414,7 +110462,7 @@
     "product_name": "깐대파 1KG 원산지 : 국내",
     "category_name": "신선식품,빵",
     "first_seen": "2026-04-20",
-    "last_seen": "2026-04-20",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-04-20",
@@ -110422,6 +110470,14 @@
         "to_date": "2026.04.26",
         "normal_price": 5290,
         "sale_price": 4290,
+        "discount": 1000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.01",
+        "normal_price": 6490,
+        "sale_price": 5490,
         "discount": 1000
       }
     ]
@@ -133293,7 +133349,7 @@
     "product_name": "정관장 활삼면역 50ML X 20병",
     "category_name": "건강,미용",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-08-17",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-06-08",
@@ -133307,6 +133363,14 @@
         "version": "2026-08-17",
         "from_date": "2026.08.17",
         "to_date": "2026.08.23",
+        "normal_price": 99900,
+        "sale_price": 79900,
+        "discount": 20000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
         "normal_price": 99900,
         "sale_price": 79900,
         "discount": 20000
@@ -168105,6 +168169,941 @@
         "normal_price": 419990,
         "sale_price": 329990,
         "discount": 90000
+      }
+    ]
+  },
+  "12228": {
+    "product_id": 12228,
+    "product_name": "감홍사과 (2.5KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.01",
+        "normal_price": 28990,
+        "sale_price": 22990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12227": {
+    "product_id": 12227,
+    "product_name": "미국산 프라임 부채살 스테이크 KG당단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.01",
+        "normal_price": 0,
+        "sale_price": 39790,
+        "discount": 9000
+      }
+    ]
+  },
+  "12229": {
+    "product_id": 12229,
+    "product_name": "베리 스키르 케익 1CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.01",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12234": {
+    "product_id": 12234,
+    "product_name": "청정원 한입 소떡 280G X 3 (6인분)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.10.29",
+        "normal_price": 14990,
+        "sale_price": 12290,
+        "discount": 2700
+      }
+    ]
+  },
+  "12230": {
+    "product_id": 12230,
+    "product_name": "백설 멸치디포리 1분링 4G X 100",
+    "category_name": "가공식품",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12232": {
+    "product_id": 12232,
+    "product_name": "CADINA 완두콩 칩 800G / 80G X 10",
+    "category_name": "과자,간식",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.24",
+        "to_date": "2026.11.01",
+        "normal_price": 19990,
+        "sale_price": 16990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12233": {
+    "product_id": 12233,
+    "product_name": "NERDS 구미 클러스터 524G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 13990,
+        "sale_price": 10990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12231": {
+    "product_id": 12231,
+    "product_name": "크라운 쿠크다스 867G / 289G X 3",
+    "category_name": "과자,간식",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 10990,
+        "sale_price": 8790,
+        "discount": 2200
+      }
+    ]
+  },
+  "12195": {
+    "product_id": 12195,
+    "product_name": "BOTTOOM 바툼 욕실 온풍기 BTF-4001",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 99990,
+        "sale_price": 79990,
+        "discount": 20000
+      }
+    ]
+  },
+  "12194": {
+    "product_id": 12194,
+    "product_name": "CAREPOD 케어팟 가습기 스탠드 4L MS043 LIGHTING PLUS",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 189990,
+        "sale_price": 149990,
+        "discount": 40000
+      }
+    ]
+  },
+  "12235": {
+    "product_id": 12235,
+    "product_name": "LG 오브제 워시타워 세탁25KG+건조25KG",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 4449000,
+        "sale_price": 3549000,
+        "discount": 900000
+      }
+    ]
+  },
+  "12193": {
+    "product_id": 12193,
+    "product_name": "LUMENA 루메나 가습기 0.8L (2입) HUMID MC3 MAX",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 66990,
+        "sale_price": 52990,
+        "discount": 14000
+      }
+    ]
+  },
+  "12191": {
+    "product_id": 12191,
+    "product_name": "SAMSUNG OLED TV 77형 194CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 3999000,
+        "sale_price": 3149000,
+        "discount": 850000
+      }
+    ]
+  },
+  "12192": {
+    "product_id": 12192,
+    "product_name": "SAMSUNG 비스포크 김치냉장고 420L",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 3499000,
+        "sale_price": 2799000,
+        "discount": 700000
+      }
+    ]
+  },
+  "12190": {
+    "product_id": 12190,
+    "product_name": "삼성 커브드모니터 68.6CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 214900,
+        "sale_price": 169900,
+        "discount": 45000
+      }
+    ]
+  },
+  "12196": {
+    "product_id": 12196,
+    "product_name": "오드앵글 ODDANGLE 테이블 히터 CTH613",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 119990,
+        "sale_price": 95990,
+        "discount": 24000
+      }
+    ]
+  },
+  "12198": {
+    "product_id": 12198,
+    "product_name": "마카롱 볼세트 6P",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 15990,
+        "sale_price": 11990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12183": {
+    "product_id": 12183,
+    "product_name": "CODES COMBINE 여성 파자마 세트 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12189": {
+    "product_id": 12189,
+    "product_name": "COLUMBIA 남성 패딩 베스트 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 59990,
+        "sale_price": 47990,
+        "discount": 12000
+      }
+    ]
+  },
+  "12238": {
+    "product_id": 12238,
+    "product_name": "CRESSON 여성 기모 바지 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12215": {
+    "product_id": 12215,
+    "product_name": "DKNY 플러시 라운지세트 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 26990,
+        "sale_price": 21490,
+        "discount": 5500
+      }
+    ]
+  },
+  "12218": {
+    "product_id": 12218,
+    "product_name": "EIDER 남성 덕다운 재킷 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 149990,
+        "sale_price": 119990,
+        "discount": 30000
+      }
+    ]
+  },
+  "12187": {
+    "product_id": 12187,
+    "product_name": "EIDER 여성 다운 자켓 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 149990,
+        "sale_price": 119990,
+        "discount": 30000
+      }
+    ]
+  },
+  "12221": {
+    "product_id": 12221,
+    "product_name": "FILA 남성 트리코트팬츠 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 31990,
+        "sale_price": 25490,
+        "discount": 6500
+      }
+    ]
+  },
+  "12213": {
+    "product_id": 12213,
+    "product_name": "GUESS 남성 박서쇼츠3매 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 26990,
+        "sale_price": 20990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12237": {
+    "product_id": 12237,
+    "product_name": "GUESS 여성 기모 바지 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 25990,
+        "sale_price": 19990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12182": {
+    "product_id": 12182,
+    "product_name": "GUESS 여성 기모 청바지 26-30 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 47990,
+        "sale_price": 37990,
+        "discount": 10000
+      }
+    ]
+  },
+  "12216": {
+    "product_id": 12216,
+    "product_name": "KENNETH COLE 여성 기모 청바지 67-79 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12222": {
+    "product_id": 12222,
+    "product_name": "KULTE 남성 스판 면바지 30 - 38 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12226": {
+    "product_id": 12226,
+    "product_name": "LYDIA VINE 여성 캐시미어100% 가디건  SIZE S,M,L",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.19",
+        "to_date": "2026.11.08",
+        "normal_price": 99990,
+        "sale_price": 79990,
+        "discount": 20000
+      }
+    ]
+  },
+  "12236": {
+    "product_id": 12236,
+    "product_name": "LYDIA VINE 여성 캐시미어100% 가디건  SIZE S,M,L",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 124990,
+        "sale_price": 98990,
+        "discount": 26000
+      }
+    ]
+  },
+  "12220": {
+    "product_id": 12220,
+    "product_name": "NBA 남성 긴팔 후드티 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12219": {
+    "product_id": 12219,
+    "product_name": "PUMA 남성 다운 재킷 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 99990,
+        "sale_price": 69990,
+        "discount": 30000
+      }
+    ]
+  },
+  "12185": {
+    "product_id": 12185,
+    "product_name": "PUMA 남성 트레이닝팬츠 M - XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 25990,
+        "sale_price": 19990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12223": {
+    "product_id": 12223,
+    "product_name": "PUMA 키즈 카고 조거 130 - 160 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12214": {
+    "product_id": 12214,
+    "product_name": "SOLEZIA 여성 덕다운 재킷 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 84900,
+        "sale_price": 67900,
+        "discount": 17000
+      }
+    ]
+  },
+  "12212": {
+    "product_id": 12212,
+    "product_name": "TRIUMPH 존이지젤리브라2매 S - L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 28990,
+        "sale_price": 22990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12217": {
+    "product_id": 12217,
+    "product_name": "TRUE RELIGION 여성 기모 청바지 26-30 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 43990,
+        "sale_price": 34990,
+        "discount": 9000
+      }
+    ]
+  },
+  "12184": {
+    "product_id": 12184,
+    "product_name": "ViNE 남성캐시미어가디건 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 109990,
+        "sale_price": 86990,
+        "discount": 23000
+      }
+    ]
+  },
+  "12186": {
+    "product_id": 12186,
+    "product_name": "VISIT IN NY 캐시미어혼방 코트 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 109990,
+        "sale_price": 87990,
+        "discount": 22000
+      }
+    ]
+  },
+  "12188": {
+    "product_id": 12188,
+    "product_name": "컬럼비아 키즈푸퍼다운재킷 130,140,155,165",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 83990,
+        "sale_price": 66990,
+        "discount": 17000
+      }
+    ]
+  },
+  "12197": {
+    "product_id": 12197,
+    "product_name": "ATTIC&BASE 2단 슬라이딩 정리함",
+    "category_name": "생활용품",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 23990,
+        "sale_price": 18990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12199": {
+    "product_id": 12199,
+    "product_name": "올리브나무 45CM 플라스틱 화분",
+    "category_name": "생활용품",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 17990,
+        "sale_price": 13990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12206": {
+    "product_id": 12206,
+    "product_name": "AESTURA 에스트라 아토베리어365 로션플러스 180ML X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 57990,
+        "sale_price": 45990,
+        "discount": 12000
+      }
+    ]
+  },
+  "12209": {
+    "product_id": 12209,
+    "product_name": "BURT'S BEES 버츠비 립밤 4입 세트",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 16990,
+        "sale_price": 13490,
+        "discount": 3500
+      }
+    ]
+  },
+  "12208": {
+    "product_id": 12208,
+    "product_name": "DR.G 닥터지 더모이스처 배리어D 멀티밤 50ML X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12210": {
+    "product_id": 12210,
+    "product_name": "UNOVE 어노브 트리트먼트 500ML X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 33990,
+        "sale_price": 26990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12207": {
+    "product_id": 12207,
+    "product_name": "WELEDA 벨레다 슈퍼푸드 너리싱 크림 40ML X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12211": {
+    "product_id": 12211,
+    "product_name": "꼬박꼬밥 프로틴쉐이크초코맛 50G X 14개",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
+        "normal_price": 27990,
+        "sale_price": 21990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12200": {
+    "product_id": 12200,
+    "product_name": "레고 LEGO 모형 보관함 2개 / 1세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12204": {
+    "product_id": 12204,
+    "product_name": "크리스마스 장식 LED 우든 아이콘 2개 / 1세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 33990,
+        "sale_price": 26990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12201": {
+    "product_id": 12201,
+    "product_name": "크리스마스 장식 뜨개 인형 2개 / 1세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 26990,
+        "sale_price": 20990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12203": {
+    "product_id": 12203,
+    "product_name": "크리스마스 장식 진저브레드 패밀리 3개 / 1세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 69990,
+        "sale_price": 55990,
+        "discount": 14000
+      }
+    ]
+  },
+  "12202": {
+    "product_id": 12202,
+    "product_name": "크리스마스 장식 펭귄 또는 북극곰 높이 61CM",
+    "category_name": "공구,문구",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 79990,
+        "sale_price": 63990,
+        "discount": 16000
+      }
+    ]
+  },
+  "12205": {
+    "product_id": 12205,
+    "product_name": "크리스마스 장식 프리즘 별 눈송이 높이 1.2M",
+    "category_name": "공구,문구",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.08",
+        "normal_price": 144990,
+        "sale_price": 114990,
+        "discount": 30000
       }
     ]
   }
