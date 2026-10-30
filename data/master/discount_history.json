@@ -42090,7 +42090,7 @@
     "product_name": "농심 올리브짜파게티 140G X 20",
     "category_name": "가공식품",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -42312,6 +42312,14 @@
         "version": "2026-10-19",
         "from_date": "2026.10.22",
         "to_date": "2026.10.25",
+        "normal_price": 19490,
+        "sale_price": 16790,
+        "discount": 2700
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.01",
         "normal_price": 19490,
         "sale_price": 16790,
         "discount": 2700
@@ -114111,7 +114119,7 @@
     "product_name": "옐로우테일 까베르네 쇼비뇽 750ML",
     "category_name": "음료,주류",
     "first_seen": "2026-04-27",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-04-27",
@@ -114189,6 +114197,14 @@
         "version": "2026-06-29",
         "from_date": "2026.06.22",
         "to_date": "2026.07.05",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.22",
         "normal_price": 12990,
         "sale_price": 9990,
         "discount": 3000
@@ -114329,7 +114345,7 @@
     "product_name": "옐로우테일 쉬라즈 750ML",
     "category_name": "음료,주류",
     "first_seen": "2026-04-27",
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-04-27",
@@ -114407,6 +114423,14 @@
         "version": "2026-06-29",
         "from_date": "2026.06.22",
         "to_date": "2026.07.05",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.22",
         "normal_price": 12990,
         "sale_price": 9990,
         "discount": 3000
@@ -169567,6 +169591,295 @@
         "normal_price": 159990,
         "sale_price": 126990,
         "discount": 33000
+      }
+    ]
+  },
+  "12250": {
+    "product_id": 12250,
+    "product_name": "아스파라거스 (600G) 원산지 : 호주",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.10.30",
+        "normal_price": 11990,
+        "sale_price": 9990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12251": {
+    "product_id": 12251,
+    "product_name": "홍감자 1봉 (2KG)",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.01",
+        "normal_price": 15990,
+        "sale_price": 12990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12256": {
+    "product_id": 12256,
+    "product_name": "퀸즈테이블 통살바삭유린기 1.15KG (700G + 450G)",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.11.01",
+        "normal_price": 16990,
+        "sale_price": 13990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12253": {
+    "product_id": 12253,
+    "product_name": "풀무원 볶음짬뽕 203.4G X 6",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.15",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12252": {
+    "product_id": 12252,
+    "product_name": "OTTAVIO 엑스트라버진올리브유 1L",
+    "category_name": "가공식품",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.11.08",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12254": {
+    "product_id": 12254,
+    "product_name": "KIRKLAND SIGNATURE 압착 사과주스 3.78L X 2",
+    "category_name": "음료,주류",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.01",
+        "normal_price": 18990,
+        "sale_price": 15990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12241": {
+    "product_id": 12241,
+    "product_name": "CUCINARE쿠치나레 통 5중 곰솥냄비 11.6L (뚜껑포함)",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.08",
+        "normal_price": 66990,
+        "sale_price": 52990,
+        "discount": 14000
+      }
+    ]
+  },
+  "12240": {
+    "product_id": 12240,
+    "product_name": "네스프레소 에센자 미니 C30 캡슐 커피 머신",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.11.08",
+        "normal_price": 157900,
+        "sale_price": 125900,
+        "discount": 32000
+      }
+    ]
+  },
+  "12246": {
+    "product_id": 12246,
+    "product_name": "MON CHATEAU 인조 밍크퍼 러그 60 X 99 CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.11.08",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12247": {
+    "product_id": 12247,
+    "product_name": "MON CHATEAU 인조 밍크퍼 러너 165 X 60 CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.21",
+        "to_date": "2026.11.01",
+        "normal_price": 37990,
+        "sale_price": 29990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12248": {
+    "product_id": 12248,
+    "product_name": "NEPA 여성 플리스 재킷 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.15",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
+      }
+    ]
+  },
+  "12242": {
+    "product_id": 12242,
+    "product_name": "NIKE 러닝벨트 블랙, 레몬",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.06",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12244": {
+    "product_id": 12244,
+    "product_name": "루마인홈 롤링 메모리폼토퍼 싱글/100X200X4CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.11.08",
+        "normal_price": 119900,
+        "sale_price": 94900,
+        "discount": 25000
+      }
+    ]
+  },
+  "12245": {
+    "product_id": 12245,
+    "product_name": "루마인홈 밴드형순면베개커버 2P, 50X70CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.11.08",
+        "normal_price": 17990,
+        "sale_price": 13990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12243": {
+    "product_id": 12243,
+    "product_name": "캐치티니핑 캠핑세트 웨건+테이블+체어",
+    "category_name": "생활용품",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.06",
+        "normal_price": 79990,
+        "sale_price": 63990,
+        "discount": 16000
+      }
+    ]
+  },
+  "12255": {
+    "product_id": 12255,
+    "product_name": "퀸즈테이블 쫀득바삭꿔바로우 1.2KG (800G + 400G)",
+    "category_name": "생활용품",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.28",
+        "to_date": "2026.11.01",
+        "normal_price": 17990,
+        "sale_price": 14990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12239": {
+    "product_id": 12239,
+    "product_name": "OMNIHEAT 옴니히트 세라믹 히터 DQ2509R",
+    "category_name": "건강,미용",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "occurrences": [
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.29",
+        "to_date": "2026.11.15",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
       }
     ]
   }
