@@ -61807,7 +61807,7 @@
     "product_name": "다우니 섬유유연제 에이프릴 5.03L / 251회분",
     "category_name": "주방,욕실",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-26",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -61917,6 +61917,14 @@
         "version": "2026-10-12",
         "from_date": "2026.10.05",
         "to_date": "2026.10.18",
+        "normal_price": 25990,
+        "sale_price": 19990,
+        "discount": 6000
+      },
+      {
+        "version": "2026-10-26",
+        "from_date": "2026.10.26",
+        "to_date": "2026.11.22",
         "normal_price": 25990,
         "sale_price": 19990,
         "discount": 6000
