@@ -29949,7 +29949,7 @@
     "product_name": "아우라 건조기용섬유유연제 프레쉬플로렐 200매",
     "category_name": "주방,욕실",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -30123,6 +30123,14 @@
         "version": "2026-11-02",
         "from_date": "2026.11.03",
         "to_date": "2026.11.08",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
         "normal_price": 19990,
         "sale_price": 15990,
         "discount": 4000
@@ -37038,7 +37046,7 @@
     "product_name": "SILK THERAPY 골든앰플헤어에센스 180ML + 60ML",
     "category_name": "건강,미용",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -37071,6 +37079,14 @@
         "normal_price": 29990,
         "sale_price": 23990,
         "discount": 6000
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 29990,
+        "sale_price": 22990,
+        "discount": 7000
       }
     ]
   },
@@ -75107,7 +75123,7 @@
     "product_name": "JACK DANIEL'S 테네시 애플 위스키 1L",
     "category_name": "음료,주류",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -75172,6 +75188,14 @@
         "normal_price": 55900,
         "sale_price": 44690,
         "discount": 11210
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.12.06",
+        "normal_price": 55900,
+        "sale_price": 44990,
+        "discount": 10910
       }
     ]
   },
@@ -79321,7 +79345,7 @@
     "product_name": "스크러빙 버블 변기용 젤 스탬프 디스펜서 / 리필팩",
     "category_name": "주방,욕실",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -79450,6 +79474,14 @@
         "normal_price": 16490,
         "sale_price": 13990,
         "discount": 2500
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 16490,
+        "sale_price": 12990,
+        "discount": 3500
       }
     ]
   },
@@ -179294,6 +179326,380 @@
         "normal_price": 929990,
         "sale_price": 739990,
         "discount": 190000
+      }
+    ]
+  },
+  "12321": {
+    "product_id": 12321,
+    "product_name": "오돌뼈볶음 돈육원산지:국내산 KG당단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.15",
+        "normal_price": 29990,
+        "sale_price": 24990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12322": {
+    "product_id": 12322,
+    "product_name": "BELGIOIOSO마리네이드 프레쉬 모짜렐라 바질&갈릭340G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.07",
+        "to_date": "2026.11.09",
+        "normal_price": 8990,
+        "sale_price": 7490,
+        "discount": 1500
+      }
+    ]
+  },
+  "12323": {
+    "product_id": 12323,
+    "product_name": "EMMI 리몬첼로 티라미수 500G 원산지이탈리아",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.15",
+        "normal_price": 9990,
+        "sale_price": 7990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12324": {
+    "product_id": 12324,
+    "product_name": "동원홈푸드 시저드레싱 1KG",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.15",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12307": {
+    "product_id": 12307,
+    "product_name": "ROBOROCK 로보락 무선 진공 물걸레 청소기 F25RT GEN2",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.29",
+        "normal_price": 394990,
+        "sale_price": 314990,
+        "discount": 80000
+      }
+    ]
+  },
+  "12304": {
+    "product_id": 12304,
+    "product_name": "FIJI 모락셀라 냄새제거부스터 화이트 린넨 65개",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 32990,
+        "sale_price": 23990,
+        "discount": 9000
+      }
+    ]
+  },
+  "12308": {
+    "product_id": 12308,
+    "product_name": "THERMOFLASK 보온보냉병 2PK, 950ML",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 25990,
+        "sale_price": 20490,
+        "discount": 5500
+      }
+    ]
+  },
+  "12325": {
+    "product_id": 12325,
+    "product_name": "ZIPLOC 냉장용 지퍼백 180매 / 대형",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 22790,
+        "sale_price": 17990,
+        "discount": 4800
+      }
+    ]
+  },
+  "12305": {
+    "product_id": 12305,
+    "product_name": "ZIPLOC 냉장용 지퍼백 290매 / 중형",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 19990,
+        "sale_price": 15490,
+        "discount": 4500
+      }
+    ]
+  },
+  "12313": {
+    "product_id": 12313,
+    "product_name": "스크러빙 버블 프레시 브러쉬 핸들 2+브러쉬 20",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12314": {
+    "product_id": 12314,
+    "product_name": "APRIL AT HOME 웨지형 등받이쿠션 50X45X21CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12317": {
+    "product_id": 12317,
+    "product_name": "JILL BY JILLSTUART 여성단목덧신 2족 S/M, M/L, L/XL",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 11990,
+        "sale_price": 8990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12320": {
+    "product_id": 12320,
+    "product_name": "R.ROBOT 키즈 상하의 세트 110 - 145 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.29",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12318": {
+    "product_id": 12318,
+    "product_name": "RENOMA 남성 캐주얼셔츠 95 - 110 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.29",
+        "normal_price": 34990,
+        "sale_price": 27990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12319": {
+    "product_id": 12319,
+    "product_name": "TRUE RELIGION 남성플리스청바지 30,32,34,36 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.29",
+        "normal_price": 44990,
+        "sale_price": 35990,
+        "discount": 9000
+      }
+    ]
+  },
+  "12316": {
+    "product_id": 12316,
+    "product_name": "MILEET 폴라텍 장갑 블랙,퍼플",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.29",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12315": {
+    "product_id": 12315,
+    "product_name": "SAMSONITE 여행가방 71CM (29)",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.29",
+        "normal_price": 137990,
+        "sale_price": 109990,
+        "discount": 28000
+      }
+    ]
+  },
+  "12306": {
+    "product_id": 12306,
+    "product_name": "46CM 고불소구취케어치약 120G X 5개",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12312": {
+    "product_id": 12312,
+    "product_name": "LEGO BATMAN BATMOBILE TUMBLER #42239",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 249900,
+        "sale_price": 199900,
+        "discount": 50000
+      }
+    ]
+  },
+  "12311": {
+    "product_id": 12311,
+    "product_name": "LEGO TECHNIC ASTON MARTIN ARAMCO 레이스카 #42240",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 299900,
+        "sale_price": 239900,
+        "discount": 60000
+      }
+    ]
+  },
+  "12310": {
+    "product_id": 12310,
+    "product_name": "크리스마스 장식 LED 캔디 케인 높이 1.8M",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 319990,
+        "sale_price": 249990,
+        "discount": 70000
+      }
+    ]
+  },
+  "12309": {
+    "product_id": 12309,
+    "product_name": "크리스마스 장식 트리용 오너먼트 80개 / 1세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
       }
     ]
   }
