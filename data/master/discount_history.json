@@ -3371,7 +3371,7 @@
     "product_name": "고메 크리스피 핫도그 1,040G (13입)",
     "category_name": "냉장,냉동",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -3628,6 +3628,14 @@
         "normal_price": 15990,
         "sale_price": 13490,
         "discount": 2500
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.11.15",
+        "normal_price": 15990,
+        "sale_price": 11990,
+        "discount": 4000
       }
     ]
   },
@@ -5659,7 +5667,7 @@
     "product_name": "비비고 총각김치 2.4KG",
     "category_name": "냉장,냉동",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -5828,6 +5836,14 @@
         "normal_price": 24990,
         "sale_price": 20990,
         "discount": 4000
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.11.15",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
       }
     ]
   },
@@ -12651,7 +12667,7 @@
     "product_name": "백설 프리미엄 굴소스 350G X 3",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -12849,6 +12865,14 @@
         "version": "2026-11-02",
         "from_date": "2026.10.29",
         "to_date": "2026.11.08",
+        "normal_price": 10790,
+        "sale_price": 8490,
+        "discount": 2300
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.11.15",
         "normal_price": 10790,
         "sale_price": 8490,
         "discount": 2300
@@ -14823,7 +14847,7 @@
     "product_name": "삼양 1963 라면 131G X 16",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -14952,6 +14976,14 @@
         "normal_price": 18790,
         "sale_price": 16790,
         "discount": 2000
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.12.02",
+        "normal_price": 18790,
+        "sale_price": 14990,
+        "discount": 3800
       }
     ]
   },
@@ -23234,7 +23266,7 @@
     "product_name": "페리에주에 그랑브뤼샴페인 750ML",
     "category_name": "음료,주류",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-06-01",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -23298,6 +23330,14 @@
         "to_date": "2026.06.07",
         "normal_price": 78900,
         "sale_price": 62900,
+        "discount": 16000
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.12.13",
+        "normal_price": 79990,
+        "sale_price": 63990,
         "discount": 16000
       }
     ]
@@ -34847,7 +34887,7 @@
     "product_name": "크림하우스 논슬립 프리 폴더 매트 140 X 210 X 4CM",
     "category_name": "생활용품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -34880,6 +34920,14 @@
         "normal_price": 126900,
         "sale_price": 100900,
         "discount": 26000
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.11.15",
+        "normal_price": 139990,
+        "sale_price": 111990,
+        "discount": 28000
       }
     ]
   },
@@ -57018,7 +57066,7 @@
     "product_name": "황금사과(2.5KG) 원산지 : 국내산",
     "category_name": "신선식품,빵",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -57080,6 +57128,14 @@
         "version": "2026-11-02",
         "from_date": "2026.11.02",
         "to_date": "2026.11.08",
+        "normal_price": 21990,
+        "sale_price": 18490,
+        "discount": 3500
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.11.15",
         "normal_price": 21990,
         "sale_price": 18490,
         "discount": 3500
@@ -65477,7 +65533,7 @@
     "product_name": "페브리즈 공기탈취제 165G X 4개",
     "category_name": "주방,욕실",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-11-09",
     "occurrences": [
       {
         "version": "2026-03-02",
@@ -65555,6 +65611,14 @@
         "version": "2026-10-19",
         "from_date": "2026.10.12",
         "to_date": "2026.10.25",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      },
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.10",
+        "to_date": "2026.11.29",
         "normal_price": 14990,
         "sale_price": 11990,
         "discount": 3000
@@ -179700,6 +179764,125 @@
         "normal_price": 49990,
         "sale_price": 39990,
         "discount": 10000
+      }
+    ]
+  },
+  "12332": {
+    "product_id": 12332,
+    "product_name": "브레밀 헤이즐넛&라즈베리 다쿠아즈 8CT",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.12",
+        "to_date": "2026.11.12",
+        "normal_price": 14990,
+        "sale_price": 10490,
+        "discount": 4500
+      }
+    ]
+  },
+  "12326": {
+    "product_id": 12326,
+    "product_name": "NEOFLAM 네오플램 전동 그라인더 2PK (USB 충전)",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.10",
+        "to_date": "2026.11.15",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12329": {
+    "product_id": 12329,
+    "product_name": "크리스마스 장식 LED 가로등 높이 2.1M",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.10",
+        "to_date": "2026.11.13",
+        "normal_price": 189990,
+        "sale_price": 149990,
+        "discount": 40000
+      }
+    ]
+  },
+  "12327": {
+    "product_id": 12327,
+    "product_name": "크리스마스 장식 LED 북극곰 2개 / 1세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.10",
+        "to_date": "2026.11.13",
+        "normal_price": 249990,
+        "sale_price": 209990,
+        "discount": 40000
+      }
+    ]
+  },
+  "12331": {
+    "product_id": 12331,
+    "product_name": "크리스마스 장식 기프트 샵 높이 27CM",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.09",
+        "to_date": "2026.11.22",
+        "normal_price": 45990,
+        "sale_price": 25990,
+        "discount": 20000
+      }
+    ]
+  },
+  "12330": {
+    "product_id": 12330,
+    "product_name": "크리스마스 장식 눈사람 프로젝터 높이 26CM",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.10",
+        "to_date": "2026.11.13",
+        "normal_price": 19990,
+        "sale_price": 14990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12328": {
+    "product_id": 12328,
+    "product_name": "크리스마스 장식 회전 오너먼트 높이 1.6M",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "occurrences": [
+      {
+        "version": "2026-11-09",
+        "from_date": "2026.11.10",
+        "to_date": "2026.11.13",
+        "normal_price": 289990,
+        "sale_price": 229990,
+        "discount": 60000
       }
     ]
   }
