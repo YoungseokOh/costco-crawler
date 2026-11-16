@@ -183761,5 +183761,600 @@
         "discount": 3000
       }
     ]
+  },
+  "12333": {
+    "product_id": 12333,
+    "product_name": "LOOPLOOP 고속 충전케이블 3개",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 33990,
+        "sale_price": 26990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12355": {
+    "product_id": 12355,
+    "product_name": "포크립 돈육원산지 : 미국 KG당단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 30990,
+        "sale_price": 25990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12356": {
+    "product_id": 12356,
+    "product_name": "플레인 사워도우번 PLAIN SOURDOUGH BUN 10CT/PACK",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 9990,
+        "sale_price": 7990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12365": {
+    "product_id": 12365,
+    "product_name": "BIFFI 페스토 소스 700G원산지 이탈리아",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.17",
+        "normal_price": 12490,
+        "sale_price": 9690,
+        "discount": 2800
+      }
+    ]
+  },
+  "12360": {
+    "product_id": 12360,
+    "product_name": "삼양 우지 짜르르 라면 140G X 16",
+    "category_name": "가공식품",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.12.02",
+        "normal_price": 16990,
+        "sale_price": 14990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12358": {
+    "product_id": 12358,
+    "product_name": "예인수산 국물용 다시팩 17G X 30개",
+    "category_name": "가공식품",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 16490,
+        "sale_price": 13990,
+        "discount": 2500
+      }
+    ]
+  },
+  "12366": {
+    "product_id": 12366,
+    "product_name": "풀무원 진한콩 두부 380G X 2",
+    "category_name": "가공식품",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 3190,
+        "sale_price": 2590,
+        "discount": 600
+      }
+    ]
+  },
+  "12361": {
+    "product_id": 12361,
+    "product_name": "QUAKER 멀티그레인오트밀 30G X 18",
+    "category_name": "음료,주류",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 8990,
+        "sale_price": 7190,
+        "discount": 1800
+      }
+    ]
+  },
+  "12364": {
+    "product_id": 12364,
+    "product_name": "프릭쇼 까베르네 쇼비뇽 750ML",
+    "category_name": "음료,주류",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 25990,
+        "sale_price": 21990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12362": {
+    "product_id": 12362,
+    "product_name": "쌍계 율무호박팥차 1.5G X 110",
+    "category_name": "커피,차",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 9990,
+        "sale_price": 8490,
+        "discount": 1500
+      }
+    ]
+  },
+  "12357": {
+    "product_id": 12357,
+    "product_name": "신라명과 에브리띵 크룽지 25G X 13",
+    "category_name": "과자,간식",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.11.22",
+        "normal_price": 12990,
+        "sale_price": 10990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12367": {
+    "product_id": 12367,
+    "product_name": "LG OLED TV 55형 138CM",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 1699000,
+        "sale_price": 1299000,
+        "discount": 400000
+      }
+    ]
+  },
+  "12334": {
+    "product_id": 12334,
+    "product_name": "다이슨 에어랩 오리진 플러스 블루/코퍼",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.11.22",
+        "normal_price": 519900,
+        "sale_price": 479900,
+        "discount": 40000
+      }
+    ]
+  },
+  "12336": {
+    "product_id": 12336,
+    "product_name": "AONIJIE 러닝 베스트 플라스크 포함",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12368": {
+    "product_id": 12368,
+    "product_name": "BENETTE 여성 부클 베스트 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.12.13",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12354": {
+    "product_id": 12354,
+    "product_name": "BENETTE 여성 울캐시스웨터 S,M ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.12.13",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12351": {
+    "product_id": 12351,
+    "product_name": "COLUMBIA 여성 플리스하프집 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.12.11",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12344": {
+    "product_id": 12344,
+    "product_name": "DEARFOAMS 여성 클로그 S,M,L US SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12343": {
+    "product_id": 12343,
+    "product_name": "HLB제약 PDRN 다이렉트플러스 60매",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12349": {
+    "product_id": 12349,
+    "product_name": "JEAN MICHEL BASQUIAT 아동 후드티 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.12.06",
+        "normal_price": 17490,
+        "sale_price": 13490,
+        "discount": 4000
+      }
+    ]
+  },
+  "12348": {
+    "product_id": 12348,
+    "product_name": "JEEP 남성 스웨트 팬츠 M,L,XL,XXL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.12.06",
+        "normal_price": 28990,
+        "sale_price": 22990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12347": {
+    "product_id": 12347,
+    "product_name": "JILL BY JILLSTUART 아동 울양말6족 S, M, L",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.12.06",
+        "normal_price": 12990,
+        "sale_price": 9490,
+        "discount": 3500
+      }
+    ]
+  },
+  "12346": {
+    "product_id": 12346,
+    "product_name": "KHOMBU 여성 털 부츠 230 - 250MM SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 37990,
+        "sale_price": 29990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12353": {
+    "product_id": 12353,
+    "product_name": "NEPA KIDS 다운 재킷 130 - 160 ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 89990,
+        "sale_price": 71990,
+        "discount": 18000
+      }
+    ]
+  },
+  "12345": {
+    "product_id": 12345,
+    "product_name": "PUMA 성인 운동화 230 - 285MM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.12.06",
+        "normal_price": 41990,
+        "sale_price": 33490,
+        "discount": 8500
+      }
+    ]
+  },
+  "12350": {
+    "product_id": 12350,
+    "product_name": "SOLEZIA 여성 울100_니트 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.12.11",
+        "normal_price": 36990,
+        "sale_price": 29490,
+        "discount": 7500
+      }
+    ]
+  },
+  "12363": {
+    "product_id": 12363,
+    "product_name": "SUNSWEET 프룬주스 1.89L X 2",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 18990,
+        "sale_price": 16690,
+        "discount": 2300
+      }
+    ]
+  },
+  "12352": {
+    "product_id": 12352,
+    "product_name": "SUPERIOR 여성 융기모 골프 팬츠 28-34 ASIAN",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.12.13",
+        "normal_price": 44990,
+        "sale_price": 35990,
+        "discount": 9000
+      }
+    ]
+  },
+  "12337": {
+    "product_id": 12337,
+    "product_name": "ADIDAS 무릎 보호대 2개",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12335": {
+    "product_id": 12335,
+    "product_name": "VOLVIK 파크골프 세트",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 299990,
+        "sale_price": 259990,
+        "discount": 40000
+      }
+    ]
+  },
+  "12341": {
+    "product_id": 12341,
+    "product_name": "LOREAL 로레알 맨 엑스퍼트 파워 워터로션 120ML X 2",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 22990,
+        "sale_price": 17990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12342": {
+    "product_id": 12342,
+    "product_name": "덴프스 덴마크유산균이야기+ 170MG X 50캡슐",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12339": {
+    "product_id": 12339,
+    "product_name": "LEGO KPOP DEMON HUNTE RS 호랑이 더피와 까치 서씨 #72537",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.11.22",
+        "normal_price": 97990,
+        "sale_price": 77990,
+        "discount": 20000
+      }
+    ]
+  },
+  "12340": {
+    "product_id": 12340,
+    "product_name": "디즈니 DISNEY 키링 3개 세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.12.13",
+        "normal_price": 19990,
+        "sale_price": 14990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12338": {
+    "product_id": 12338,
+    "product_name": "뽀롱뽀롱 뽀로로 반창고 스티커 메디컬 세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "occurrences": [
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.11.29",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
   }
 }
