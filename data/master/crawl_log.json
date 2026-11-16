@@ -1,24 +1,24 @@
 {
   "last_notice_hash": "a574902c60997af282d2ab3bde82b2fd",
-  "last_crawl_at": "2026-11-16T07:09:50.292803",
-  "products_count": 461,
-  "last_catalog_hash": "33b3d7b3577094a068efe92601f8e781448658ee7170f37794b4f08ee7a14220",
-  "last_catalog_count": 461,
+  "last_crawl_at": "2026-11-16T13:13:27.669625",
+  "products_count": 469,
+  "last_catalog_hash": "52fc848343210d2f61bb575006b7637a9439c24b7ba1f84caedf0ed7e6548cd7",
+  "last_catalog_count": 469,
   "check_reason": "catalog_changed",
-  "last_check_at": "2026-11-16T07:09:50.292803",
+  "last_check_at": "2026-11-16T13:13:27.669625",
   "last_min_from_date": "2026-05-04",
   "last_category_counts": {
-    "7": 31,
-    "9": 68,
-    "10": 52,
-    "11": 36,
+    "7": 32,
+    "9": 69,
+    "10": 55,
+    "11": 37,
     "8": 7,
     "12": 21,
-    "1": 36,
-    "2": 53,
+    "1": 35,
+    "2": 54,
     "3": 46,
-    "4": 31,
+    "4": 32,
     "5": 57,
-    "6": 23
+    "6": 24
   }
 }

@@ -12399,7 +12399,7 @@
     "product_name": "리챔 오리지널 2.22KG",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -12648,6 +12648,14 @@
         "normal_price": 24990,
         "sale_price": 19990,
         "discount": 5000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
+        "normal_price": 24990,
+        "sale_price": 21990,
+        "discount": 3000
       }
     ]
   },
@@ -17549,7 +17557,7 @@
     "product_name": "햇반 솥반 꿀약밥 210G X 6",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -17806,6 +17814,14 @@
         "normal_price": 14990,
         "sale_price": 12990,
         "discount": 2000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 14990,
+        "sale_price": 12990,
+        "discount": 2000
       }
     ]
   },
@@ -17814,7 +17830,7 @@
     "product_name": "햇반 쌀눈가득 쌀밥 210G X 18",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -17935,6 +17951,14 @@
         "normal_price": 22490,
         "sale_price": 19490,
         "discount": 3000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
+        "normal_price": 22990,
+        "sale_price": 20490,
+        "discount": 2500
       }
     ]
   },
@@ -29597,7 +29621,7 @@
     "product_name": "라브아캡슐세제 아이리스 & 피오니 60개",
     "category_name": "주방,욕실",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -29675,6 +29699,14 @@
         "version": "2026-10-12",
         "from_date": "2026.10.12",
         "to_date": "2026.10.18",
+        "normal_price": 26490,
+        "sale_price": 20990,
+        "discount": 5500
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
         "normal_price": 26490,
         "sale_price": 20990,
         "discount": 5500
@@ -57836,12 +57868,20 @@
     "product_name": "꼬막 비빔밥",
     "category_name": "신선식품,빵",
     "first_seen": "2026-03-02",
-    "last_seen": "2026-03-02",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-03-02",
         "from_date": "2026.03.02",
         "to_date": "2026.03.08",
+        "normal_price": 0,
+        "sale_price": 0,
+        "discount": 3000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.29",
         "normal_price": 0,
         "sale_price": 0,
         "discount": 3000
@@ -120662,7 +120702,7 @@
     "product_name": "분다버그 트로피칼 망고 375ML X 12병",
     "category_name": "음료,주류",
     "first_seen": "2026-04-27",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-04-27",
@@ -120708,6 +120748,14 @@
         "version": "2026-10-12",
         "from_date": "2026.10.12",
         "to_date": "2026.10.18",
+        "normal_price": 24990,
+        "sale_price": 20990,
+        "discount": 4000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
         "normal_price": 24990,
         "sale_price": 20990,
         "discount": 4000
@@ -133538,7 +133586,7 @@
     "product_name": "수라청 부침용 두부 420G X 2 국산콩사용",
     "category_name": "냉장,냉동",
     "first_seen": "2026-05-25",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-05-25",
@@ -133552,6 +133600,14 @@
         "version": "2026-09-14",
         "from_date": "2026.09.14",
         "to_date": "2026.09.20",
+        "normal_price": 5690,
+        "sale_price": 4690,
+        "discount": 1000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
         "normal_price": 5690,
         "sale_price": 4690,
         "discount": 1000
@@ -137321,7 +137377,7 @@
     "product_name": "파이어폭스 바비큐 숯 10KG",
     "category_name": "생활용품",
     "first_seen": "2026-06-01",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-06-01",
@@ -137375,6 +137431,14 @@
         "version": "2026-11-02",
         "from_date": "2026.11.02",
         "to_date": "2026.11.08",
+        "normal_price": 26990,
+        "sale_price": 21490,
+        "discount": 5500
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.11.22",
         "normal_price": 26990,
         "sale_price": 21490,
         "discount": 5500
@@ -171689,7 +171753,7 @@
     "product_name": "DIADORA 남성 구동화 260 - 280MM SIZE",
     "category_name": "의류,잡화",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-09-28",
@@ -171722,6 +171786,14 @@
         "normal_price": 44970,
         "sale_price": 32970,
         "discount": 12000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.16",
+        "to_date": "2026.12.06",
+        "normal_price": 44970,
+        "sale_price": 30970,
+        "discount": 14000
       }
     ]
   },
@@ -178829,7 +178901,7 @@
     "product_name": "크리스마스 장식 LED 대형 리본 높이 122CM",
     "category_name": "공구,문구",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "occurrences": [
       {
         "version": "2026-10-26",
@@ -178845,6 +178917,14 @@
         "to_date": "2026.11.08",
         "normal_price": 144990,
         "sale_price": 114990,
+        "discount": 30000
+      },
+      {
+        "version": "2026-11-16",
+        "from_date": "2026.11.14",
+        "to_date": "2026.11.22",
+        "normal_price": 149990,
+        "sale_price": 119990,
         "discount": 30000
       }
     ]
