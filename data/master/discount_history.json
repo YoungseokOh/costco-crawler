@@ -17660,7 +17660,7 @@
     "product_name": "햇반 서리태 흑미밥 210G X 18",
     "category_name": "가공식품",
     "first_seen": "2026-02-23",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-02-23",
@@ -17882,6 +17882,14 @@
         "version": "2026-11-16",
         "from_date": "2026.11.16",
         "to_date": "2026.11.22",
+        "normal_price": 25790,
+        "sale_price": 22990,
+        "discount": 2800
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
         "normal_price": 25790,
         "sale_price": 22990,
         "discount": 2800
@@ -76085,7 +76093,7 @@
     "product_name": "다담 된장찌개 양념 840G X 2",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -76219,6 +76227,14 @@
         "version": "2026-11-16",
         "from_date": "2026.11.16",
         "to_date": "2026.11.22",
+        "normal_price": 13990,
+        "sale_price": 11490,
+        "discount": 2500
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
         "normal_price": 13990,
         "sale_price": 11490,
         "discount": 2500
@@ -84701,7 +84717,7 @@
     "product_name": "CJ 아이시안 루테인지아잔틴 120캡슐",
     "category_name": "건강,미용",
     "first_seen": "2026-03-16",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-03-16",
@@ -84795,6 +84811,14 @@
         "version": "2026-10-19",
         "from_date": "2026.10.08",
         "to_date": "2026.10.25",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
         "normal_price": 29990,
         "sale_price": 23990,
         "discount": 6000
@@ -105493,7 +105517,7 @@
     "product_name": "존쿡델리미트 트러플잠봉슬라이스 250G X 2",
     "category_name": "냉장,냉동",
     "first_seen": "2026-03-30",
-    "last_seen": "2026-06-08",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-03-30",
@@ -105523,6 +105547,14 @@
         "version": "2026-06-08",
         "from_date": "2026.06.08",
         "to_date": "2026.06.09",
+        "normal_price": 14990,
+        "sale_price": 11990,
+        "discount": 3000
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
         "normal_price": 14990,
         "sale_price": 11990,
         "discount": 3000
@@ -113933,7 +113965,7 @@
     "product_name": "자미에슨츄어블 비타민 B 92정",
     "category_name": "건강,미용",
     "first_seen": "2026-04-13",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-04-13",
@@ -113995,6 +114027,14 @@
         "version": "2026-10-12",
         "from_date": "2026.10.05",
         "to_date": "2026.10.18",
+        "normal_price": 25990,
+        "sale_price": 19490,
+        "discount": 6500
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
         "normal_price": 25990,
         "sale_price": 19490,
         "discount": 6500
@@ -122655,7 +122695,7 @@
     "product_name": "옐로우테일 까베르네 쇼비뇽 750ML",
     "category_name": "음료,주류",
     "first_seen": "2026-04-27",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-04-27",
@@ -122765,6 +122805,14 @@
         "version": "2026-11-16",
         "from_date": "2026.10.29",
         "to_date": "2026.11.22",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.20",
         "normal_price": 12990,
         "sale_price": 9990,
         "discount": 3000
@@ -155297,7 +155345,7 @@
     "product_name": "KIRKLAND SIGNATURE 엑스트라버진올리브유 2L (이탈리아)",
     "category_name": "가공식품",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-07-13",
@@ -155327,6 +155375,14 @@
         "version": "2026-10-05",
         "from_date": "2026.10.05",
         "to_date": "2026.10.06",
+        "normal_price": 32990,
+        "sale_price": 29990,
+        "discount": 3000
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
         "normal_price": 32990,
         "sale_price": 29990,
         "discount": 3000
@@ -182016,7 +182072,7 @@
     "product_name": "크리스마스 트리 LED 전구 포함 높이 1.9M",
     "category_name": "공구,문구",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-10-26",
@@ -182041,6 +182097,14 @@
         "normal_price": 419990,
         "sale_price": 299990,
         "discount": 120000
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 419990,
+        "sale_price": 319990,
+        "discount": 100000
       }
     ]
   },
@@ -188592,6 +188656,23 @@
         "normal_price": 23990,
         "sale_price": 19490,
         "discount": 4500
+      }
+    ]
+  },
+  "8848": {
+    "product_id": 8848,
+    "product_name": "DENBY 덴비 디너웨어세트 11P 영국산",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 109900,
+        "sale_price": 86900,
+        "discount": 23000
       }
     ]
   }
