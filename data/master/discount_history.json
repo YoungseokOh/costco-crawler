@@ -188675,5 +188675,600 @@
         "discount": 23000
       }
     ]
+  },
+  "12413": {
+    "product_id": 12413,
+    "product_name": "모둠샌드위치 KG당단가",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.26",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12414": {
+    "product_id": 12414,
+    "product_name": "피치애플 (2.5KG) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 22990,
+        "sale_price": 19990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12419": {
+    "product_id": 12419,
+    "product_name": "BBQ 원봉아메리칸핫소스 1050G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 18990,
+        "sale_price": 15990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12420": {
+    "product_id": 12420,
+    "product_name": "BBQ 원봉파마산갈릭 1050G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 18990,
+        "sale_price": 15990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12421": {
+    "product_id": 12421,
+    "product_name": "BBQ 윙봉레몬페퍼 1050G",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 18990,
+        "sale_price": 15990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12415": {
+    "product_id": 12415,
+    "product_name": "SPRAGUE 트리플 빈 칠리 425G X 8",
+    "category_name": "가공식품",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 18990,
+        "sale_price": 15990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12418": {
+    "product_id": 12418,
+    "product_name": "BALANCE GROW 청귤캐모마일티 230ML X 10",
+    "category_name": "커피,차",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 8990,
+        "sale_price": 7190,
+        "discount": 1800
+      }
+    ]
+  },
+  "12417": {
+    "product_id": 12417,
+    "product_name": "불가리스 요거트 파우더 20G X 50",
+    "category_name": "커피,차",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 11990,
+        "sale_price": 9990,
+        "discount": 2000
+      }
+    ]
+  },
+  "12416": {
+    "product_id": 12416,
+    "product_name": "MISURA 통밀 크래커 1,540G / 385G X 4",
+    "category_name": "과자,간식",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 17990,
+        "sale_price": 14990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12393": {
+    "product_id": 12393,
+    "product_name": "ARTIKA LED 조명 씰링팬",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 149990,
+        "sale_price": 117990,
+        "discount": 32000
+      }
+    ]
+  },
+  "12391": {
+    "product_id": 12391,
+    "product_name": "GEEK 긱 5구 히터 SGH-6105W",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 299990,
+        "sale_price": 239990,
+        "discount": 60000
+      }
+    ]
+  },
+  "12390": {
+    "product_id": 12390,
+    "product_name": "MARSHALL 블루투스 헤드폰 메이저 5",
+    "category_name": "디지털,가전",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.31",
+        "normal_price": 159900,
+        "sale_price": 127900,
+        "discount": 32000
+      }
+    ]
+  },
+  "12392": {
+    "product_id": 12392,
+    "product_name": "윤도자기 모락 찜기 5P 650ML, 1200ML,채반",
+    "category_name": "주방,욕실",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 39990,
+        "sale_price": 31990,
+        "discount": 8000
+      }
+    ]
+  },
+  "12406": {
+    "product_id": 12406,
+    "product_name": "ANDREA VANNA 울 후드머플러 FREE 사이즈",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.13",
+        "normal_price": 59990,
+        "sale_price": 47990,
+        "discount": 12000
+      }
+    ]
+  },
+  "12408": {
+    "product_id": 12408,
+    "product_name": "BONISPAX 여성 덕다운 자켓 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.20",
+        "normal_price": 119900,
+        "sale_price": 95900,
+        "discount": 24000
+      }
+    ]
+  },
+  "12411": {
+    "product_id": 12411,
+    "product_name": "COUNTRSS MARA 하이브리드다운재킷 S,M,L,XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 79990,
+        "sale_price": 63990,
+        "discount": 16000
+      }
+    ]
+  },
+  "12405": {
+    "product_id": 12405,
+    "product_name": "GRANDEUR 퀵드라이 바스타월 2P, 76X137CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.13",
+        "normal_price": 16990,
+        "sale_price": 13490,
+        "discount": 3500
+      }
+    ]
+  },
+  "12407": {
+    "product_id": 12407,
+    "product_name": "KIRKLAND SIGNATURE 박서브리프 4매 S,M,L,XL CUSTOM FIT",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12409": {
+    "product_id": 12409,
+    "product_name": "MOLLIOLLI 여성 인조퍼 자켓 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.20",
+        "normal_price": 69990,
+        "sale_price": 55990,
+        "discount": 14000
+      }
+    ]
+  },
+  "12403": {
+    "product_id": 12403,
+    "product_name": "PEANUTS 벨벳 담요 1P, 152X177CM",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 12490,
+        "sale_price": 9990,
+        "discount": 2500
+      }
+    ]
+  },
+  "12412": {
+    "product_id": 12412,
+    "product_name": "VINE 캐시미어 모크넥 S - XL ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 89990,
+        "sale_price": 70990,
+        "discount": 19000
+      }
+    ]
+  },
+  "12410": {
+    "product_id": 12410,
+    "product_name": "WEATHERPROOF VINTAGE 페어아일 스웨터 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.13",
+        "normal_price": 25990,
+        "sale_price": 19990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12404": {
+    "product_id": 12404,
+    "product_name": "BERKSHIRE 전기담요 127X152CM",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 34990,
+        "sale_price": 27990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12394": {
+    "product_id": 12394,
+    "product_name": "KOVEA 로스팅 플러스 가스토치",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.13",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12422": {
+    "product_id": 12422,
+    "product_name": "라브아 퍼퓸 실내탈취제 250G X 3",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 22490,
+        "sale_price": 18490,
+        "discount": 4000
+      }
+    ]
+  },
+  "12397": {
+    "product_id": 12397,
+    "product_name": "수선화 구근 7개/팩",
+    "category_name": "생활용품",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.14",
+        "to_date": "2026.12.06",
+        "normal_price": 12990,
+        "sale_price": 9990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12398": {
+    "product_id": 12398,
+    "product_name": "BEBESUP 베베숲 소프트페이스 타올 50매 X 4",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12388": {
+    "product_id": 12388,
+    "product_name": "JUNGSAEMMOOL 정샘물 스킨 누더 쿠션 14G + 리필 14G",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 36990,
+        "sale_price": 29490,
+        "discount": 7500
+      }
+    ]
+  },
+  "12400": {
+    "product_id": 12400,
+    "product_name": "LOREAL 로레알 헤어 밀크 90ML X 2개",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 24990,
+        "sale_price": 19990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12389": {
+    "product_id": 12389,
+    "product_name": "SENSODYNE센소다인 딥클린칫솔 24개입",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 28990,
+        "sale_price": 22990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12402": {
+    "product_id": 12402,
+    "product_name": "WEIDER웨이더 크레아틴 800G,레몬맛",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.11.29",
+        "normal_price": 29990,
+        "sale_price": 24990,
+        "discount": 5000
+      }
+    ]
+  },
+  "12399": {
+    "product_id": 12399,
+    "product_name": "ZIAJA 지아자 산양유 나이트크림 50ML X 4",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 15990,
+        "sale_price": 12490,
+        "discount": 3500
+      }
+    ]
+  },
+  "12401": {
+    "product_id": 12401,
+    "product_name": "프롬바이오 관절연골엔보스웰리아 850MG X 120정",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.20",
+        "to_date": "2026.12.06",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12396": {
+    "product_id": 12396,
+    "product_name": "크리스마스 장식 산타와 핫초코 2개 / 1세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 39990,
+        "sale_price": 29990,
+        "discount": 10000
+      }
+    ]
+  },
+  "12395": {
+    "product_id": 12395,
+    "product_name": "포켓몬 POKEMON 메타몽 3종 세트",
+    "category_name": "공구,문구",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.06",
+        "normal_price": 49990,
+        "sale_price": 39990,
+        "discount": 10000
+      }
+    ]
   }
 }
