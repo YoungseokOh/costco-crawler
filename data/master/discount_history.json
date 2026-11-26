@@ -159934,7 +159934,7 @@
     "product_name": "창 콤비 블라인드 125 X 240 CM",
     "category_name": "생활용품",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-08-03",
+    "last_seen": "2026-11-23",
     "occurrences": [
       {
         "version": "2026-07-20",
@@ -159956,6 +159956,14 @@
         "version": "2026-08-03",
         "from_date": "2026.07.20",
         "to_date": "2026.08.09",
+        "normal_price": 54900,
+        "sale_price": 43900,
+        "discount": 11000
+      },
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.23",
+        "to_date": "2026.12.13",
         "normal_price": 54900,
         "sale_price": 43900,
         "discount": 11000
@@ -189465,6 +189473,227 @@
       {
         "version": "2026-11-23",
         "from_date": "2026.11.24",
+        "to_date": "2026.12.06",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12427": {
+    "product_id": 12427,
+    "product_name": "모닝 고추 (400G) 원산지 : 국내산",
+    "category_name": "신선식품,빵",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.26",
+        "to_date": "2026.11.29",
+        "normal_price": 6990,
+        "sale_price": 5490,
+        "discount": 1500
+      }
+    ]
+  },
+  "12434": {
+    "product_id": 12434,
+    "product_name": "VOLTAN 염소치즈 & 어니언 라비올리 425G X 2",
+    "category_name": "냉장,냉동",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.24",
+        "to_date": "2026.12.06",
+        "normal_price": 19990,
+        "sale_price": 15990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12432": {
+    "product_id": 12432,
+    "product_name": "덕혼 포스트마크 소노마카운티샤도네이 750ML",
+    "category_name": "음료,주류",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.25",
+        "to_date": "2026.12.27",
+        "normal_price": 23990,
+        "sale_price": 19990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12431": {
+    "product_id": 12431,
+    "product_name": "메사 프리모스쿠로 칸노나우 750ML",
+    "category_name": "음료,주류",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.24",
+        "to_date": "2026.11.30",
+        "normal_price": 18990,
+        "sale_price": 14990,
+        "discount": 4000
+      }
+    ]
+  },
+  "12433": {
+    "product_id": 12433,
+    "product_name": "폰 불 리슬링 트로켄 750ML",
+    "category_name": "음료,주류",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.24",
+        "to_date": "2026.12.20",
+        "normal_price": 29990,
+        "sale_price": 19990,
+        "discount": 10000
+      }
+    ]
+  },
+  "12429": {
+    "product_id": 12429,
+    "product_name": "KITKAT 말차 782G / 17G X 46",
+    "category_name": "과자,간식",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.24",
+        "to_date": "2026.11.29",
+        "normal_price": 19990,
+        "sale_price": 16990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12430": {
+    "product_id": 12430,
+    "product_name": "TROLLI 크리스마스캘린더 908.4G",
+    "category_name": "과자,간식",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.25",
+        "to_date": "2026.12.06",
+        "normal_price": 21990,
+        "sale_price": 18990,
+        "discount": 3000
+      }
+    ]
+  },
+  "12428": {
+    "product_id": 12428,
+    "product_name": "WAFFLEMEISTER 벨기에 와플 90G X 28",
+    "category_name": "과자,간식",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.26",
+        "to_date": "2026.12.06",
+        "normal_price": 29990,
+        "sale_price": 23990,
+        "discount": 6000
+      }
+    ]
+  },
+  "12424": {
+    "product_id": 12424,
+    "product_name": "FILA 여성 웰론 패딩 S,M,L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.26",
+        "to_date": "2026.12.20",
+        "normal_price": 89990,
+        "sale_price": 71990,
+        "discount": 18000
+      }
+    ]
+  },
+  "12426": {
+    "product_id": 12426,
+    "product_name": "GUESS 여성 플리스 집업 S,M ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.24",
+        "to_date": "2026.12.20",
+        "normal_price": 34970,
+        "sale_price": 27970,
+        "discount": 7000
+      }
+    ]
+  },
+  "12425": {
+    "product_id": 12425,
+    "product_name": "JUICY COUTURE 여성 다운 베스트 S/M,M/L ASIAN SIZE",
+    "category_name": "의류,잡화",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.25",
+        "to_date": "2026.12.27",
+        "normal_price": 66900,
+        "sale_price": 52900,
+        "discount": 14000
+      }
+    ]
+  },
+  "12435": {
+    "product_id": 12435,
+    "product_name": "PURETEIN 퓨어틴 프로틴 커피쉐이크 330ML X 12팩",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.25",
+        "to_date": "2026.11.29",
+        "normal_price": 33990,
+        "sale_price": 26990,
+        "discount": 7000
+      }
+    ]
+  },
+  "12423": {
+    "product_id": 12423,
+    "product_name": "황성주박사의 1일1프로틴블랙 50G X 10개",
+    "category_name": "건강,미용",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "occurrences": [
+      {
+        "version": "2026-11-23",
+        "from_date": "2026.11.26",
         "to_date": "2026.12.06",
         "normal_price": 19990,
         "sale_price": 15990,
